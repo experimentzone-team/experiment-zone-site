@@ -1,4 +1,4 @@
-baseurl: "ExperimentZoneSite"
+baseurl: ""
 exclude: ["README.md"]
 permalink: pretty
 title: "Experiment Zone"
