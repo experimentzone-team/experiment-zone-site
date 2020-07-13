@@ -106,3 +106,5 @@ params:
     button_text: Visit
 plugins:
   - jekyll-environment-variables
+
+theme: jekyll-theme-cayman
