@@ -1,0 +1,38 @@
+---
+layout: default
+body_classes: page-work-single
+header_classes:
+---
+
+{% include hero-image.html
+background=page.heroBackground
+fullscreen=page.heroFullscreen
+height=page.heroHeight
+heading=page.title
+subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay
+diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill
+%}
+
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="work work-single">
+        <div class="content">{{page.content}}</div>
+      </div>
+    </div>
+    {% if page.images %}
+    <div class="col-12 pt-4 pt-md-10">
+      <h2 class="mb-2 text-uppercase">Gallery</h2>
+      <div class="masonry">
+        {% for image in page.images %}
+        <div class="work-image item">
+          <img src="{{ image | relative_url }}" />
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>

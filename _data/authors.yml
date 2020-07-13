@@ -1,0 +1,10 @@
+sage_kirk:
+  title: 'Sage Kirk'
+  name: 'Sage Kirk'
+  image: 'assets/images/team/rawpixel-330235-unsplash.jpg'
+  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.'
+michael_henderson:
+  title: 'Michael Henderson'
+  name: 'Michael Henderson'
+  image: 'assets/images/team/joseph-gonzalez-399972-unsplash.jpg'
+  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.'

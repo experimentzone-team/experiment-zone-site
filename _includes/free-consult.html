@@ -1,0 +1,15 @@
+<div class="strip strip-secondary">
+  <div class="container pt-6 pb-6">
+    <div class="row justify-content-between">
+      <div class="col text-center">
+        <h2 class="text-white d-block">{{ include.heading }}</h2>
+        <h3 class="text-white d-block">{{ include.subheading }}</h3>
+        <a
+          href="{{ include.button_url | relative_url }}"
+          class="button button-white mt-1"
+          >{{ include.button_text }}</a
+        >
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,39 @@
+---
+layout: default
+title: Explore our Portfolio
+subtitle: Our portfolio showcases our most recent client work across all disciplines.
+body_classes: page-work-list
+---
+
+<div class="intro intro-big">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.subtitle }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="grid pb-md-10">
+  <div class="grid-sizer"></div>
+  {% for work in site.work %}
+  <div class="grid-item">
+    <div class="work work-masonry">
+      {% if work.image %}
+      <div class="work-image">
+        <a href="{{ work.url | relative_url}}"><img src="{{work.image | relative_url}}" /></a>
+      </div>
+      {% endif %}
+      <a href="{{ work.url | relative_url}}" class="work-overlay">
+        <h2>{{ work.title }}</h2>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/libs/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/libs/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/pages/work.js"></script>

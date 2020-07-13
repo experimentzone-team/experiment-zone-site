@@ -1,0 +1,108 @@
+baseurl: ""
+exclude: ["README.md"]
+permalink: pretty
+title: "Experiment Zone"
+collections_dir: collections
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compact # possible values: nested expanded compact compressed
+
+collections:
+  services:
+    output: true
+    permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
+
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+  - scope:
+      type: work
+    values:
+      layout: work
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: "images"
+    values:
+      image: true
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
+
+params:
+  google_analytics_id: ""
+  global:
+    header_fixed: true
+  footer:
+    show_menu_footer_primary: true
+    show_menu_footer_secondary: true
+    show_services_links: true
+    show_work_links: true
+  homepage:
+    show_services_section: true
+    services_count: 6
+    show_splash_section_one: true
+    splash_one_image: assets/images/undraw_post_online_dkuk.svg
+    splash_one_heading:
+    splash_one_paragraph:
+    splash_one_link_url: work
+    splash_one_link_text: Our Work
+    # splash two
+    show_splash_section_two: true
+    splash_two_image: assets/images/Susan-Katz-EZ.jpeg
+    splash_two_heading: Testimonials
+    splash_two_paragraph: The team uncovered and solved a real challenge for our mobile customers, ultimately making our customer experience more user friendly (and profitable!)<br><br><b>Susan Katz<b><br>Head Of Marketing At SkinActives, LLC
+    splash_two_link_url: work
+    splash_two_link_text: Our Work
+    show_partners: true
+    show_work_section: true
+    work_section_heading: Our Work
+    work_count: 2
+    show_view_all_work_button: true
+  services:
+    show_features: true
+    show_splash_one_section: true
+    splash_one_background_image: assets/images/kaleidico-754543-unsplash.jpg
+    splash_one_heading: We build great software
+    splash_one_paragraph:
+      Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus
+      oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea
+      duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam
+      aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat
+      assueverit.
+  contact_cta:
+    heading: Ready to get started?
+    subheading: Get in touch and get a quote.
+    button_url: contact
+    button_text: Contact us
+  page_teardown_cta:
+    heading: Get 4-5 piece of actionable advice to improve the conversion of your page!
+    subheading: Sign up and receive an email with free personalized actionable tips for your webpage.
+  free_consult_cta:
+    heading: You Can Get More Revenue From Your Website
+    subheading: With Help From Our Team Of Experts.<br>Get Your Free 1-Hour Consult Now.
+    button_url: https://calendly.com/experimentzone/free-audit
+    button_text: Book Free Consult
+  GTE_site_cta:
+    heading: Visit our Podcast
+    subheading: Growth Through Empathy<br>Gain more customers by leveraging empathy
+    button_url: http://growththroughempathy.com/
+    button_text: Visit
+plugins:
+  - jekyll-environment-variables

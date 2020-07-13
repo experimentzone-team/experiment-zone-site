@@ -1,0 +1,48 @@
+main:
+  - name: Services
+    url: /services/
+    weight: 1
+  - name: Work
+    url: /work/skin_actives/
+    weight: 2
+  # # - name: Team
+  # #   url: /team/
+  #   weight: 3
+  - name: Blog
+    url: /blog/
+    weight: 3
+  - name: About
+    url: /about/
+    weight: 4
+  - name: Contact
+    url: /contact/
+    weight: 5
+footer_primary:
+  - name: Home
+    url: /
+    weight: 1
+  - name: Services
+    url: /services/
+    weight: 2
+  - name: Work
+    url: /work/
+    weight: 3
+  # - name: Team
+  #   url: /team/
+  #   weight: 4
+  - name: Blog
+    url: /posts/
+    weight: 4
+  - name: About
+    url: /about/
+    weight: 5
+  - name: Contact
+    url: /contact/
+    weight: 6
+footer_secondary:
+  - name: Privacy Policy
+    url: /privacy/
+    weight: 1
+  - name: Icons from icons8.com
+    url: https://icons8.com/icon/
+    weight: 2

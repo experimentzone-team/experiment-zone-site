@@ -1,0 +1,21 @@
+[{
+    "title": "Netflix",
+    "image": "assets/images/partners/netflix.svg"
+  },
+  {
+    "title": "Android",
+    "image": "assets/images/partners/android.svg"
+  },
+  {
+    "title": "Slack",
+    "image": "assets/images/partners/slack.svg"
+  },
+  {
+    "title": "Algolia",
+    "image": "assets/images/partners/algolia.svg"
+  },
+  {
+    "title": "Github",
+    "image": "assets/images/partners/github.svg"
+  }
+]

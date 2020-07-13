@@ -1,0 +1,29 @@
+---
+layout: default
+body_classes: page-posts-single
+header_classes: header-transparent
+---
+
+{% include hero-image.html
+background=page.heroBackground
+fullscreen=page.heroFullscreen
+height=page.heroHeight
+heading=page.title
+subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay
+diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill
+%}
+
+<div class="strip strip-white">
+  <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 col-lg-9">
+        <div class="post post-single">
+          {% include post-author.html author=page.author date=page.date %}
+          <div class="content">{{ content }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

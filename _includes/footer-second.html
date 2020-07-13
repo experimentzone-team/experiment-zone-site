@@ -1,0 +1,43 @@
+<div class="footer-second">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-second-menu font-weight-normal">
+          <div class="row">
+            {% if site.params.footer.show_menu_footer_primary %}
+            <div class="col-12 col-md-3">
+              <h3>Site</h3>
+              {% include menu-footer-primary.html %}
+            </div>
+            {% endif %} {% assign services = site.services | sort: 'date' %} {%
+            if services.size > 0 and site.params.footer.show_services_links %}
+            <div class="col-12 col-md-3">
+              <h3>Services</h3>
+              <ul>
+                {% for service in services limit:4 %}
+                <li><a href="{{ service.url }}">{{ service.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %} {% assign works = site.work | sort: 'date' %} {% if
+            works.size > 0 and site.params.footer.show_work_links %}
+            <div class="col-12 col-md-3">
+              <h3>Work</h3>
+              <ul>
+                {% for work in works limit:4 %}
+                <li><a href="{{ work.url }}">{{ work.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %} {% if site.params.footer.show_menu_footer_secondary %}
+            <div class="col-12 col-md-3">
+              <h3>Support</h3>
+              {% include menu-footer-secondary.html %}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

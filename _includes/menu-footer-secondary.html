@@ -1,0 +1,7 @@
+<div class="menu-footer-secondary">
+  <ul>
+    {% for item in site.data.menu.footer_secondary %}
+    <li><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

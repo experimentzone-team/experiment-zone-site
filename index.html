@@ -1,0 +1,366 @@
+---
+layout: default
+title: Home
+body_classes: page-home
+header_classes: header-transparent
+heroHeading: 'Better Experiences,<br> More Revenue'
+heroSubHeading: 'Unlock more value from your website by optimizing your user experience'
+heroBackground: ''
+heroBackgroundOverlay: false
+heroHeight: 500
+heroDiagonal: true
+heroDiagonalFill: '#f4f5fb'
+meta_title: 'Experiment Zone'
+meta_description: 'Advance is a premium, multi-purpose Jekyll theme with four content types, advanced configuration and
+a stunning, responsive design.'
+meta_og_title: 'Experiment Zone'
+meta_og_type: website
+meta_og_url: 'https://jekyll-advance-pro.netlify.com'
+meta_og_image: 'https://www.zerostatic.io/theme/jekyll-advance-pro/tn.png'
+meta_og_description: 'Unlock more value from your website by optimizing your user experience'
+meta_twitter_card: summary
+meta_twitter_site: '@zerostaticio'
+meta_twitter_creator: '@zerostaticio'
+---
+
+<!-- Hero Image Partial-->
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill %}
+
+<div class="strip strip-grey">
+  <div class="container pt-5 pb-5 text-center">
+    <h1>
+      Why Experiment Zone?
+    </h1>
+    <h3>Learn More About Our Mission</h3>
+    <div class="row justify-content-center">
+      {% for feature in site.data.features %}
+      <div class="col-12 col-sm-4 col-md-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image">
+            <img
+              alt="{{ feature.title }} logo"
+              src="{{ feature.image | relative_url}}"
+            />
+          </div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <p>{{feature.description}}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Three Steps To Improving Conversion -->
+<div class="container mt-2 text-center">
+  <h3>Three Steps To Improving Conversion</h3>
+  <h1>Good User Experience Starts With GEM</h1>
+  <h4 class="mb-3">
+    Our three step process leads to customer centric experiences that drive more
+    revenue.
+  </h4>
+  <div class="row justify-content-between">
+    {% for step in site.data.steps %}
+    <div class="col-12 col-md-4 col-md-4 mb-2">
+      <div class="work work-summary p-2" style="align-items: center;">
+        {% if step.image %}
+        <div class="work-image text-center">
+          <a href="{{ step.url | relative_url}}"
+            ><img src="{{ step.image | relative_url}}"
+          /></a>
+        </div>
+        {% endif %}
+        <div>
+          <h2><a href="{{ step.url | relative_url}}">{{ step.title }}</a></h2>
+        </div>
+        {% if step.description %}
+        <div class="work-description p-2">
+          <p>{{ step.description }}</p>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Splash One -->
+
+<div class="strip strip-secondary pt-3 pb-3 splash splash-one">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-12 col-md-4">
+        <h3 class="text-white">Conversion Rate Optimization Services</h3>
+        <h2 class="text-white">Explore What We Are Doing Better</h2>
+        <p class="text-white">
+          Are you struggling with conversion rates on your website? We’re here
+          to help, no matter what stage you’re in.
+        </p>
+        <a
+        class="button d-none d-md-inline-block"
+        href="{{ 'services' | relative_url }}"
+        >
+        Services
+      </a>
+    </div>
+      <div class="col-md-7 mb-2">
+        <div class="container work-summary pt-2 pr-2 pl-2">
+          <div class="row">
+            {% for cro_service in site.data.cro_services %}
+            <div class="col-12 col-lg-6 mb-2">
+              <div class="work work-summary" style="align-items: center;">
+                {% if cro_service.image %}
+                <div class="work-image text-center">
+                  <a href="{{ cro_service.url | relative_url}}"
+                  ><img src="{{ cro_service.image | relative_url}}"
+                  /></a>
+                </div>
+                {% endif %}
+                <div>
+                  <h3><a href="{{ cro_service.url | relative_url}}">{{ cro_service.title }}</a></h3>
+                </div>
+                {% if cro_service.description %}
+                <div class="work-description pr-2 pl-2">
+                  <p>{{ cro_service.description }}</p>
+                </div>
+                {% endif %}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+<!-- Services -->
+{% assign services = site.services | where: "featured", true | sort:'weight' %}
+{% if services.size > 0 and site.params.homepage.show_services_section %}
+<div class="strip strip-grey pb-5 pt-5">
+  <div class="container d-none d-md-block">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <h2 class="text-center mb-3">Our Services</h2>
+      </div>
+      {% for service in services limit: 4%}
+      <div class="col-12 col-md-6 col-lg-6 mb-2">
+        <div class="service service-summary">
+          {% if service.icon %}
+          <div class="service-image">
+            <img src="{{service.icon | relative_url}}" />
+          </div>
+          {% endif %}
+          <div class="service-title">
+            <h2>
+              <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ service.description }}</p>
+          </div>
+          <div class="service-content">
+            {{ service.content | truncate: 120 }}
+          </div>
+          <div class="service-link">
+            <a class="service-read-more" href="{{ service.url | relative_url}}"
+              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      <div class="col-12 text-center">
+        <a
+          class="button button-primary text-center"
+          href="{{ 'services' | relative_url }}"
+          >View All Services</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="container d-block d-md-none">
+    <div class="row justify-content-start">
+      <div class="col-12">
+        <h2 class="text-center mb-3">Our Services</h2>
+      </div>
+    </div>
+    <div class="slider">
+      {% for service in services %}
+      <div class="service service-summary">
+        {% if service.icon %}
+        <div class="service-image">
+          <img src="{{service.icon | relative_url}}" />
+        </div>
+        {% endif %}
+        <div class="service-title">
+          <h2>
+            <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
+          </h2>
+        </div>
+        <div class="service-description">
+          <p>{{ service.description }}</p>
+        </div>
+        <div class="service-content">{{ service.content | truncate: 180 }}</div>
+        <div class="service-link">
+          <a class="service-read-more" href="{{ service.url | relative_url}}"
+            >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+          ></a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-12 text-center">
+        <a
+          class="button button-primary mt-2"
+          href="{{ 'services' | relative_url }}"
+          >View All Services</a
+        >
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% include free-consult.html
+  heading=site.params.free_consult_cta.heading
+  subheading=site.params.free_consult_cta.subheading
+  button_url=site.params.free_consult_cta.button_url
+  button_text=site.params.free_consult_cta.button_text
+  %}
+
+<!-- Splash Two -->
+{% if site.params.homepage.show_splash_section_two %}
+<div class="strip strip-white pt-3 pb-2 splash splash-one">
+  <div class="container">
+    <div class="row justify-content-center">
+      {% if site.params.homepage.splash_two_image %}
+      <div class="col-12 col-md-4">
+        <img class="img-fluid rounded-circle" src="{{ site.params.homepage.splash_two_image | relative_url }}" />
+      </div>
+      {% endif %}
+      <div class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %} offset-md-1">
+        {% if site.params.homepage.splash_two_heading %}
+        <h2>{{ site.params.homepage.splash_two_heading }}</h2>
+        {% endif %}
+        {% if site.params.homepage.splash_two_paragraph %}
+        <p>{{ site.params.homepage.splash_two_paragraph }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+<!-- Partners
+{% if site.data.partners.size > 0 and site.params.homepage.show_partners %}
+<div class="strip strip-white home-partners">
+  <div class="container pt-5 pt-md-10 pb-10">
+    <div class="row">
+      <div class="col-12">
+        <div class="partners">
+          {% for partner in site.data.partners %} {% if partner.image %}
+          <div class="partner">
+            <img
+              alt="{{ partner.title }} logo"
+              src="{{ partner.image | relative_url }}"
+            />
+          </div>
+          {% endif %} {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %} -->
+
+<!-- Work Section -->
+{% assign works = site.work | where: "featured", true | sort:'weight' %} {% if
+works.size > 0 and site.params.homepage.show_work_section %}
+<div class="home-work strip strip-grey">
+  <div class="container pt-10 pb-10">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-center mb-3">
+          {{ site.params.homepage.work_section_heading }}
+        </h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {% for work in works %}
+      <div class="col-12 col-md-6 mb-2">
+        <div class="work work-summary">
+          {% if work.image %}
+          <div class="work-image">
+            <a href="{{ work.url | relative_url}}"
+              ><img src="{{ work.image | relative_url}}"
+            /></a>
+          </div>
+          {% endif %}
+          <div class="work-title">
+            <h2><a href="{{ work.url | relative_url}}">{{ work.title }}</a></h2>
+          </div>
+          <div class="work-meta">
+            {% if work.clientName %}<span>{{work.clientName}}</span> | {% endif
+            %} {% if work.clientType %}<span>{{work.clientType}}</span>{% endif
+            %}
+          </div>
+          {% if work.description %}
+          <div class="work-description">
+            <p>{{ work.description }}</p>
+          </div>
+          {% endif %}
+          <div class="work-content">{{ work.content | truncate: 120 }}</div>
+          <div class="work-link">
+            <a class="work-read-more" href="{{ work.url | relative_url }}"
+              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+      <!-- {% endfor %} {% if site.params.homepage.show_view_all_work_button %}
+      <div class="col-12 pt-4 text-center">
+        <a class="button button-primary" href="{{ 'work' | relative_url }}"
+          >View All Work</a
+        >
+      </div>
+      {% endif %} -->
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="strip strip-secondary">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1000 100"
+    preserveAspectRatio="none"
+  >
+    <path class="svg-grey" d="M738,99l262-93V0H0v5.6L738,99z"></path>
+  </svg>
+</div>
+
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/slick.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/home.js"
+></script>
+
+{% include contact-cta.html
+  heading=site.params.contact_cta.heading
+  subheading=site.params.contact_cta.subheading
+  button_url=site.params.contact_cta.button_url
+  button_text=site.params.contact_cta.button_text
+  %}
