@@ -123,7 +123,20 @@ Want to give it a try? Sign up for a 30-day free trial today.
 
 What scoring model does your team use? Are we missing any from the list? Please leave a comment below.
 
-{% include page-teardown-cta.html
-heading=site.params.page_teardown_cta.heading
-subheading=site.params.page_teardown_cta.subheading
-%}
+<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
+  <div class="container justify-content-center">
+    <!-- <div class="row"> -->
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get future conversion rate tips send to your email.
+      </h2>
+      <div class="_form_11"></div>
+      <script
+        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
+        type="text/javascript"
+        charset="utf-8"
+      ></script>
+    </div>
+  </div>
+  <!-- </div> -->
+</div>

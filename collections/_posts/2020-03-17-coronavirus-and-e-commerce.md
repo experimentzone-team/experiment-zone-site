@@ -92,7 +92,24 @@ This is a rapidly evolving situation, so we’ll continue to post updates and re
 
 Need help navigating the situation? We’re offering free consultations for any businesses struggling during this time. Just send us a note at [team@experimentzone.com](mailto:team@experimentzone.com), and we will make time to talk about your challenges and concerns.
 
-{% include page-teardown-cta.html
+<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
+  <div class="container justify-content-center">
+    <!-- <div class="row"> -->
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get future conversion rate tips send to your email.
+      </h2>
+      <div class="_form_11"></div>
+      <script
+        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
+        type="text/javascript"
+        charset="utf-8"
+      ></script>
+    </div>
+  </div>
+  <!-- </div> -->
+</div>
+<!-- {% include page-teardown-cta.html
 heading=site.params.page_teardown_cta.heading
 subheading=site.params.page_teardown_cta.subheading
-%}
+%} -->

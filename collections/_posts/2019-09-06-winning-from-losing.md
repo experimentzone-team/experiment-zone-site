@@ -72,7 +72,20 @@ The qualitative data from a survey or from a usability study can answer why cust
 
 As a bonus, you may get some additional inspiration from your customers on what to do or test next! So don’t be discouraged by a losing A/B test – instead, lean in and understand what happened and what you can do in future tests.
 
-{% include page-teardown-cta.html
-heading=site.params.page_teardown_cta.heading
-subheading=site.params.page_teardown_cta.subheading
-%}
+<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
+  <div class="container justify-content-center">
+    <!-- <div class="row"> -->
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get future conversion rate tips send to your email.
+      </h2>
+      <div class="_form_11"></div>
+      <script
+        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
+        type="text/javascript"
+        charset="utf-8"
+      ></script>
+    </div>
+  </div>
+  <!-- </div> -->
+</div>

@@ -3,24 +3,28 @@
     "title": "Digital Strategy",
     "image": "assets/images/icons8-treasure-map-96.png",
     "description": "Unlock additional value from your website.",
-    "content": ""
+    "content": "",
+    "url": "/services/"
   },
   {
     "title": "A/B Testing",
     "image": "assets/images/icons8-pass-fail-96.png",
     "description": "Make data driven decisions with confidence.",
-    "content": ""
+    "content": "",
+    "url": "/services/cro/"
   },
   {
     "title": "User Research",
     "image": "assets/images/icons8-graph-report-96.png",
     "description": "Understand your customers and their pain points.",
-    "content": ""
+    "content": "",
+    "url": "/services/user-research-analytics/"
   },
   {
     "title": "Analytics",
     "image": "assets/images/services/icons8-google_analytics_logo.png",
     "description": "Track visitors behavior and uncover opportunities.",
-    "content": ""
+    "content": "",
+    "url": "/services/user-research-analytics/"
   }
 ]
