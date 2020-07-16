@@ -1,28 +1,28 @@
 // Font
-@import url('https://fonts.googleapis.com/css?family=Palanquin+Dark:400,500,700|Lato:400,700,900');
+@import url("https://fonts.googleapis.com/css?family=Palanquin+Dark:400,500,700|Lato:400,700,900");
 
 // Variables
-$primary: #1c3ed3;
-$secondary: #6d1cd3;
+$primary: #00b187;
+$secondary: #6f42b7;
 $grey: #f4f5fb;
-$font-family-base: 'Lato', Arial, sans-serif, -apple-system;
-$font-family-heading: 'Palanquin Dark', Arial, sans-serif, -apple-system;
-$font-family-mono: 'monospace';
+$font-family-base: "Lato", Arial, sans-serif, -apple-system;
+$font-family-heading: "Palanquin Dark", Arial, sans-serif, -apple-system;
+$font-family-mono: "monospace";
 $font-size-base: 1rem;
 
 // Bootstrap
-@import 'bootstrap/functions';
-@import 'bootstrap-variables';
-@import 'bootstrap/variables';
-@import 'bootstrap/mixins';
-@import 'bootstrap/root';
-@import 'bootstrap/reboot';
-@import 'bootstrap/grid';
+@import "bootstrap/functions";
+@import "bootstrap-variables";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/grid";
 // @import 'bootstrap/type';
-@import 'bootstrap/tables';
-@import 'bootstrap/images';
+@import "bootstrap/tables";
+@import "bootstrap/images";
 // @import "bootstrap/code";
-@import 'bootstrap/forms';
+@import "bootstrap/forms";
 // @import "bootstrap/buttons";
 // @import "bootstrap/transitions";
 // @import "bootstrap/dropdown";
@@ -46,59 +46,59 @@ $font-size-base: 1rem;
 // @import "bootstrap/popover";
 // @import "bootstrap/carousel";
 // @import "bootstrap/print";
-@import 'bootstrap/utilities';
+@import "bootstrap/utilities";
 
 // Font Awesome
-$fa-font-path: '../fonts/fontawesome5';
-@import 'libraries/fontawesome5/fontawesome.scss';
-@import 'libraries/fontawesome5/solid.scss';
-@import 'libraries/fontawesome5/brands.scss';
+$fa-font-path: "../fonts/fontawesome5";
+@import "libraries/fontawesome5/fontawesome.scss";
+@import "libraries/fontawesome5/solid.scss";
+@import "libraries/fontawesome5/brands.scss";
 
 // Libraries
-@import 'libraries/slick/slick';
-@import 'libraries/slick/slick-custom';
+@import "libraries/slick/slick";
+@import "libraries/slick/slick-custom";
 
 // Global
-@import 'global/page';
-@import 'global/type';
-@import 'global/buttons';
-@import 'global/whitebox';
-@import 'global/content';
-@import 'global/strip';
-@import 'global/well';
-@import 'global/title';
-@import 'global/color';
+@import "global/page";
+@import "global/type";
+@import "global/buttons";
+@import "global/whitebox";
+@import "global/content";
+@import "global/strip";
+@import "global/well";
+@import "global/title";
+@import "global/color";
 
 // Components
-@import 'components/intro';
-@import 'components/header';
-@import 'components/footer';
-@import 'components/footer-second';
-@import 'components/footer-third';
-@import 'components/main-menu-mobile';
-@import 'components/social';
-@import 'components/feature';
-@import 'components/hero-image';
-@import 'components/section-menu';
-@import 'components/paginator';
-@import 'components/partner';
-@import 'components/sidebar';
+@import "components/intro";
+@import "components/header";
+@import "components/footer";
+@import "components/footer-second";
+@import "components/footer-third";
+@import "components/main-menu-mobile";
+@import "components/social";
+@import "components/feature";
+@import "components/hero-image";
+@import "components/section-menu";
+@import "components/paginator";
+@import "components/partner";
+@import "components/sidebar";
 
 // Pages
-@import 'pages/home';
-@import 'pages/team/team-list';
-@import 'pages/team/team-summary';
-@import 'pages/team/page-team-list';
-@import 'pages/services/page-services-list';
-@import 'pages/services/page-services-single';
-@import 'pages/services/service-summary';
-@import 'pages/work/page-work-list.scss';
-@import 'pages/work/work-summary';
-@import 'pages/work/work-masonry';
-@import 'pages/posts/page-posts-list';
-@import 'pages/posts/page-posts-single';
-@import 'pages/posts/post-summary';
-@import 'pages/category/category-summary';
+@import "pages/home";
+@import "pages/team/team-list";
+@import "pages/team/team-summary";
+@import "pages/team/page-team-list";
+@import "pages/services/page-services-list";
+@import "pages/services/page-services-single";
+@import "pages/services/service-summary";
+@import "pages/work/page-work-list.scss";
+@import "pages/work/work-summary";
+@import "pages/work/work-masonry";
+@import "pages/posts/page-posts-list";
+@import "pages/posts/page-posts-single";
+@import "pages/posts/post-summary";
+@import "pages/category/category-summary";
 
 body {
   font-size: 1.1rem;
