@@ -17,9 +17,9 @@ $container-max-widths: (
 $grid-gutter-width: 30px;
 
 // Links
-$link-color: $secondary;
+$link-color: #12bf98;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 20%);
+$link-hover-color: lighten($secondary, 10%);
 $link-hover-decoration: underline;
 
 $paragraph-color: #4d606d;
