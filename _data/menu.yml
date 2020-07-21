@@ -2,7 +2,7 @@ main:
   - name: Services
     url: /services/
     weight: 1
-  - name: Work
+  - name: Case Studies
     url: /work/skin_actives/
     weight: 2
   # # - name: Team
@@ -18,30 +18,30 @@ main:
     url: /contact/
     weight: 5
 footer_primary:
-  - name: Home
-    url: /
+  - name: Hypothesis Library Product
+    url: https://hypothesislibrary.com/
     weight: 1
-  - name: Services
-    url: /services/
+  - name: Growth Through Empathy Podcast
+    url: http://growththroughempathy.com/
     weight: 2
-  - name: Work
-    url: /work/
+  - name: Facebook Group
+    url: https://www.facebook.com/groups/growththroughempathy/
     weight: 3
-  # - name: Team
-  #   url: /team/
-  #   weight: 4
-  - name: Blog
-    url: /posts/
+  - name: Sign up to receive blog
+    url: /blog#blog-sign-up
     weight: 4
-  - name: About
-    url: /about/
+  - name: Free 1-hour conversion consult
+    url: /consult/
     weight: 5
-  - name: Contact
+  - name: Contact Us
     url: /contact/
     weight: 6
 footer_secondary:
   - name: Privacy Policy
-    url: /privacy/
+    url: /support/privacy
+    weight: 1
+  - name: FAQ
+    url: /support/faq
     weight: 1
   - name: Icons from icons8.com
     url: https://icons8.com/icon/

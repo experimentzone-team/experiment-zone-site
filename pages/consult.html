@@ -1,0 +1,188 @@
+---
+layout: default
+title: Want to improve your conversion rates?
+subtitle: Schedule your Free 1-Hour Conversion Consult today.
+body_classes: page-services-list
+---
+
+<div class="intro pb-0 pt-0" style="background-color: #00b187;">
+  <div class="container">
+    <div class="row align-items-center justify-content-center">
+      <div class="col-10 col-md-6 mt-10">
+        <h1 class="text-white w-100">{{ page.title }}</h1>
+        <p class="text-white w-100">{{ page.subtitle }}</p>
+      </div>
+      <div class="row align-items-center justify-content-center">
+        <div class="col-11 col-md-4 mt-3 mt-md-10">
+          <!-- Calendly inline widget begin -->
+          <div
+            class="calendly-inline-widget team-summary mb-5"
+            data-url="https://calendly.com/experimentzone/free-audit?hide_event_type_details=1"
+            style="min-width: 320px; height: 500px;"
+          ></div>
+          <script
+            type="text/javascript"
+            src="https://assets.calendly.com/assets/external/widget.js"
+          ></script>
+          <!-- Calendly inline widget end -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey">
+  <div class="container pt-5 pb-5 text-center">
+    <h1 style="font-size: 3.5em;">
+      Why Experiment Zone?
+    </h1>
+    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
+    <div class="row justify-content-center">
+      {% for feature in site.data.features %}
+      <div class="col-12 col-sm-4 col-md-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image">
+            <img
+              alt="{{ feature.title }} logo"
+              src="{{ feature.image | relative_url}}"
+            />
+          </div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <p>{{feature.description}}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Splash AJ -->
+<div class="strip strip-secondary pt-5 pb-2 splash splash-one pb-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 align-self-center">
+        <img
+          class="img-fluid rounded"
+          src="../assets/images/AJDavis-Headshot.jpg"
+        />
+      </div>
+      <div
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-5{% else %}col-md-12{% endif %} offset-md-1 team-summary"
+      >
+        <h2>What you'll get from our free consultation</h2>
+        <ul class="pl-2" style="list-style: disc;">
+          <li class="mb-1">
+            A <b>1-on-1 video or phone call</b> with our CEO, AJ Davis, we will
+            go over your website to identify issues and suggest changes to fix
+            them, focusing on improving your conversion rate.
+          </li>
+          <li class="mb-1">
+            A report summarizing a list of the <b>actionable advice</b> we spoke
+            about
+          </li>
+          <li class="mb-1">
+            You leave the call happy that you have a
+            <b>plan for improving your conversion rates</b>, and you saved money
+            on this advice which usually costs thousands of dollars.
+          </li>
+        </ul>
+        <div class="col-12 text-center">
+          <a class="button button-primary mt-2" href="/consult/schedule/"
+            >GET FREE CONSULTATION</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Splash Two -->
+{% if site.params.homepage.show_splash_section_two %}
+<div class="strip strip-white pt-3 pb-2 splash splash-one">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      {% if site.params.homepage.splash_two_image %}
+      <div class="col-12 col-md-4">
+        <div class="col-12 text-center">
+          <img
+            class="img-fluid rounded-circle w-50 h-50"
+            src="{{ site.params.homepage.splash_two_image | relative_url }}"
+          />
+        </div>
+        {% if site.params.homepage.splash_two_second_paragraph %}
+        <p class="pl-3 pt-1">
+          {{ site.params.homepage.splash_two_second_paragraph }}
+        </p>
+        {% endif %}
+      </div>
+      {% endif %}
+      <div
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %}"
+      >
+        {% if site.params.homepage.splash_two_heading %}
+        <h2>{{ site.params.homepage.splash_two_heading }}</h2>
+        {% endif %} {% if site.params.homepage.splash_two_paragraph %}
+        <p>{{ site.params.homepage.splash_two_paragraph }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Splash who should get consult -->
+<div
+  class="strip pt-5 splash splash-one pb-5"
+  style="
+    background-image: url('../assets/images/silhouette-of-person-under-blue-and-purple-sky-957040.jpg');
+    background-size: cover;
+  "
+>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-5 team-summary">
+        <h2>Who should get a consultation?</h2>
+        <lh><b>You should schedule if you:</b></lh>
+        <ul class="pl-2 mb-2" style="list-style: disc;">
+          <li>
+            Want customers to have the smoothest experience on your online
+            store.
+          </li>
+          <li>
+            Know what you want visitors to do and want more visitors to take
+            that action.
+          </li>
+          <li>
+            Are curious and open to making changes to your site.
+          </li>
+        </ul>
+        <lh><b>You should NOT schedule if you:</b></lh>
+        <ul class="pl-2" style="list-style: disc;">
+          <li>
+            Aren’t interested in honest feedback on your website.
+          </li>
+          <li>
+            Won’t be able to make updates to your site
+          </li>
+          <li>
+            Think your website conversion is perfect and doesn’t need to
+            improve.
+          </li>
+        </ul>
+        <div class="col-12 text-center">
+          <a class="button button-primary mt-2" href="/consult/schedule/"
+            >GET FREE CONSULTATION</a
+          >
+        </div>
+      </div>
+      <div class="col-12 col-md-6 align-self-center offset-md-1">
+        <!-- <img
+          class="img-fluid rounded"
+          src="../assets/images/silhouette-of-person-under-blue-and-purple-sky-957040.jpg"
+        /> -->
+      </div>
+    </div>
+  </div>
+</div>

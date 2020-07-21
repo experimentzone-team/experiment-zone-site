@@ -6,7 +6,7 @@
           <div class="row">
             {% if site.params.footer.show_menu_footer_primary %}
             <div class="col-12 col-md-3">
-              <h3>Site</h3>
+              <h3>Experiment Zone</h3>
               {% include menu-footer-primary.html %}
             </div>
             {% endif %} {% assign services = site.services | sort: 'date' %} {%
@@ -22,7 +22,7 @@
             {% endif %} {% assign works = site.work | sort: 'date' %} {% if
             works.size > 0 and site.params.footer.show_work_links %}
             <div class="col-12 col-md-3">
-              <h3>Work</h3>
+              <h3>Case Studies</h3>
               <ul>
                 {% for work in works limit:4 %}
                 <li><a href="{{ work.url }}">{{ work.title }}</a></li>

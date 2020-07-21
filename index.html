@@ -9,7 +9,7 @@ heroBackground: ''
 heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
-heroDiagonalFill: '#f4f5fb'
+heroDiagonalFill: '#f2f0f5'
 meta_title: 'Experiment Zone'
 meta_description: 'Advance is a premium, multi-purpose Jekyll theme with four content types, advanced configuration and
 a stunning, responsive design.'
@@ -31,10 +31,10 @@ diagonalfill=page.heroDiagonalFill %}
 
 <div class="strip strip-grey">
   <div class="container pt-5 pb-5 text-center">
-    <h1>
+    <h1 style="font-size: 3.5em;">
       Why Experiment Zone?
     </h1>
-    <h3>Learn More About Our Mission</h3>
+    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
       <div class="col-12 col-sm-4 col-md-4 mb-2">
@@ -58,11 +58,10 @@ diagonalfill=page.heroDiagonalFill %}
 
 <!-- Three Steps To Improving Conversion -->
 <div class="container mt-2 text-center">
-  <h3>Three Steps To Improving Conversion</h3>
-  <h1>Good User Experience Starts With GEM</h1>
+  <h1>Our 3-step process to improve conversion</h1>
+  <!-- <h1>Good User Experience Starts With GEM</h1> -->
   <h4 class="mb-3">
-    Our three step process leads to customer centric experiences that drive more
-    revenue.
+    Create customer-centric experiences that drive more revenue.
   </h4>
   <div class="row justify-content-between">
     {% for step in site.data.steps %}
@@ -70,13 +69,11 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="work work-summary p-2" style="align-items: center;">
         {% if step.image %}
         <div class="work-image text-center">
-          <a href="{{ step.url | relative_url}}"
-            ><img src="{{ step.image | relative_url}}"
-          /></a>
+            <img src="{{ step.image | relative_url}}"/>
         </div>
         {% endif %}
         <div>
-          <h2><a href="{{ step.url | relative_url}}">{{ step.title }}</a></h2>
+          <h2 style="color: #12bf98;">{{ step.title }}</h2>
         </div>
         {% if step.description %}
         <div class="work-description p-2">
@@ -91,7 +88,7 @@ diagonalfill=page.heroDiagonalFill %}
 
 <!-- Splash One -->
 
-<div class="strip strip-secondary pt-3 pb-3 splash splash-one">
+<div class="strip strip-secondary pt-5 pb-3 splash splash-one">
   <div class="container">
     <div class="row justify-content-between align-items-center">
       <div class="col-12 col-md-4">
@@ -150,7 +147,7 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="col-12">
         <h2 class="text-center mb-3">Our Services</h2>
       </div>
-      {% for service in services limit: 4%}
+      {% for service in services limit: 2%}
       <div class="col-12 col-md-6 col-lg-6 mb-2">
         <div class="service service-summary">
           {% if service.icon %}
@@ -241,13 +238,18 @@ diagonalfill=page.heroDiagonalFill %}
 {% if site.params.homepage.show_splash_section_two %}
 <div class="strip strip-white pt-3 pb-2 splash splash-one">
   <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center align-items-center">
       {% if site.params.homepage.splash_two_image %}
       <div class="col-12 col-md-4">
-        <img class="img-fluid rounded-circle" src="{{ site.params.homepage.splash_two_image | relative_url }}" />
+        <div class="col-12 text-center">
+          <img class="img-fluid rounded-circle w-50 h-50" src="{{ site.params.homepage.splash_two_image | relative_url }}" />
+        </div>
+        {% if site.params.homepage.splash_two_second_paragraph %}
+        <p class="pl-3 pt-1">{{ site.params.homepage.splash_two_second_paragraph }}</p>
+        {% endif %}
       </div>
       {% endif %}
-      <div class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %} offset-md-1">
+      <div class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %}">
         {% if site.params.homepage.splash_two_heading %}
         <h2>{{ site.params.homepage.splash_two_heading }}</h2>
         {% endif %}
