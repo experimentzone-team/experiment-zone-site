@@ -107,13 +107,13 @@ params:
   free_consult_cta:
     heading: You Can Get More Revenue From Your Website
     subheading: With Help From Our Team Of Experts.<br>Get Your Free 1-Hour Consult Now.
-    button_url: https://calendly.com/experimentzone/free-audit
+    button_url: /consult/
     button_text: Book Free Consult
   GTE_site_cta:
-    heading: Visit our Podcast
-    subheading: Growth Through Empathy<br>Gain more customers by leveraging empathy
+    heading: Growth Through Empathy Webinar Series
+    subheading: Learn about our free interactive and conversational series
     button_url: http://growththroughempathy.com/
-    button_text: Visit
+    button_text: Learn About Webinar
 plugins:
   - jekyll-environment-variables
   - jekyll-sitemap
