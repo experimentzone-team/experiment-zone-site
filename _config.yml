@@ -31,6 +31,9 @@ collections:
   audit:
     output: true
     permalink: /:collection/:path/
+  product:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
