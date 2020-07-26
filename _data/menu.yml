@@ -1,5 +1,5 @@
 main:
-  - name: Services
+  - name: What we do
     url: /services/
     weight: 1
   - name: Case Studies
