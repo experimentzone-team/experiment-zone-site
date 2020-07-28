@@ -81,7 +81,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
           <div class="post-content">
             <p>{{ post.content | strip_html | truncatewords:50 }}</p>
           </div>
-          {% if post.categories.size > 0 %}
+          <!-- {% if post.categories.size > 0 %}
           <div class="post-categories">
             <strong>Categories:</strong>
             {% for category in post.categories %}
@@ -92,7 +92,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
             >
             {% endfor %}
           </div>
-          {% endif %}
+          {% endif %} -->
           <div class="post-link">
             <a class="post-read-more" href="{{ post.url | relative_url }}"
               >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i

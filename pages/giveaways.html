@@ -1,0 +1,121 @@
+---
+layout: default
+title: Giveaways
+subtitle: Experience our services 
+body_classes: page-services-list
+---
+
+<div class="intro intro-big">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.subtitle }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-7 mt-n5 pl-md-5 pl-lg-2">
+      <h2>Try our free service</h2>
+      <p>Let our team help you get the results you want from your website and experience what it is like to work with us.</p>
+    </div>
+    <div class="col-12 col-md-5 col-lg-4 offset-lg-1 section-menu-positive mt-md-n15 mb-3 mt-sm-3">
+      <div class="section-menu p-2">
+        <h2 class="text-primary">Benefits</h2>
+        <ul>
+          <li>- Increase your revenue</a></li>
+          <li>- Know your customers better</a></li>
+          <li>- Uncover what keeps visitors from buying</a></li>
+          <li>- Make decisions backed by insights</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for giveaway in site.giveaways %}
+    <div class="col-12 col-md-6 mb-3">
+      <div class="service service-summary">
+        {% if giveaway.icon %}
+        <div class="service-image">
+          <img src="{{service.icon | relative_url}}" />
+        </div>
+        {% endif %}
+        <div class="service-title">
+          <h2>
+            <a href="{{ giveaway.url | relative_url}}">{{ giveaway.title }}</a>
+          </h2>
+        </div>
+        <div class="service-description">
+          <p>{{ giveaway.description }}</p>
+        </div>
+        <div class="service-content">{{ giveaway.content | truncate: 180 }}</div>
+        <div class="service-link">
+          <a class="service-read-more" href="{{ giveaway.url | relative_url}}"
+            >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+          ></a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% if site.data.features.size > 0 and site.params.services.show_features %}
+<div class="strip strip-grey">
+  <div class="container pt-5 pb-5">
+    <div class="row justify-content-center">
+      {% for feature in site.data.features %}
+      <div class="col-12 col-sm-4 col-md-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image">
+            <img
+              alt="{{ feature.title }} logo"
+              src="{{ feature.image | relative_url}}"
+            />
+          </div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          {% if feature.description %}
+          <p class="text-center">{{ feature.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Splash One
+{% if site.params.services.show_splash_one_section %}
+<div class="strip strip-bg-primary strip-bg-cover" style="background-image: url('{{ site.params.services.splash_one_background_image | relative_url }}');">
+  <svg aria-hidden="true" role="presentation" viewBox="0 0 100 5">
+    <polygon class="svg-grey" points="0,0 100,0 100,5" />
+  </svg>
+  <div class="container pt-10 pb-10">
+    <div class="row">
+      <div class="col-12 col-md-6">
+        {% if site.params.services.splash_one_heading %}<h2 class="text-white text-capitalize">{{
+          site.params.services.splash_one_heading }}</h2>{% endif %}
+        {% if site.params.services.splash_one_paragraph %}<p class="text-white large">{{
+          site.params.services.splash_one_paragraph }}</p>{% endif %}
+      </div>
+    </div>
+  </div>
+  <svg aria-hidden="true" role="presentation" viewBox="0 0 100 10">
+    <polygon class="svg-secondary" points="0,0 0,20 100,100 100,0 60,10" />
+  </svg>
+</div>
+{% endif %} -->
+
+{% include contact-cta.html heading=site.params.contact_cta.heading
+subheading=site.params.contact_cta.subheading
+button_url=site.params.contact_cta.button_url
+button_text=site.params.contact_cta.button_text %}

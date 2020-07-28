@@ -19,13 +19,13 @@
                 {% endfor %}
               </ul>
             </div>
-            {% endif %} {% assign works = site.work | sort: 'date' %} {% if
-            works.size > 0 and site.params.footer.show_work_links %}
+            {% endif %} {% assign giveaways = site.giveaways | sort: 'date' %}
+            {% if giveaways.size > 0 and site.params.footer.show_work_links %}
             <div class="col-12 col-md-3">
-              <h3>Case Studies</h3>
+              <h3>Giveaways</h3>
               <ul>
-                {% for work in works limit:4 %}
-                <li><a href="{{ work.url }}">{{ work.title }}</a></li>
+                {% for giveaway in giveaways limit:4 %}
+                <li><a href="{{ giveaway.url }}">{{ giveaway.title }}</a></li>
                 {% endfor %}
               </ul>
             </div>

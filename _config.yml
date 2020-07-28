@@ -31,12 +31,26 @@ collections:
   audit:
     output: true
     permalink: /:collection/:path/
+  giveaways:
+    output: true
+    permalink: /:collection/:path/
+  downloads:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
       type: services
     values:
       layout: service
+  - scope:
+      type: giveaways
+    values:
+      layout: giveaways
+  - scope:
+      type: downloads
+    values:
+      layout: downloads
   - scope:
       type: work
     values:
