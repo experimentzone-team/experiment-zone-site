@@ -1,5 +1,5 @@
 main:
-  - name: Services
+  - name: What we do
     url: /services/
     weight: 1
   - name: Case Studies
@@ -21,10 +21,10 @@ footer_primary:
   - name: Hypothesis Library Product
     url: https://hypothesislibrary.com/
     weight: 1
-  - name: Growth Through Empathy Podcast
+  - name: Growth Through Empathy Webinar
     url: http://growththroughempathy.com/
     weight: 2
-  - name: Facebook Group
+  - name: Facebook Community
     url: https://www.facebook.com/groups/growththroughempathy/
     weight: 3
   - name: Sign up to receive blog
