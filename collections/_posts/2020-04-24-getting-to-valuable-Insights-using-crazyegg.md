@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting to Valuable Insights using CrazyEgg: The Best Data to Uncover Conversion Opportunities"
+permalink: /blog/insights-from-crazyegg-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: AJ_Davis

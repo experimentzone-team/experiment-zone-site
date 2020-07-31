@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Winning from Losing"
+permalink: /blog/winning-from-losing/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: AJ_Davis
