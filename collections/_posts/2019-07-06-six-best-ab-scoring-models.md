@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 Best A/B Scoring Models"
-permalink: /blog/6-best-split-test-scoring-models
+permalink: /6-best-split-test-scoring-models
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: AJ_Davis
