@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coronavirus and E-Commerce: Essential Retail Reading List during this Historic Time"
-permalink: /coronavirus-and-e-commerce/
+permalink: /blog/coronavirus-and-e-commerce/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: AJ_Davis

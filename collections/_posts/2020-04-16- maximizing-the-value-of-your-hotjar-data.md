@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maximizing the Value of your Hotjar Data: How to apply what you see to experimentation"
-permalink: /maximizing-hotjar-data/
+permalink: /blog/maximizing-hotjar-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: AJ_Davis
