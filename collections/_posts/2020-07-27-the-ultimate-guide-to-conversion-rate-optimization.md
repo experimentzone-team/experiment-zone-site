@@ -14,7 +14,7 @@ meta_title: "The Ultimate Guide to Conversion Rate Optimization in 2020"
 meta_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
-meta_og_article_author: AJ_Davis
+meta_og_author: AJ_Davis
 meta_og_url: "https://experimentzone.com/conversion-rate-optimization/"
 meta_og_image: "http://experimentzone.com/assets/images/yellow-bulb-1556704.jpg"
 meta_og_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
