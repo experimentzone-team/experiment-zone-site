@@ -11,6 +11,14 @@ heroBackgroundOverlay: false
 heroHeight: 800
 heroDiagonal: true
 heroDiagonalFill: false
+meta_title: "Maximizing the Value of your Hotjar Data: How to apply what you see to experimentation"
+meta_description: "Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other click tracking software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar."
+meta_author: "AJ Davis"
+meta_og_title: "Maximizing the Value of your Hotjar Data: How to apply what you see to experimentation"
+meta_og_type: website
+meta_og_url: "https://experimentzone.com/blog/maximizing-hotjar-data/"
+meta_og_image: "http://experimentzone.com/assets/images/posts/hotjar-EZ.jpeg"
+meta_og_description: "Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other click tracking software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar."
 ---
 
 Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other click tracking software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar.

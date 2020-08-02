@@ -10,9 +10,17 @@ heroBackground: "assets/images/posts/sailing-EZ.jpg"
 heroBackgroundOverlay: false
 heroDiagonal: true
 heroDiagonalFill: false
+meta_title: "Getting to Valuable Insights using CrazyEgg: The Best Data to Uncover Conversion Opportunities"
+meta_description: "CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool."
+meta_author: "AJ Davis"
+meta_og_title: "Getting to Valuable Insights using CrazyEgg: The Best Data to Uncover Conversion Opportunities"
+meta_og_type: website
+meta_og_url: "https://experimentzone.com/blog/insights-from-crazyegg-data/"
+meta_og_image: "http://experimentzone.com/assets/images/posts/sailing-EZ.jpg"
+meta_og_description: "CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool. optimization (CRO)"
 ---
 
-CrazyEgg is a great visual analytics tool to understand what your customers are doing on your sitet. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool.
+CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool.
 
 Here’s our guide to making sure you can find actionable and valuable insights using CrazyEgg.
 

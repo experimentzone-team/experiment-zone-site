@@ -11,6 +11,14 @@ heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: false
+meta_title: "6 Best A/B Scoring Models"
+meta_description: "You probably have a large list of A/B testing ideas on your roadmap. We can’t test everything at once. We all have limited amounts of traffic and budgets. You should focus on ideas that have the potential to make the best impact rather than testing the small details."
+meta_author: "AJ Davis"
+meta_og_title: "6 Best A/B Scoring Models"
+meta_og_type: website
+meta_og_url: "https://experimentzone.com/blog/6-best-split-test-scoring-models"
+meta_og_image: "http://experimentzone.com/assets/images/posts/lightbulb-EZ.jpeg"
+meta_og_description: "You probably have a large list of A/B testing ideas on your roadmap. We can’t test everything at once. We all have limited amounts of traffic and budgets. You should focus on ideas that have the potential to make the best impact rather than testing the small details."
 ---
 
 # 6 Best A/B Scoring Models
