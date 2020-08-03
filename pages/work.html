@@ -18,12 +18,14 @@ body_classes: page-work-list
 
 <div class="grid pb-md-10">
   <div class="grid-sizer"></div>
-  {% for work in site.work %}
+  {% for work in site.work %} {% if work.featured %}
   <div class="grid-item">
     <div class="work work-masonry">
       {% if work.image %}
       <div class="work-image">
-        <a href="{{ work.url | relative_url}}"><img src="{{work.image | relative_url}}" /></a>
+        <a href="{{ work.url | relative_url}}"
+          ><img src="{{work.image | relative_url}}"
+        /></a>
       </div>
       {% endif %}
       <a href="{{ work.url | relative_url}}" class="work-overlay">
@@ -31,9 +33,18 @@ body_classes: page-work-list
       </a>
     </div>
   </div>
-  {% endfor %}
+  {% endif %} {% endfor %}
 </div>
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/libs/masonry.pkgd.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/libs/imagesloaded.pkgd.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/pages/work.js"></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/masonry.pkgd.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/imagesloaded.pkgd.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/work.js"
+></script>

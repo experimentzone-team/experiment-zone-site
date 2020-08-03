@@ -1,6 +1,6 @@
 {% if include.fullscreen %}
 <div
-  class="hero-image hero-image-fullscreen {% if include.overlay %}hero-image-blend-overlay{% endif %}"
+  class="hero-image hero-image-fullscreen  {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
   style="{% if include.background %}background-image: url('{{ include.background | relative_url}}');{% endif %}"
 >
   {% if include.diagonal %}
@@ -45,7 +45,7 @@
 </div>
 {% else %}
 <div
-  class="hero-image hero-image-set-height {% if .overlay %}hero-image-blend-overlay{% endif %}"
+  class="hero-image hero-image-set-height  {{ include.heading }} {% if .overlay %}hero-image-blend-overlay{% endif %}"
   style="{% if include.background %}background-image: url('{{ include.background  | relative_url}}'); {% endif %}{% if include.height %}height: {{ include.height }}px{% endif %}"
 >
   {% if include.diagonal %}

@@ -77,3 +77,11 @@
 .Skin.Actives {
   color: black !important;
 }
+
+.Clearhead {
+  background-color: $secondary;
+}
+
+h1.Clearhead {
+  display: none;
+}
