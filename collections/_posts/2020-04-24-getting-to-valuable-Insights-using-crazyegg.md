@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting to Valuable Insights using CrazyEgg: The Best Data to Uncover Conversion Opportunities"
+description: "CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site"
 permalink: /blog/insights-from-crazyegg-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]

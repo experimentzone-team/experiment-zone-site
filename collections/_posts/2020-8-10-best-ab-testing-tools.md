@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Best A/B Testing Tools for your Conversion Optimization Toolkit (Paid and Free)"
+description: "Read about the latest tools for identifying test ideas and for running A/B tests."
 permalink: /blog/ab-testing-tools/
 tags: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]
 categories: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]

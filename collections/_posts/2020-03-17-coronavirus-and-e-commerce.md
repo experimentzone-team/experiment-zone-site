@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coronavirus and E-Commerce: Essential Retail Reading List during this Historic Time"
+description: "COVID-19 is rapidly impacting the way we live, work, and play. We want to provide you with the best resources to understand the impact on retail and e-commerce."
 permalink: /blog/coronavirus-and-e-commerce/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]

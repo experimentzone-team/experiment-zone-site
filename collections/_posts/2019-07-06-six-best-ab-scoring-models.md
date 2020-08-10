@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "6 Best A/B Scoring Models"
+description: "Focus on ideas that have the potential to make the best impact rather than testing the small details."
 permalink: /blog/6-best-split-test-scoring-models
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]

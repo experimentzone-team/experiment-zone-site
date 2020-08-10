@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Ultimate Guide to Conversion Rate Optimization in 2020"
+description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
 permalink: /conversion-rate-optimization/
 tags: ["Conversion Rate Optimization", "CRO"]
 categories: ["Conversion Rate Optimization", "CRO"]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Winning from Losing"
+description: "How to recover insights and inspiration after an A/B test fails. Too often teams are worried about their win rates and quickly move past a “losing” test without digging in to understand the “why” behind the test."
 permalink: /blog/winning-from-losing/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]

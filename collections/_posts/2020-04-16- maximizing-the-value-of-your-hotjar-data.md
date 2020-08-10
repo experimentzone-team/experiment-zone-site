@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Maximizing the Value of your Hotjar Data: How to apply what you see to experimentation"
+description: "Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think"
 permalink: /blog/maximizing-hotjar-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
