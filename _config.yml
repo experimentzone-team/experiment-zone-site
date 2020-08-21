@@ -40,6 +40,9 @@ collections:
   product:
     output: true
     permalink: /:collection/:path/
+  podcasts:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
@@ -60,6 +63,10 @@ defaults:
       layout: work
   - scope:
       type: posts
+    values:
+      layout: post
+  - scope:
+      type: podcast
     values:
       layout: post
   - scope:
