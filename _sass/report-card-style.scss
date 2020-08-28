@@ -1,0 +1,19 @@
+.report-card-info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  border: 1px solid #dcdcdc;
+  border-radius: 3px;
+  box-shadow: 0 1px 18px rgba(0, 0, 0, 0.2);
+  background: #fff;
+  padding: 10px;
+  padding: 30px;
+  height: 100%;
+}
+
+.report-card-description {
+  border-bottom: solid #00b187 3px;
+  margin: 8px 0 8px 0;
+  padding: 2px;
+}

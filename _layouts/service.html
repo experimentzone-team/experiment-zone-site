@@ -20,11 +20,27 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
       <div
         class="col-12 col-md-4 col-lg-4 offset-lg-1 {% if page.heroFullscreen == nil %}section-menu-negative{% endif %}"
       >
-        {% include collection-list.html collection="services" %}
+        {% if page.service-list == true %}{% include collection-list.html
+        collection="services" %}{%endif%}
       </div>
     </div>
   </div>
 </div>
+
+<div class="strip strip-secondary">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1000 100"
+    preserveAspectRatio="none"
+  >
+    <path class="svg-white" d="M738,99l262-93V0H0v5.6L738,99z"></path>
+  </svg>
+</div>
+
+{% include contact-cta.html heading=site.params.contact_cta.heading
+subheading=site.params.contact_cta.subheading
+button_url=site.params.contact_cta.button_url
+button_text=site.params.contact_cta.button_text %}
 
 <script
   type="text/javascript"

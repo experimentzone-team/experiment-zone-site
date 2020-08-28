@@ -40,6 +40,7 @@ body_classes: page-services-list
 <div class="container pb-6">
   <div class="row">
     {% for service in site.services %}
+    {%if service.featured == true%}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         {% if service.icon %}
@@ -55,7 +56,7 @@ body_classes: page-services-list
         <div class="service-description">
           <p>{{ service.description }}</p>
         </div>
-        <div class="service-content">{{ service.content | truncate: 180 }}</div>
+        <div class="service-content">{% if service.summary-content %}<p>{{service.summary-content}}</p>{%else%}{{ service.content | truncate: 180 }}{%endif%}</div>
         <div class="service-link">
           <a class="service-read-more" href="{{ service.url | relative_url}}"
             >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
@@ -63,6 +64,7 @@ body_classes: page-services-list
         </div>
       </div>
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 </div>

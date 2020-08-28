@@ -2,7 +2,7 @@
 <div class="section-menu">
     <h2>{{ include.collection }}</h2>
     <ul>
-        {% for item in site[include.collection] | sort: 'weight %}
+        {% for item in site[include.collection] | sort: 'weight' %}
         <li><a {% if item.url==page.url %}class="active" {% endif %} href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
     </ul>

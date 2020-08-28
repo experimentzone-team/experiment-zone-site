@@ -5,6 +5,7 @@ description: "Get Your Whole Team Involved"
 icon: "assets/images/icons8-pass-fail-96.png"
 featured: true
 weight: 3
+service-list: true
 ---
 
 Help your team uncover and focus on the biggest problems for your customers. We guide teams through formative activities to align goals and reveal the best ideas.

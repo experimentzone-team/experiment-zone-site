@@ -20,7 +20,8 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
       <div
         class="col-12 col-md-4 col-lg-4 offset-lg-1 {% if page.heroFullscreen == nil %}section-menu-negative{% endif %}"
       >
-        {% include collection-list.html collection="giveaways" %}
+        {% if page.giveaway-list == true %}{% include collection-list.html
+        collection="giveaways" %}{% endif %}
       </div>
     </div>
   </div>

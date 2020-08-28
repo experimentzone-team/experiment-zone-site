@@ -1,11 +1,12 @@
 ---
 title: "Conversion Report Card"
-date: 2018-11-22T15:15:26+10:00
+date: 2050-11-22T15:15:26+10:00
 description: "Personalized and actionable insights sent to your email."
 icon: "assets/images/icons8-school-96.png"
-featured: true
+featured: false
 weight: 2
 heroHeight: 375
+giveaway-list: false
 ---
 
 To increase your site's conversion rate, we will provide 3-5 actionable and personalized insights for your website by email. No sales pitch or requirements, just useful and valuable feedback.

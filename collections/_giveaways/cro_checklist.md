@@ -6,6 +6,7 @@ icon: "assets/images/icons8-school-96.png"
 featured: true
 weight: 4
 heroHeight: 375
+giveaway-list: true
 ---
 
 Make sure you have the conversion rate optimization basics covered on your website. Use this list to ensure your customers have a smooth shopping experience and have all the information they need to make a purchase.
