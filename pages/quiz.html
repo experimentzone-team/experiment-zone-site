@@ -21,29 +21,29 @@ custom_css: quiz-style
     <div class="tab row">
       <h1>Goals:</h1>
       <h2 class="text-center">What best describes your current goals for your website?</h2>
-      <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3">
+      <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3 goals">
         <label class="checkbox-container">Grow revenue from existing traffic
-          <input type="checkbox" checked="checked" name="radio">
+          <input type="checkbox" name="radio" class="goals-1">
           <span class="checkmark"></span>
         </label>
         <label class="checkbox-container">Increase conversion rates
-          <input type="checkbox" name="radio">
+          <input type="checkbox" name="radio" class="goals-2">
           <span class="checkmark"></span>
         </label>
         <label class="checkbox-container">Increase basket size (AOV and items per order)
-          <input type="checkbox" name="radio">
+          <input type="checkbox" name="radio" class="goals-3">
           <span class="checkmark"></span>
         </label>
         <label class="checkbox-container">Launch a new brand / business
-          <input type="checkbox" name="radio">
+          <input type="checkbox" name="radio" class="goals-4">
           <span class="checkmark"></span>
         </label>
         <label class="checkbox-container">Update our website design / platform
-          <input type="checkbox" name="radio">
+          <input type="checkbox" name="radio" class="goals-5">
           <span class="checkmark"></span>
         </label>
         <label class="checkbox-container">Improve understanding of customers’ needs
-          <input type="checkbox" name="radio">
+          <input type="checkbox" name="radio" class="goals-6">
           <span class="checkmark"></span>
         </label>
       </div>
@@ -65,7 +65,7 @@ custom_css: quiz-style
       <h2 class="text-center">What platform do you use for your site?</h2>
       <div class="checkbox-div mt-3 mb-0 p-0 offset-md-3">
         <label class="d-block checkbox-container">Custom site
-          <input type="radio" checked="checked" name="radio">
+          <input type="radio" name="radio">
           <span class="checkmark"></span>
         </label>
         <label class="d-block checkbox-container">BigCommerce
@@ -97,7 +97,7 @@ custom_css: quiz-style
         <h2 class="text-center">What marketing tactics are you using?</h2>
         <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3">
           <label class="d-block checkbox-container">Email marketing
-            <input type="checkbox" checked="checked" name="radio">
+            <input type="checkbox" name="radio">
             <span class="checkmark"></span>
           </label>
           <label class="d-block checkbox-container">Paid search advertising
@@ -129,7 +129,7 @@ custom_css: quiz-style
         <h2 class="text-center">Are you doing A/B testing? If yes, where are you testing?</h2>
         <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3">
           <label class="d-block checkbox-container">No, we’re not doing A/B testing.
-            <input type="checkbox" checked="checked" name="radio">
+            <input type="checkbox" name="radio">
             <span class="checkmark"></span>
           </label>
           <label class="d-block checkbox-container">Landing page testing
@@ -161,7 +161,7 @@ custom_css: quiz-style
         <h2 class="text-center">What tools are you using on your site today?</h2>
         <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3">
           <label class="d-block checkbox-container">Click Tracking (such as Hotjar)
-            <input type="checkbox" checked="checked" name="radio">
+            <input type="checkbox" name="radio">
             <span class="checkmark"></span>
           </label>
           <label class="d-block checkbox-container">Analytics (such as Google analytics)
@@ -187,6 +187,19 @@ custom_css: quiz-style
     <p><input placeholder="Website" oninput="this.className = ''" name="field[3]"></p>
     <p><input placeholder="Email" oninput="this.className = ''" name="field[3]"></p>
   </div>
+  <div class="container pl-2 pr-2">
+    <div class="tab">
+      <h1>We Recommend:</h1>
+      <div class="dynamic-content">Dynamic Content</div>
+      <div class="row justify-content-center"> 
+        <div class="mb-2" style="overflow:auto;">
+          <div style="float:right;">
+            <button type="button" onclick="quizRedirect()">Learn More</button>
+          </div>
+        </div>
+      </div> 
+    </div> 
+  </div>
   <div class="row justify-content-lg-end justify-content-center pr-lg-5"> 
     <div class="mb-2" style="overflow:auto;">
       <div style="float:right;">
@@ -195,6 +208,7 @@ custom_css: quiz-style
       </div>
     </div>
   </div> 
+
   <!-- Circles which indicates the steps of the form: -->
   <div style="text-align:center;">
     <span class="step"></span>
@@ -247,8 +261,12 @@ function showTab(n) {
   } else {
     document.getElementById("prevBtn").style.display = "inline";
   }
-  if (n == (x.length - 1)) {
+  if (n == (x.length - 2)) {
     document.getElementById("nextBtn").innerHTML = "Submit";
+  } if (n == (x.length - 1)) {
+    document.getElementById("nextBtn").style.display = "none";
+    document.getElementById("prevBtn").style.display = "none";
+    dynamicContent();
   } else {
     document.getElementById("nextBtn").innerHTML = "Next";
   }
@@ -276,20 +294,57 @@ function nextPrev(n) {
   showTab(currentTab);
 }
 
+// Displays content on the results slide at the end of quiz based on the quiz answers 
+function dynamicContent() {
+  if ($(".goals-4").is(':checked') === true || $(".goals-5").is(':checked') === true) {
+    if (output.value < 2000) {
+    $(".dynamic-content").append("<h2>Conversion Consult</h2>")  
+    }
+  } if (output.value > 2000 && output.value < 30000) {
+    $(".dynamic-content").append("<h2>Conversion Deep Dive</h2>")
+  } if (output.value > 30000) {
+    $(".dynamic-content").append("<h2>Optimization Strategy & Testing</h2>")
+  }
+}
+
+// Redirect page to correct service based on quiz answers
+function quizRedirect() {
+  if ($(".goals-4").is(':checked') === true || $(".goals-5").is(':checked') === true) {
+    if (output.value < 2000) {
+    window.location.href = "/services/conversion-consult/"
+    }
+  } if (output.value > 2000 && output.value < 30000) {
+    window.location.href = "/services/conversion-deep-dive/"
+  } if (output.value > 30000) {
+    window.location.href = "/services/optimization-strategy-&-testing/"
+  } else {
+    window.location.href = "/services/conversion-consult/"
+  }
+}
+
 function validateForm() {
   // This function deals with validation of the form fields
   var x, y, i, valid = true;
   x = document.getElementsByClassName("tab");
   y = x[currentTab].getElementsByTagName("input");
+  var checkedArray = [];
   // A loop that checks every input field in the current tab:
   for (i = 0; i < y.length; i++) {
     // If a field is empty...
-    if (y[i].value == "") {
+    if (y[i].value == "" ) {
       // add an "invalid" class to the field:
       y[i].className += " invalid";
       // and set the current valid status to false
       valid = false;
     }
+  }
+  // Make sure that at least one checkbox is checked
+  if ($(".tab").eq(currentTab).find('input[type=checkbox]').length > 0 && $(".tab").eq(currentTab).find('input[type=checkbox]:checked').length === 0) {
+    valid = false
+  }
+    // Make sure a radio button is checked
+  if ($(".tab").eq(currentTab).find('input[type=radio]').length > 0 && $(".tab").eq(currentTab).find('input[type=radio]:checked').length === 0) {
+    valid = false
   }
   // If the valid status is true, mark the step as finished and valid:
   if (valid) {
