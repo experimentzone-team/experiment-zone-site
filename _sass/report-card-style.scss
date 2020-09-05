@@ -12,8 +12,13 @@
   height: 100%;
 }
 
+.report-card-title {
+  border-bottom: solid #00b187 2px;
+  margin: 8px 0 20px 0;
+  padding-bottom: 20px;
+}
 .report-card-description {
-  border-bottom: solid #00b187 3px;
-  margin: 8px 0 8px 0;
-  padding: 2px;
+  border-top: solid #00b187 2px;
+  margin: 12px 0 8px 0;
+  padding-top: 20px;
 }
