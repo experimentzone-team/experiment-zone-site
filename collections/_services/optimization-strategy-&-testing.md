@@ -10,43 +10,17 @@ service-list: true
 summary-content: " "
 ---
 
-## Step 1 | Generate Test Ideas
+<style>.page-services-single .content > p:first-of-type {font-size: 1.1rem}</style>
 
-We'll evaluate your current site experience. We'll review your current analytics data and do a heuristic walkthrough of your site experience, so we can understand where visitors get stuck and identify test ideas for testing.
+## A team hyper-focused on improving your conversion rates that is taking consistent action to increase your revenue.
 
-**We'll share our test ideas with your team in the hypothesis library, where you can manage your AB testing ideas in one place. You'll receive access to the hypothesis library during kickoff.**
+Quarterly Conversion Deep Dive including an analytics review, user experience audit, and user research.
 
-## Step 2 | Evaluate Test Ideas
+We’ll generate test hypotheses based on the conversion deep dive. We’ll score and evaluate the ideas to develop a hypothesis library. You’ll be able to see all your ideas in one place, prioritized by the most important ones to test.
 
-We score each test idea to determine the most impactful and feasible ideas for A/B Testing using a scoring model tailored to your organization’s goals. We'll build a testing roadmap based on the best ideas on the most impactful pages.
+We’ll design, develop and analyze the A/B test so we can validate and measure the impact of the site improvements, so you can have confidence that the changes you are making to your site are moving metrics in the right direction. This will result in higher conversion rates & ultimately more revenue.
 
-**We'll review the testing roadmap during our kickoff because we begin testing.**
-
-## On-Going Conversion Services | Bi-weekly Meetings & Iterative Testing
-
-We will begin development on at least 2 A/B tests each month. Each test will go through five/six stages:
-
-- Test Plan
-- Test Design
-- Test Development
-- Test QA & Launch
-- Test Analysis
-- Test Implementation
-
-You'll receive updates at each bi-weekly meeting on the current & upcoming tests. We will get your approval at each stage before moving to the next stage.
-
-**We'll test & iterate each month, building on our learnings from previous tests and other data inputs.**
-
-## Supporting Services | User Research & Analytics
-
-We will periodically conduct additional services to enhance our understanding of the conversion opportunities on your site. These may include:
-
-- **Analytics Review:** Includes reviewing analytics reporting to find opportunities to improve conversion rate and ensure we're focused on the most impactful pages.
-
-- **Clicking Tracking & Heatmaps:** Includes setting up click tracking on key pages across the site to understand how visitors move, scroll, and click on the site.
-
-- **UX Audit:** Includes reviewing the key user journeys for testing opportunities.
-
-- **User Research Survey or Usability Study:** Collecting information from target customers to uncover usability issues on the site.
-
-This agreement includes at least 4 supporting services for each 12 month period. Additional services can be added or can replace testing slots.
+<!-- Calendly inline widget begin -->
+<div class="col-12 mt-3 mb-3 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone-1?primary_color=00b187" style="min-width:320px;height:930px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->

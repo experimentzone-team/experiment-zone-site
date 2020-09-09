@@ -10,26 +10,20 @@ service-list: true
 summary-content: "Let our proven technics increase the percentage of visitors who take desired actions on your landing pages, website, and campaigns."
 ---
 
-## Step 1 | Kickoff Call
+## Data-backed conversion insights
 
-In this 30 min call, we'll make sure we understand your goals. We'll get access to your analytics and user research platforms, so we can collect the data to inform our strategies.
+Benefit from having conversion rate experts reviewing your website and doing a deep dive into your website data to create an expert road map to help your company increase conversion, keep clients happy, and increase sales.
 
-**Timeline: Week 1**
+**Kickoff meeting** with our conversion experts. We’ll understand your goals & get access to your analytics and user
+research platforms.
 
-## Step 2 | Uncover Conversion Opportunities
+**Analytics Review** highlighting the current state of your site experience, opportunities for additional tracking, and the most important pages to optimize, so you can focus on making changes to the most impactful pages.
 
-During this step, we'll find and prioritize your conversion opportunities. This step includes:
+**User Experience Audit** to identify the friction points for visitors who want to become customers. We’ll review the key pages along your customer journey on your website, so you can fix the usability issues standing in the way of conversion.
 
-- Analytics and Data review
-- Click tracking and scroll mapping on key conversion pages
-- User Experience Audit
+**Executive Summary** highlighting the insights and prioritized recommendations for improving your conversion rates, so you’re confident in what you need to tackle next.
 
-As we gather insights, we will prioritize these based on level of effort and expected impact so you know where you can make the most headway in growing your online revenue.
-
-**Timeline: Week 2 and 3**
-
-## Step 3 | Conversion Strategy Call
-
-During this 1 hour call, we will review the Conversion Executive Summary. You'll get the data we gather, insights, and recommended strategies to increase your conversion rate.
-
-**Timeline: Week 4**
+<!-- Calendly inline widget begin -->
+<div class="col-12 mt-3 mb-3 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone?primary_color=00b187" style="min-width:320px;height:930px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->

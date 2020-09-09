@@ -19,6 +19,11 @@ custom_css: quiz-style
   <!-- One "tab" for each step in the form: -->
   <div class="container pl-2 pr-2">
     <div class="tab row">
+      <h2 class="text-center mt-5 mb-5">Want to know how you can improve your conversions?</h2>
+      <script>showTab()</script>
+    </div>
+  <div class="container pl-2 pr-2">
+    <div class="tab row">
       <h1>Goals:</h1>
       <h2 class="text-center">What best describes your current goals for your website?</h2>
       <div class="checkbox-div mt-3 mb-0 col-md-6 p-0 offset-md-3 goals">
@@ -189,12 +194,11 @@ custom_css: quiz-style
   </div>
   <div class="container pl-2 pr-2">
     <div class="tab">
-      <h1>We Recommend:</h1>
-      <div class="dynamic-content">Dynamic Content</div>
+      <div class="row justify-content-center dynamic-content"></div>
       <div class="row justify-content-center"> 
         <div class="mb-2" style="overflow:auto;">
           <div style="float:right;">
-            <button type="button" onclick="quizRedirect()">Learn More</button>
+            <button class="quiz-direct" type="button" onclick="quizRedirect()">Learn More</button>
           </div>
         </div>
       </div> 
@@ -211,6 +215,7 @@ custom_css: quiz-style
 
   <!-- Circles which indicates the steps of the form: -->
   <div style="text-align:center;">
+    <span class="step"></span>
     <span class="step"></span>
     <span class="step"></span>
     <span class="step"></span>
@@ -258,6 +263,8 @@ function showTab(n) {
   //... and fix the Previous/Next buttons:
   if (n == 0) {
     document.getElementById("prevBtn").style.display = "none";
+    document.getElementById("nextBtn").innerHTML = "Start Quiz";
+    document.getElementById("nextBtn").style.textAlign = "center";
   } else {
     document.getElementById("prevBtn").style.display = "inline";
   }
@@ -298,12 +305,15 @@ function nextPrev(n) {
 function dynamicContent() {
   if ($(".goals-4").is(':checked') === true || $(".goals-5").is(':checked') === true) {
     if (output.value < 2000) {
-    $(".dynamic-content").append("<h2>Conversion Consult</h2>")  
+    $(".dynamic-content").append('<h1>You got: "New Website Planing"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>User Research</li><li>User Research Road Map</li><li>Something</li></ul></div>')  
+    $(".quiz-direct").text("Want to chat with an expert?")
     }
   } if (output.value > 2000 && output.value < 30000) {
-    $(".dynamic-content").append("<h2>Conversion Deep Dive</h2>")
+    $(".dynamic-content").append('<h1>You got: "Improve Revenue from Existing Traffic"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>Downloading our conversion checklist</li><li>Book a Conversion Deep Dive Consult</li></ul></div>')
+    $(".quiz-direct").text("Want to chat with an expert?")
   } if (output.value > 30000) {
-    $(".dynamic-content").append("<h2>Optimization Strategy & Testing</h2>")
+    $(".dynamic-content").append('<h1>You got: "Experimentation Program"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>Starting an experimentation program</li></ul></div>')
+    $(".quiz-direct").text("Want to chat with an expert?")
   }
 }
 
