@@ -41,3 +41,7 @@ For desktop visitors, the category appeared in the top level of the navigation. 
 We were successful in increasing the prominence – and interactions with the Best Sellers category. By increasing the prominence of the “Best Sellers” category, we saw a large lift in the number of visitors viewing this page. Mobile visitors were +237% more likely to visit the category; desktop visitors were +242% more likely to see the Best Seller page in their visit.
 
 The impact of seeing this page had very different impacts to what visitors did next. We saw a 17% decrease in visitors adding to cart on desktop. Desktop visitors may have been less convinced by the limited product selection on the Best Sellers page.
+
+Focusing on the Best Sellers category ultimately led to a 21% increase in orders on mobile. Without this shortcut, mobile visitors were having more friction finding the right product for them. Relocating the Best Sellers category simplified their decision making and helped them commit to a purchase.
+
+Based on the experiment, Skin Actives permanently added the “Best Seller” category to the main menu on mobile and maintained the original menu on desktop. By implementing these changes Skin Actives projects an 8% increase in total annual online revenue.
