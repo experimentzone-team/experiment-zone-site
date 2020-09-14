@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Your Way To Success"
 description: "Have you ever wondered if you could increase the conversions on your website? Do you even know how the heck to track that, or what numbers you ACTUALLY need to look for?"
-permalink: /blog/test-your-way-to-success
+permalink: /podcast/test-your-way-to-success
 tags: [""]
 categories: [""]
 heroBackground: "assets/images/podcasts/CopyID-AJ.png"

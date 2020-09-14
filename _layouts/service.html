@@ -17,12 +17,19 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
           <div class="content">{{page.content}}</div>
         </div>
       </div>
+      {% if page.service-list == true %}
       <div
         class="col-12 col-md-4 col-lg-4 offset-lg-1 {% if page.heroFullscreen == nil %}section-menu-negative{% endif %}"
       >
-        {% if page.service-list == true %}{% include collection-list.html
-        collection="services" %}{%endif%}
+        {% include collection-list.html collection="services" %}
       </div>
+      {%endif%} {% if page.service-sign-up == true %}
+      <div
+        class="col-12 col-md-8 col-lg-5 {% if page.heroFullscreen == nil %}{% endif %}"
+      >
+        {% include service-sign-up.html collection="services" %}
+      </div>
+      {%endif%}
     </div>
   </div>
 </div>

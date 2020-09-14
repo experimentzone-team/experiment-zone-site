@@ -6,7 +6,11 @@ icon: "assets/images/services/icons8-web_design.png"
 featured: false
 weight: 1
 heroHeight: 400
-service-list: true
+service-list: false
+service-sign-up: true
+calendly-calender:
+  "<div class='col-12 mt-3 mt-lg-0 mb-3 team-summary calendly-inline-widget' data-url='https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone?primary_color=00b187' style='min-width:320px;height:765px;'></div>
+  <script type='text/javascript' src='https://assets.calendly.com/assets/external/widget.js'></script>"
 summary-content: "Let our proven technics increase the percentage of visitors who take desired actions on your landing pages, website, and campaigns."
 ---
 
@@ -22,8 +26,3 @@ research platforms.
 **User Experience Audit** to identify the friction points for visitors who want to become customers. We’ll review the key pages along your customer journey on your website, so you can fix the usability issues standing in the way of conversion.
 
 **Executive Summary** highlighting the insights and prioritized recommendations for improving your conversion rates, so you’re confident in what you need to tackle next.
-
-<!-- Calendly inline widget begin -->
-<div class="col-12 mt-3 mb-3 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone?primary_color=00b187" style="min-width:320px;height:930px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
