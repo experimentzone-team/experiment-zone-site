@@ -61,7 +61,8 @@ button_text=site.params.GTE_site_cta.button_text %} -->
         {% if post.heroBackground %}
         <div class="work-image" style="height: 200px;">
           <a href="{{ post.url | relative_url}}"
-            ><img src="{{ post.heroBackground | relative_url}}"
+            ><img
+              src="{% if post.cardImage %}{{ post.cardImage | relative_url }}{% endif %}{{ post.heroBackground | relative_url }}"
           /></a>
         </div>
         {% endif %}
@@ -72,7 +73,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
           <div class="post-meta">
             {% if post.author %} {% include post-author.html author=post.author
             %} {% endif %} {% if post.author %}
-            <!-- <span class="on">-</span> -->
+            <span class="on">-</span>
             {% endif %} {{ post.date | date_to_long_string }}
           </div>
           <div class="post-description">

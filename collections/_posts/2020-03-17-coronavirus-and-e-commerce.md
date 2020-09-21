@@ -5,7 +5,7 @@ description: "COVID-19 is rapidly impacting the way we live, work, and play. We 
 permalink: /blog/coronavirus-and-e-commerce/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
-author: AJ_Davis
+author: aj_davis
 heroSubHeading: "We want to provide you with the best resources to understand the impact on retail and e-commerce. We’ll continue to update our guide as more resources and information come online."
 heroBackground: "assets/images/posts/covid-19-EZ.jpeg"
 heroBackgroundOverlay: false

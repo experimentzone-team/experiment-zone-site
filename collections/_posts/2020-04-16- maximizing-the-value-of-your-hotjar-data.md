@@ -5,7 +5,7 @@ description: "Hotjar is a great analytics and user feedback tool to help underst
 permalink: /blog/maximizing-hotjar-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
-author: AJ_Davis
+author: aj_davis
 heroSubHeading: "Making sure you are sorting through the data to get to actionable and valuable insights from your Hotjar data. "
 heroBackground: "assets/images/posts/hotjar-EZ.jpeg"
 heroBackgroundOverlay: false

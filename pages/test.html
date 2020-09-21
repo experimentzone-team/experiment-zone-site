@@ -1,0 +1,40 @@
+---
+layout: default
+title: test
+subtitle: Get More Value From Your Website
+body_classes: page-services-list
+---
+
+{% assign reviews = site.data.reviews | where: "featured", true | sort:'weight'
+%} {% if reviews.size > 0 %}
+<div class="strip strip-grey pb-5 pt-5">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-8 slider">
+        {% for review in reviews limit: 3%}
+        <div class="service service-summary p-2">
+          <h3>{{ review.company }}</h3>
+          <div class="service-title">
+            <h2>
+              {{ review.name }}
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ review.description }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/slick.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/home.js"
+></script>

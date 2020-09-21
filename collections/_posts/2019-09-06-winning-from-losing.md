@@ -5,7 +5,7 @@ description: "How to recover insights and inspiration after an A/B test fails. T
 permalink: /blog/winning-from-losing/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
-author: AJ_Davis
+author: aj_davis
 heroSubHeading: "How to recover insights and inspiration after an A/B test fails"
 heroBackground: "assets/images/posts/fuzzball-EZ.jpg"
 heroBackgroundOverlay: false

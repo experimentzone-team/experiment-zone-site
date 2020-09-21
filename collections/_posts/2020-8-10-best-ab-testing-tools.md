@@ -5,7 +5,7 @@ description: "Read about the latest tools for identifying test ideas and for run
 permalink: /blog/ab-testing-tools/
 tags: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]
 categories: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]
-author: AJ_Davis
+author: aj_davis
 heroBackground: "assets/images/posts/best-tools.jpg"
 heroBackgroundOverlay: false
 heroHeight: 500

@@ -5,7 +5,7 @@ description: "Get more value from your website and generate more customers and q
 permalink: /conversion-rate-optimization/
 tags: ["Conversion Rate Optimization", "CRO"]
 categories: ["Conversion Rate Optimization", "CRO"]
-author: AJ_Davis
+author: aj_davis
 heroBackground: "assets/images/yellow-bulb-1556704.jpg"
 heroBackgroundOverlay: false
 heroHeight: 500

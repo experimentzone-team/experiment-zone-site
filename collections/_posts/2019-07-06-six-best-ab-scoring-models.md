@@ -5,7 +5,7 @@ description: "Focus on ideas that have the potential to make the best impact rat
 permalink: /blog/6-best-split-test-scoring-models
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
-author: AJ_Davis
+author: aj_davis
 heroSubHeading: "Prioritize your team's test hypotheses"
 heroBackground: "assets/images/posts/lightbulb-EZ.jpeg"
 heroBackgroundOverlay: false

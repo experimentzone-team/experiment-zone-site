@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Web Hosting",
+    "description": "New clients recieve an obligation free consultation.",
+    "company": "assets/images/features/noun_server connections_1735009.svg",
+    "featured": "true"
+  },
+  {
+    "name": "Development",
+    "description": "All members of our team are certified accountants.",
+    "company": "assets/images/features/noun_web coding_1734983.svg",
+    "featured": "true"
+  },
+  {
+    "name": "User Experience",
+    "description": "We stay up to date on the latest changes to the tax code.",
+    "company": "assets/images/features/noun_phone touch_1735024.svg",
+    "featured": "true"
+  }
+]

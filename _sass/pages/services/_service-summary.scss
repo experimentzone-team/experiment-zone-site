@@ -30,3 +30,9 @@
     font-family: $font-family-heading;
   }
 }
+
+@media screen and (max-width: 475px) {
+  .service-summary {
+    padding: 20px;
+  }
+}

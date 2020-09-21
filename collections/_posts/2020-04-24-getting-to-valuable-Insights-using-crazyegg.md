@@ -5,7 +5,7 @@ description: "CrazyEgg is a great visual analytics tool to understand what your 
 permalink: /blog/insights-from-crazyegg-data/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
-author: AJ_Davis
+author: aj_davis
 heroSubHeading: "Uncover opportunities to improve your customer experience and increase your online revenue."
 heroBackground: "assets/images/posts/sailing-EZ.jpg"
 heroBackgroundOverlay: false
