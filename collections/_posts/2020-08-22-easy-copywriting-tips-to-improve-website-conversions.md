@@ -7,7 +7,7 @@ tags: ["Conversion Rate Optimization", "CRO", "Copywriting"]
 categories: ["Conversion Rate Optimization", "CRO", "Copywriting"]
 author: micah_lambert
 heroBackground: "assets/images/posts/Micah-Lambert-Blog.png"
-cardImage: "../assets/images/posts/Micah-Lambert-Social.png"
+cardImage: "https://experimentzone.com/assets/images/posts/Micah-Lambert-Social.png"
 heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
