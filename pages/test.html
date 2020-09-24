@@ -7,13 +7,25 @@ body_classes: page-services-list
 
 {% assign reviews = site.data.reviews | where: "featured", true | sort:'weight'
 %} {% if reviews.size > 0 %}
-<div class="strip strip-grey pb-5 pt-5">
-  <div class="container">
+<div class="mt-15 strip strip-grey pb-5 pt-5">
+  <div class="container" style="min-height: 800px;">
     <div class="row justify-content-start">
-      <div class="col-8 slider">
-        {% for review in reviews limit: 3%}
-        <div class="service service-summary p-2">
-          <h3>{{ review.company }}</h3>
+      <div class="col-12 col-md-8 autoplay post-summary">
+        {% for review in reviews limit: 4%}
+        <div
+          class="service service-summary p-2 overflow-auto post-author"
+          style="box-shadow: none;"
+        >
+          <div class="post-author-avatar d-flex">
+            {% if review.company-logo %}
+            <img
+              class="mr-1"
+              src="{{ review.company-logo | relative_url }}"
+              alt=""
+            />
+            {% endif %}
+            <h3>{{ review.company-name }}</h3>
+          </div>
           <div class="service-title">
             <h2>
               {{ review.name }}
@@ -36,5 +48,5 @@ body_classes: page-services-list
 ></script>
 <script
   type="text/javascript"
-  src="{{ site.baseurl }}/assets/js/pages/home.js"
+  src="{{ site.baseurl }}/assets/js/pages/reviews.js"
 ></script>

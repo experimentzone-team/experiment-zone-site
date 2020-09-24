@@ -1,21 +1,27 @@
-[{
+[
+  {
     "title": "Netflix",
-    "image": "assets/images/partners/netflix.svg"
+    "image": "https://cdn.shopify.com/s/files/1/1120/5174/files/joylux-gold_68336641-fa52-4bb3-9683-6068ff1b194a_250x@2x.png?v=1573355222",
+    "style": "margin-top: 0; margin-bottom: 20px;"
   },
   {
     "title": "Android",
-    "image": "assets/images/partners/android.svg"
-  },
-  {
-    "title": "Slack",
-    "image": "assets/images/partners/slack.svg"
+    "image": "https://achesawaytoronto.ca/wp-content/uploads/2020/06/logo-2.png.webp",
+    "style": "margin-top: 0; margin-bottom: 20px;"
   },
   {
     "title": "Algolia",
-    "image": "assets/images/partners/algolia.svg"
+    "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGS2g7UfmX3EA/company-logo_200_200/0?e=1608768000&v=beta&t=dPLO6_gTM52gjH0jxQYY3vIIFZ2c_ez97ls-g8u0IjI",
+    "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
+  },
+  {
+    "title": "Slack",
+    "image": "https://cdn.shopify.com/s/files/1/2275/4239/files/bflogo-transparent_305x@2x.png?v=1594936217",
+    "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
   },
   {
     "title": "Github",
-    "image": "assets/images/partners/github.svg"
+    "image": "https://www.egywatch.com/wp-content/themes/egywatch/imgs/BTCLogo.png",
+    "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
   }
 ]

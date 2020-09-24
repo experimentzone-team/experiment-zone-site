@@ -1,20 +1,29 @@
 [
   {
-    "name": "Web Hosting",
-    "description": "New clients recieve an obligation free consultation.",
-    "company": "assets/images/features/noun_server connections_1735009.svg",
+    "name": "Melissa Quintanilha, Co Founder, Head of Design",
+    "description": "We found the session very valuable, with lots of actionable insights we can implement on [our] website. We really appreciate you taking the time, and providing your expert review of our site.",
+    "company-logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEovARPTnkepg/company-logo_200_200/0?e=1608768000&v=beta&t=iF_yhibsbnaH1yWhwS09qFLEgBamWYoG5XfYExi9NBA",
+    "company-name": "Dupla Studios",
     "featured": "true"
   },
   {
-    "name": "Development",
-    "description": "All members of our team are certified accountants.",
-    "company": "assets/images/features/noun_web coding_1734983.svg",
+    "name": "Vera Mao, Founder & CEO",
+    "description": "I had a 1h consult with AJ of Experiment Zone and was blown away by how much actual value I received from the consultation! AJ went through my entire customer journey with me on the call and provided actionable insights and pointers for improvement to increase conversion rate. I even received a detailed deck summary of the pointers specific to my brand after my call. I highly recommend any e-commerce business owners to have this chat with AJ - All value, no pushy sales! Thank you AJ. ",
+    "company-name": "Atelier Agape",
     "featured": "true"
   },
   {
-    "name": "User Experience",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "company": "assets/images/features/noun_phone touch_1735024.svg",
+    "name": "Chris M. Sica",
+    "description": "Hot Take On Conversion Optimization:<br><br>It's SO HARD! I thought that my website UX skills were solid, but I learned something from AJ Davis at Experiment Zone.<br><br>I was way to close to my product. I had been staring at our website for The Ronin Society for weeks and I went through a few different stages:<br><br>I LOVE IT<br>I HATE IT<br>I LOVE IT AGAIN<br>I HATE IT AGAIN<br>I DON'T WANT TO LOOK AT IT<br><br>Luckily, AJ and her team at Experiment Zone are giving the gift of a free conversion consult as part of the #COVIDCRAP initiative.<br><br>Thanks for the helpful advice for improving our conversions! If you need actionable advice on your website, book a free session.",
+    "company-logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGmm21JoDG8Og/company-logo_100_100/0?e=1608768000&v=beta&t=tN8bJ3AOlFpoY9Dc1zA-yP8p27ctdjpcTTJF0NTOOJw",
+    "company-name": "The Ronin Society",
+    "featured": "true"
+  },
+  {
+    "name": "Phang Jun Yu, Co-Founder",
+    "description": "Anyway, this review isn't sponsored or anything and just a way for me to return the 1-hour favor! We also sent her 2 copies of our product Lord of the Chords because AJ just happened to be a musician and board game lover as well!<br><br>If anyone's interested, shout out to AJ Davis at Experiment Zone for the gift of a free conversion consult as part of the #COVIDCRAP initiative. Thanks for the helpful advice for improving our conversions! If you need actionable advice on your website, book a session.",
+    "company-logo": "https://media-exp1.licdn.com/dms/image/C4E2DAQGCqKhYSXNWuQ/profile-treasury-image-shrink_1920_1920/0?e=1600959600&v=beta&t=Hre8A820A1URyvGrsUbqZUiWvIT8ZVb0ICNedZdQzmA",
+    "company-name": "Lord of the Chords",
     "featured": "true"
   }
 ]

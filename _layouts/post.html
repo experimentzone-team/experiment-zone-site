@@ -14,7 +14,8 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
     <div class="row justify-content-start">
       <div class="col-12 col-lg-9">
         <div class="post post-single">
-          {% include post-author.html author=page.author date=page.date %}
+          {% if page.author %} {% include post-author.html author=page.author
+          date=page.date %} {% endif %}
           <div class="content">{{ content }}</div>
         </div>
       </div>

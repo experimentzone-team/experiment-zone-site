@@ -30,9 +30,9 @@ footer_primary:
   - name: Sign up to receive blog
     url: /blog#blog-sign-up
     weight: 4
-  - name: Free 1-hour conversion consult
-    url: /consult/
-    weight: 5
+  # - name: Free 1-hour conversion consult
+  #   url: /consult/
+  #   weight: 5
   - name: Contact Us
     url: /contact/
     weight: 6

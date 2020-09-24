@@ -30,20 +30,4 @@ meta_og_description: "Curious about how to make creativity a priority in your CR
 
 Curious about how to make creativity a priority in your CRO process? Our Founder and CEO, AJ Davis, explores just that in this CRO.CAFE podcast episode hosted by Guido Jansen. AJ uses her expertise in user experience strategy to describe how to level up your CRO user research by valuing the use of creative means in your CRO process.
 
-<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
-  <div class="container justify-content-center">
-    <!-- <div class="row"> -->
-    <div class="col-12">
-      <h2 class="mb-n2 text-center">
-        Get future conversion rate tips send to your email.
-      </h2>
-      <div class="_form_11"></div>
-      <script
-        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
-        type="text/javascript"
-        charset="utf-8"
-      ></script>
-    </div>
-  </div>
-  <!-- </div> -->
-</div>
+{% include email-sign-up-cta.html %}

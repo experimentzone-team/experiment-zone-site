@@ -1,0 +1,46 @@
+{% assign reviews = site.data.reviews | where: "featured", true | sort:'weight'
+%} {% if reviews.size > 0 %}
+<div class="container mt-5" style="min-height: 800px;">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-center">Customer Reviews</h2>
+    </div>
+    <div class="col-12 pt-2 autoplay post-summary border-shadow">
+      {% for review in reviews limit: 4%}
+      <div
+        class="service service-summary pb-0 pr-2 pl-2 pt-2 overflow-auto post-author"
+        style="box-shadow: none;"
+      >
+        <div class="post-author-avatar d-flex">
+          {% if review.company-logo %}
+          <img
+            class="m-0 mr-1"
+            src="{{ review.company-logo | relative_url }}"
+            alt=""
+          />
+          {% endif %}
+          <h3 class="mb-1">{{ review.company-name }}</h3>
+        </div>
+        <div class="service-title">
+          <h5>
+            {{ review.name }}
+          </h5>
+        </div>
+        <div class="service-description">
+          <p>{{ review.description }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/slick.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/reviews.js"
+></script>

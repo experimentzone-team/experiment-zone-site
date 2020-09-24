@@ -12,7 +12,7 @@ calendly-calender:
   "<div class='col-12 mt-3 mt-lg-0 mb-3 calendly-inline-widget team-summary' data-url='https://calendly.com/experimentzone/conversion-consult?primary_color=00b187' style='min-width:320px;height:900px;'></div>
 <script type='text/javascript' src='https://assets.calendly.com/assets/external/widget.js'></script>"
 summary-content: "You get one hour 1:1 with a conversion expert. We’ll go over your website to identify issues and suggest changes to fix them, focusing on improving your conversion rate."
-partners: false
+partners: true
 ---
 
 ## Fast, expert advice focused on conversion
@@ -23,3 +23,7 @@ Receive one on one advice from a Conversion Rate Optimization expert. Have a one
 - Together, you will go over your website to identify your sales funnel issues and discuss changes to fix them, focusing on improving your conversion rate.
 - A list summarizing all of the actionable insights that were discussed.
 - You leave the call happy that you have a plan for improving your conversion rates.
+
+{% include partners.html %}
+
+{% include conversion-consult-reviews.html %}
