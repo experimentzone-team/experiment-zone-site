@@ -1,27 +1,27 @@
 [
   {
-    "title": "Netflix",
+    "title": "JOYLUX",
     "image": "https://cdn.shopify.com/s/files/1/1120/5174/files/joylux-gold_68336641-fa52-4bb3-9683-6068ff1b194a_250x@2x.png?v=1573355222",
     "style": "margin-top: 0; margin-bottom: 20px;"
   },
   {
-    "title": "Android",
-    "image": "https://achesawaytoronto.ca/wp-content/uploads/2020/06/logo-2.png.webp",
-    "style": "margin-top: 0; margin-bottom: 20px;"
+    "title": "Dell",
+    "image": "https://securenetmd.com/wp-content/uploads/2017/12/dell-logo.png",
+    "style": "height: 60px; margin: 0px 20px 20px 20px;"
   },
   {
-    "title": "Algolia",
-    "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGS2g7UfmX3EA/company-logo_200_200/0?e=1608768000&v=beta&t=dPLO6_gTM52gjH0jxQYY3vIIFZ2c_ez97ls-g8u0IjI",
-    "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
-  },
-  {
-    "title": "Slack",
+    "title": "GILDED",
     "image": "https://cdn.shopify.com/s/files/1/2275/4239/files/bflogo-transparent_305x@2x.png?v=1594936217",
     "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
   },
   {
-    "title": "Github",
-    "image": "https://www.egywatch.com/wp-content/themes/egywatch/imgs/BTCLogo.png",
+    "title": "Joy Milk Tea",
+    "image": "assets/images/joymilktea.png",
     "style": "height: 60px; margin-top: 0; margin-bottom: 20px;"
+  },
+  {
+    "title": "Capsul",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQGS2g7UfmX3EA/company-logo_200_200/0?e=1608768000&v=beta&t=dPLO6_gTM52gjH0jxQYY3vIIFZ2c_ez97ls-g8u0IjI",
+    "style": "height: 75px; margin: 0px 30px 20px 0px"
   }
 ]
