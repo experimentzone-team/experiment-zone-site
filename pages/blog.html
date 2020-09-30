@@ -63,6 +63,14 @@ button_text=site.params.GTE_site_cta.button_text %} -->
           <a href="{{ post.url | relative_url}}"
             ><img
               src="{% if post.cardImage %}{{ post.cardImage | relative_url }}{% else %}{{ post.heroBackground | relative_url }}{% endif%}"
+              {%
+              if
+              post.cardImageClass
+              %}
+              class="{{post.cardImageClass}}"
+              {%
+              endif
+              %}
           /></a>
         </div>
         {% endif %}

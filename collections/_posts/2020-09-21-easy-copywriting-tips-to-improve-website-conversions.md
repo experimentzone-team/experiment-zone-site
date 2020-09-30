@@ -32,7 +32,7 @@ meta_og_description: "Seemingly “small” things can greatly improve your webs
 
 <br />
 
-### What is your own background and experience with copywriting? What led you to start your business?
+### What is your background and experience with copywriting? What led you to start your business?
 
 I’ve been drawn to writing in any format since I could hold a pencil. As a homeschooled kid, I spent most of my days reading and writing because my mom wasn’t a big fan of math and science! My obsession grew, and I went on to earn my bachelor’s degree in writing. Friends were constantly asking me to edit their papers, write their resumes, and spruce up their LinkedIn bios. I realized my skills met a need in the world: helping people solve actual problems through writing. After school I worked in digital marketing, social media management, and eventually landed on copywriting. Copywriting speaks to me because I believe it fills an important and often overlooked need: finding the right words to sell the product or service you deeply believe in. So many entrepreneurs and business leaders believe the cliché that if you simply follow your heart, the money will follow. But pure creativity doesn’t mean you can ignore economics or human behavior. That's why I marry the art of writing with the science of writing. I focus a little less on fanciful prose, and a little more on defining, matching, and positioning your brand voice for success.
 
@@ -141,3 +141,5 @@ Here are a few simple, tangible things you can start doing today to improve webs
 <br>
 
 Thanks for joining us in this informative Q&A, Micah! These are some great tips for how to integrate copywriting into your testing program, so you can increase revenue.
+
+{% include email-sign-up-cta.html %}
