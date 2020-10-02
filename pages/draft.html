@@ -55,22 +55,22 @@ button_text=site.params.GTE_site_cta.button_text %} -->
 
 <div class="container pb-6 mt-6">
   <div class="row">
-    {% for post in site.posts %}
+    {% for draft in site.drafts %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
-        {% if post.heroBackground %}
+        {% if draft.heroBackground %}
         <div
           class="work-image"
-          style="{% if post.cardImageDivStyle %}{{ post.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+          style="{% if draft.cardImageDivStyle %}{{ draft.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
         >
-          <a href="{{ post.url | relative_url}}"
+          <a href="{{ draft.url | relative_url}}"
             ><img
-              src="{% if post.cardImage %}{{ post.cardImage | relative_url }}{% else %}{{ post.heroBackground | relative_url }}{% endif%}"
+              src="{% if draft.cardImage %}{{ draft.cardImage | relative_url }}{% else %}{{ draft.heroBackground | relative_url }}{% endif%}"
               {%
               if
-              post.cardImageClass
+              draft.cardImageClass
               %}
-              class="{{post.cardImageClass}}"
+              class="{{draft.cardImageClass}}"
               {%
               endif
               %}
@@ -79,16 +79,16 @@ button_text=site.params.GTE_site_cta.button_text %} -->
         {% endif %}
         <div class="post post-summary p-2">
           <div class="post-title">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ draft.url }}">{{ draft.title }}</a></h2>
           </div>
           <div class="post-meta">
-            {% if post.author %} {% include post-author.html author=post.author
-            %} {% endif %} {% if post.author %}
+            {% if draft.author %} {% include post-author.html
+            author=draft.author %} {% endif %} {% if draft.author %}
             <span class="on">-</span>
-            {% endif %} {{ post.date | date_to_long_string }}
+            {% endif %} {{ draft.date | date_to_long_string }}
           </div>
           <div class="post-description">
-            <p>{{ post.description }}</p>
+            <p>{{ draft.description }}</p>
           </div>
           <!-- <div class="post-content">
             <p>{{ post.content | strip_html | truncatewords:50 }}</p>
@@ -106,7 +106,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
           </div>
           {% endif %} -->
           <div class="post-link">
-            <a class="post-read-more" href="{{ post.url | relative_url }}"
+            <a class="post-read-more" href="{{ draft.url | relative_url }}"
               >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
             ></a>
           </div>

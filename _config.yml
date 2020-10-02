@@ -22,6 +22,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:path/
+  drafts:
+    output: true
+    permalink: /drafts/:path/
   support:
     output: true
     permalink: /:collection/:path/
@@ -63,6 +66,10 @@ defaults:
       layout: work
   - scope:
       type: posts
+    values:
+      layout: post
+  - scope:
+      type: drafts
     values:
       layout: post
   - scope:

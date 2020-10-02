@@ -9,8 +9,8 @@ categories:
   ["Conversion Rate Optimization", "CRO", "Digital Communications", "Marketing"]
 author: emma_york
 heroBackground: "assets/images/posts/emma-york-blog.png"
-cardImage: "assets/images/posts/emma-york-social.png"
-cardImageClass: "mt-md-n3"
+cardImage: "assets/images/posts/card-image-guest-blog.png"
+cardImageDivStyle: "height: 75px;"
 heroBackgroundOverlay: false
 heroHeight: 700
 heroDiagonal: true
