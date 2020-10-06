@@ -13,7 +13,7 @@ Here are the commonly asked questions about testing, CRO, and Experiment Zone. H
 
 ### There are hundreds of CRO tools on the market. Why would we use Experiment Zone?
 
-Existing [CRO](/services/cro/) tools fit into two categories. There are tools that run the test and collect the data, such as Optimizely and Google Optimize. There are tools that help you get to know what your customers are doing (such as click tracking tools, surveys, or analytics tools).
+Existing [CRO](/services/cro/) tools fit into two categories. There are tools that run the test and collect the data, such as Optimizely and Google Optimize. There are tools that help you get to know what your customers are doing (such as <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tools, surveys, or <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tools).
 
 We stand apart from these two categories. We are here to support and optimize your CRO Program itself. We’re the tool for before and after the tests.
 
@@ -29,17 +29,17 @@ With Experiment Zone, we also focus on the why alongside the what. We bring thou
 
 &nbsp;
 
-## A/B Testing & Conversion Rate Optimization
+## A/B testing & Conversion Rate Optimization
 
 &nbsp;
 
-### Why should my company do A/B testing?
+### Why should my company do<a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>?
 
-A/B testing will increase your revenue. How? You will get more conversions without having to bring in more website visitors. With A/B testing, you will improve your user experience on your website, learn how your customers respond (and what works for them), and you’ll have better scalability as you more out of your acquisition efforts.
+A/B testing will increase your revenue. How? You will get more conversions without having to bring in more website visitors. With <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>, you will improve your user experience on your website, learn how your customers respond (and what works for them), and you’ll have better scalability as you more out of your acquisition efforts.
 
 ### My competitor does testing. Can’t I just copy what they have done?
 
-You could, but you should test it. Your customers are not the same as their customers. They may respond differently to the change, and you may end up hurting your conversion rates by making a change.
+You could, but you should test it. Your customers are not the same as their customers. They may respond differently to the change, and you may end up hurting your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates by making a change.
 
 ### How is CRO different from SEO or paid search optimization?
 

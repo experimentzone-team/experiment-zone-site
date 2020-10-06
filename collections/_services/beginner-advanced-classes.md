@@ -7,30 +7,30 @@ featured: true
 weight: 4
 ---
 
-**Train your team** on conversion rate optimization, A/B testing, user research, and analytics. These classes are taught in-person or over Zoom for your choice of attendees.
+**Train your team** on <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization, <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>, user research, and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a>. These classes are taught in-person or over Zoom for your choice of attendees.
 
 Customized classes available upon request.
 
 ## Introduction To Conversion Rate Optimization
 
-This half day class is the perfect introduction to conversion rate optimization. We’ll teach your team:
+This half day class is the perfect introduction to <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. We’ll teach your team:
 
-- What metrics to monitor to understand conversion
-- Techniques for uncovering opportunities to improve conversion rates
+- What metrics to monitor to understand <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a>
+- Techniques for uncovering opportunities to improve <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates
 - Walk through of the CRO Toolkit and how to get meaningful insights from this data
 
 ## Introduction To A/B Testing
 
-This half day class teaches everything you need to know to get started with browser side testing for A/B testing. We adapt the training for your specific testing tool. We will cover:
+This half day class teaches everything you need to know to get started with browser side testing for <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>. We adapt the training for your specific testing tool. We will cover:
 
-- How to structure an A/B test hypothesis
+- How to structure an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> hypothesis
 - Creating a test plan, so the whole team is aligned on what will be learned and how a test will be structures
 - How to monitor & make determinations that a test has collected enough data
 - The best way to analyze and present test results
 
 ## Advanced Classes
 
-We offer advanced classes in conversion rate optimization, A/B testing, user research, and data analytics.
+We offer advanced classes in <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization, <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>, user research, and data analytics.
 
 Contact us for more information.
 

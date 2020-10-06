@@ -21,7 +21,7 @@ meta_og_image: "http://experimentzone.com/assets/images/posts/sailing-EZ.jpg"
 meta_og_description: "CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool. optimization (CRO)"
 ---
 
-CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool.
+CrazyEgg is a great visual <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tool on their site and are passively collecting data. They struggle to get real value from the tool.
 
 Here’s our guide to making sure you can find actionable and valuable insights using CrazyEgg.
 
@@ -45,13 +45,13 @@ And it’s… free for 30 days
 
 &nbsp;
 
-With click tracking, you can understand:
+With <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a>, you can understand:
 
 - Are visitors scrolling on key information on the page?
 - What are visitors clicking on?
 - What parts of the navigation are visitors using?
 - Did visitors interact with the new element I added?
-- How did my A/B test impact how visitors are using the page?
+- How did my <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> impact how visitors are using the page?
 
 &nbsp;
 
@@ -59,9 +59,9 @@ With click tracking, you can understand:
 
 &nbsp;
 
-CrazyEgg is a useful tool, but it’s essential to keep your goals in mind when using it. You don’t need to run and review click tracking on every page or review every visit’s session. You should focus on high impact pages – pages with many visitors and pages along your funnel where customers encounter key information and decision points to ultimately covert
+CrazyEgg is a useful tool, but it’s essential to keep your goals in mind when using it. You don’t need to run and review <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> on every page or review every visit’s session. You should focus on high impact pages – pages with many visitors and pages along your funnel where customers encounter key information and decision points to ultimately covert
 
-Here’s where we recommend starting with your CrazyEgg to have a big impact on conversion rates:
+Here’s where we recommend starting with your CrazyEgg to have a big impact on <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates:
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Start by running and checking how visitors are scrolling on your homepage and ot
 &nbsp;
 
 Test Idea
-Confirm that visitors are scrolling to the most important content on your landing page. Are they seeing your value prop? Are hey scrolling and seeing your pricing? Are all visitors seeing he call to action?
+Confirm that visitors are scrolling to the most important content on your landing page. Are they seeing your value prop? Are hey scrolling and seeing your pricing? Are all visitors seeing he <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>?
 
 If fewer than 80-90% of visitors aren’t seeing this content, test moving it up on the page.
 
@@ -104,7 +104,7 @@ Look across desktop and mobile. Here may be different issues that surface based 
 Watch for error messages. Are customers going back to fields they’ve already filled out? What’s causing this reaction?
 
 Test Idea
-Consider adding auto fill options for the billing and shipping addresses. Make sure using an A/B test to make sure this is making it easier, not harder for customers. Some autofill tools don’t actually help customers, so measure it to be sure it’s having the intended impact.
+Consider adding auto fill options for the billing and shipping addresses. Make sure using an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> to make sure this is making it easier, not harder for customers. Some autofill tools don’t actually help customers, so measure it to be sure it’s having the intended impact.
 
 &nbsp;
 
@@ -112,7 +112,7 @@ Consider adding auto fill options for the billing and shipping addresses. Make s
 
 &nbsp;
 
-CrazyEgg can provide key insights that can help you understand your customers and drive more revenue. Have you started using CrazyEgg yet? What insights have you used to improve your conversion rate?
+CrazyEgg can provide key insights that can help you understand your customers and drive more revenue. Have you started using CrazyEgg yet? What insights have you used to improve your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate?
 
 <div class="strip-grey pt-5 pb-5 mt-5 team-summary">
   <div class="container justify-content-center">

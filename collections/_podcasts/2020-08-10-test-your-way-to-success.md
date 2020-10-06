@@ -27,9 +27,9 @@ meta_og_description: "Have you ever wondered if you could increase the conversio
 
 &nbsp;
 
-Have you ever wondered if you could increase the conversions on your website? Do you even know how the heck to track that, or what numbers you ACTUALLY need to look for? Well, let Tester Extrordinare AJ Davis, Founder of Experiment explain it to you on the Copy ID podcast with Julio.
+Have you ever wondered if you could increase the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversions on your website? Do you even know how the heck to track that, or what numbers you ACTUALLY need to look for? Well, let Tester Extrordinare AJ Davis, Founder of Experiment explain it to you on the Copy ID podcast with Julio.
 
-This podcast is a great starting point for someone new to conversion rate optimization and who wants to learn the basics and the best starting point.
+This podcast is a great starting point for someone new to <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization and who wants to learn the basics and the best starting point.
 
 ---
 
@@ -57,7 +57,7 @@ So, I guess the first question that comes to mind is how exactly do you do that?
 
 ##### AJ
 
-Great question! We do it through a technique called Conversion Rate Optimization (CRO). So, this is a set of tools and processes that really get you to figure out what's happening today, why it's happening, and what the opportunity is. So, what we look at is your site analytics. Things like where are people going after the landing page? What's really happening on the site? We also talk to customers and understand where they are getting stuck, what's confusing, or what's really appealing about your product or service? And then we take all that and put it together.
+Great question! We do it through a technique called <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion Rate Optimization (CRO). So, this is a set of tools and processes that really get you to figure out what's happening today, why it's happening, and what the opportunity is. So, what we look at is your site <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a>. Things like where are people going after the landing page? What's really happening on the site? We also talk to customers and understand where they are getting stuck, what's confusing, or what's really appealing about your product or service? And then we take all that and put it together.
 
 We then identify ideas for improving the experience so that people ultimately understand what's going on what the opportunity is and connect with the message.
 
@@ -104,7 +104,7 @@ And then from there, you would pick the best option. And then I'm assuming becau
 
 ##### AJ
 
-iteration is the name of the game. So, you know, in the first part of the exercise of conversion rate optimization, you're really understanding what are some of the opportunities so maybe you identify people aren't really sure what your website's about. So if you know people aren't really quite sure it takes them some time to figure out what your website is about. It might be that the coffee can Help them for a bit and might be that you can move some icons to give them a visual representation of it. Yeah. But you want to make sure that you're not just guessing things, you want to focus on solving a real problem.
+iteration is the name of the game. So, you know, in the first part of the exercise of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization, you're really understanding what are some of the opportunities so maybe you identify people aren't really sure what your website's about. So if you know people aren't really quite sure it takes them some time to figure out what your website is about. It might be that the coffee can Help them for a bit and might be that you can move some icons to give them a visual representation of it. Yeah. But you want to make sure that you're not just guessing things, you want to focus on solving a real problem.
 
 <br>
 
@@ -120,7 +120,7 @@ Hmm, good question. So, we tend to work with customers that have multiple steps 
 
 So, you can change one thing on the homepage, change one thing in the cart and have those two tests running at the same time. So that you don't have to say, Oh, the homepage is good enough, let's move on. But instead, always be refining and always be looking for opportunities in those pages.
 
-So, at the end of the day, customers' expectations evolve with time, competitors do things differently over time. So, there's not really the answer of good enough. But if you've stalled out of ideas, and if the tests are coming back as no difference or this is not helping conversion, then you've got to go back to that first step and say, okay, but is there still a problem here? Is there still an opportunity for us to communicate better?
+So, at the end of the day, customers' expectations evolve with time, competitors do things differently over time. So, there's not really the answer of good enough. But if you've stalled out of ideas, and if the tests are coming back as no difference or this is not helping <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion, then you've got to go back to that first step and say, okay, but is there still a problem here? Is there still an opportunity for us to communicate better?
 
 <br>
 
@@ -180,19 +180,19 @@ So, what do you say?
 
 This is something we see all the time. In fact, when we get started with clients, we hear this too. Like, hey, do you have hot jar Crazy Egg or any of these tools? Yeah, we always get like, Yeah, but we don't use it. Sure, yeah, somebody's using it. But nobody really is.
 
-There's not a clear insight from the data. So the answer is like, what I thought it comes back to this principle that I love to live by, which is, it's okay to collect data. But really what you want to do is define what you're trying to learn before you collect it. Like, what's the research question? When looking at the click tracking data you might ask, are people seeing my call to action? Like our when you run your click tracking heat map? Are you like seeing people scroll down your page?
+There's not a clear insight from the data. So the answer is like, what I thought it comes back to this principle that I love to live by, which is, it's okay to collect data. But really what you want to do is define what you're trying to learn before you collect it. Like, what's the research question? When looking at the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> data you might ask, are people seeing my <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>? Like our when you run your click tracking heat map? Are you like seeing people scroll down your page?
 
 <br>
 
 ##### Julio
 
-I think that's kind of where it's hard because like, I think a lot of people also don't know what is correct, like what they don't, they don't have a reference point. So, they just see like, okay, in the beginning, I have a bunch of red dots in the beginning. And then as I scroll down, the farther down my sales page, they become less. And so like, I don't know, if my entire page needs to be like a giant red, you know, Doc, or, like, I know, it's probably like in a perfect world or something. So, I don't know, at what point Am I good? Or like, Is this just terrible from the get-go? And you know, because at that point, I'm looking at bounce rates and time spent on page and I have no idea how to plug all this in and actually get, you know, some sort of statistical significance.
+I think that's kind of where it's hard because like, I think a lot of people also don't know what is correct, like what they don't, they don't have a reference point. So, they just see like, okay, in the beginning, I have a bunch of red dots in the beginning. And then as I scroll down, the farther down my sales page, they become less. And so like, I don't know, if my entire page needs to be like a giant red, you know, Doc, or, like, I know, it's probably like in a perfect world or something. So, I don't know, at what point Am I good? Or like, Is this just terrible from the get-go? And you know, because at that point, I'm looking at <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Bounce-Rate">bounce rates</a> and time spent on page and I have no idea how to plug all this in and actually get, you know, some sort of statistical significance.
 
 <br>
 
 ##### AJ
 
-Yeah, or even just an insight like, what does it mean, right? Yeah. Like, okay, cool. People are clicking Little bit here and a lot here. But I think what I would encourage you to do is when you look at your website, instead of saying what are people interested in, you could say, what do I want them to be interested in? Okay? So if you see in a heat map that there's a cluster of clicks on a part of your page that you're not really that's not the call to action, that's something main thing they need to do, then you might not have the call to action in the right place, or you might have something else on your site that's distracting them.
+Yeah, or even just an insight like, what does it mean, right? Yeah. Like, okay, cool. People are clicking Little bit here and a lot here. But I think what I would encourage you to do is when you look at your website, instead of saying what are people interested in, you could say, what do I want them to be interested in? Okay? So if you see in a heat map that there's a cluster of clicks on a part of your page that you're not really that's not the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>, that's something main thing they need to do, then you might not have the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> in the right place, or you might have something else on your site that's distracting them.
 
 <br>
 
@@ -268,7 +268,7 @@ So actually, I think is a pretty decent segue into what I wanted you to kind of 
 
 ##### AJ
 
-Okay, so I'm going to ask you some questions here. So, we're going to go through this Conversion Rate Optimization process. So, you've got your website. What is the purpose of this page?
+Okay, so I'm going to ask you some questions here. So, we're going to go through this <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion Rate Optimization process. So, you've got your website. What is the purpose of this page?
 
 <br>
 
@@ -288,13 +288,13 @@ Perfect. So, can you scroll down the page and show me the one action? If everybo
 
 ##### Julio
 
-Well, I guess starting here, right, so yes, I need handmade social sales. Am I understanding this right? Like, I'm just I don't know what really what I guess what I'm doing. So, I see there's the call to action button. I guess that is what I'm asking them to do. But it's also throughout the entire thing. Like this is the final call to action, and then a little fax page.
+Well, I guess starting here, right, so yes, I need handmade social sales. Am I understanding this right? Like, I'm just I don't know what really what I guess what I'm doing. So, I see there's the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> button. I guess that is what I'm asking them to do. But it's also throughout the entire thing. Like this is the final <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>, and then a little fax page.
 
 <br>
 
 ##### AJ
 
-And so you just had a really great example of what I like to the analogy I like to use is when you're trying to teach someone something or you're giving a presentation first you say like, what you what is this going to be about and then you explain it, and then you repeat the takeaway? So, for your calls to action, you're showing them multiple times. And just to clarify for those at home are these the same call to actions like if I click on any of these will they take me Same place.
+And so you just had a really great example of what I like to the analogy I like to use is when you're trying to teach someone something or you're giving a presentation first you say like, what you what is this going to be about and then you explain it, and then you repeat the takeaway? So, for your calls to action, you're showing them multiple times. And just to clarify for those at home are these the same <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>s like if I click on any of these will they take me Same place.
 
 <br>
 
@@ -312,13 +312,13 @@ Perfect. So that keeps you super focused as a visitor. So as soon as you're read
 
 ##### Julio
 
-So, okay, I get what you're saying because I there was one person we were working with before that we had a very similar thing, not in terms of the content she was producing. But she was trying to host like a masterclass, and we were going through her website, but she had like seven different things that she wanted them to seven different CTAs on that one sales page. And I told her like you need to get rid of all of them and focus on one. So, do you think my advice was spot on? Or do you think like, I should have left it alone.
+So, okay, I get what you're saying because I there was one person we were working with before that we had a very similar thing, not in terms of the content she was producing. But she was trying to host like a masterclass, and we were going through her website, but she had like seven different things that she wanted them to seven different <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">CTAs</a> on that one sales page. And I told her like you need to get rid of all of them and focus on one. So, do you think my advice was spot on? Or do you think like, I should have left it alone.
 
 <br>
 
 ##### AJ
 
-I think it depends on the context. So, in some cases, you may have one thing you want people to really do. Sure. And if that's the case, you want to tell them, repeat it make it easy for them to take it from anywhere. But sometimes there's going to be a call to action that's like, Okay, this is identifying that you are not a fit for this product. But maybe there's something else our website offers or something else our business offers that we can like switch you into that other funnel. It's okay to have secondary calls to actions that take people away from this page. After all, some people just aren't a good fit, right?
+I think it depends on the context. So, in some cases, you may have one thing you want people to really do. Sure. And if that's the case, you want to tell them, repeat it make it easy for them to take it from anywhere. But sometimes there's going to be a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> that's like, Okay, this is identifying that you are not a fit for this product. But maybe there's something else our website offers or something else our business offers that we can like switch you into that other funnel. It's okay to have secondary calls to actions that take people away from this page. After all, some people just aren't a good fit, right?
 
 <br>
 
@@ -358,13 +358,13 @@ Yeah, you did. And so, it's like they're coming across you in a social context. 
 
 ##### Julio
 
-Yeah, in this particular circumstance, since we're not driving cold audience to this page people kind of generally know us because it was based mainly on followers. And then, of course, it was also because we were hosting a class over this, so people got to know us and, you know, see us for two days, essentially an hour each day, which again, again, I think really built that know, like trust factor. So, I think this would probably be a much higher overall conversion rate than if we had just directed via like a Facebook ad. A bunch of cold traffic to this particular page with no you know, no videos to teach them why they would want this or anything like that.
+Yeah, in this particular circumstance, since we're not driving cold audience to this page people kind of generally know us because it was based mainly on followers. And then, of course, it was also because we were hosting a class over this, so people got to know us and, you know, see us for two days, essentially an hour each day, which again, again, I think really built that know, like trust factor. So, I think this would probably be a much higher overall <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate than if we had just directed via like a Facebook ad. A bunch of cold traffic to this particular page with no you know, no videos to teach them why they would want this or anything like that.
 
 <br>
 
 ##### AJ
 
-Yeah, I didn't It brings up a good point. So that first step that we talked about where you're generating ideas and conversion rate optimization, and really important thing to look at is that traffic source because it can have a huge impact on what are they coming from? What do they know about us? And like, what's our intent? Are they really high intent like you're describing? Like, they already know us and they're ready to go and take action? Or is it just the kind of accidentally came across us in an ad, and have a lot more work to get through in order to have the intent and readiness to go? So generally, this will have a lower conversion rate. So, you know, that's on the data side of things. Have you had a chance to get any feedback from visitors or from folks in the class about this web page?
+Yeah, I didn't It brings up a good point. So that first step that we talked about where you're generating ideas and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization, and really important thing to look at is that traffic source because it can have a huge impact on what are they coming from? What do they know about us? And like, what's our intent? Are they really high intent like you're describing? Like, they already know us and they're ready to go and take action? Or is it just the kind of accidentally came across us in an ad, and have a lot more work to get through in order to have the intent and readiness to go? So generally, this will have a lower <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate. So, you know, that's on the data side of things. Have you had a chance to get any feedback from visitors or from folks in the class about this web page?
 
 <br>
 
@@ -430,9 +430,9 @@ So my point is just like how important it is to test whatever you're putting out
 
 ##### AJ
 
-Yeah, I think what you're getting at is, like the essence of why we do conversion rate optimization, right? In our old ways, or in sales that's face to face. You're shaking hands, you're talking, you're testing out your message. And then you get to see their response and start adapting and figuring out how much information does my audience really need? How should I frame the question or the information? Do they need a visual? Like, should I have a chart next to me that shows what like the performance numbers or should I just like, give them the bottom line?
+Yeah, I think what you're getting at is, like the essence of why we do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization, right? In our old ways, or in sales that's face to face. You're shaking hands, you're talking, you're testing out your message. And then you get to see their response and start adapting and figuring out how much information does my audience really need? How should I frame the question or the information? Do they need a visual? Like, should I have a chart next to me that shows what like the performance numbers or should I just like, give them the bottom line?
 
-All these things translate directly to your website, and then it feels like it's guesswork just like you were describing like you guys spent tons of money sending people here. But at the end of the day, all you know is that it didn't work. Yeah. But you don't know why. Yeah. And so, the power of conversion rate optimization as a process is to get to that why first.
+All these things translate directly to your website, and then it feels like it's guesswork just like you were describing like you guys spent tons of money sending people here. But at the end of the day, all you know is that it didn't work. Yeah. But you don't know why. Yeah. And so, the power of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization as a process is to get to that why first.
 
 So just like we were talking about the five-second test or a usability study, if you can start with those things, you're just going to be leagues above everyone else, because so many other people jump right into, like, let's get some traffic to it and see what happens.
 
@@ -452,17 +452,17 @@ No, we haven't installed a heat map on this page yet.
 
 ##### AJ
 
-Okay, so I’d definitely do that and then I’d set up a heatmap to see how far people scroll on this page. And where do 75% of people get? Where do 50% of people get? And if you're seeing a cut-off, where 50% of people are only getting to that second call to action, you've got to focus all your attention at the top of the page, right? That's where most people are getting the information before they're leaving, or before they're converting, right?
+Okay, so I’d definitely do that and then I’d set up a heatmap to see how far people scroll on this page. And where do 75% of people get? Where do 50% of people get? And if you're seeing a cut-off, where 50% of people are only getting to that second <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>, you've got to focus all your attention at the top of the page, right? That's where most people are getting the information before they're leaving, or before they're converting, right?
 
-So that's generally how I would approach using the click tracking is make sure they're clicking on those buttons and make sure you know how hard on the page they're going. Okay, but let's, let's take a look just even at this first impression here. So, let's go in the kind of generating test ideas mode, assuming we had looked at data, we had talked to customers that would all inform what we would ultimately be discussing today.
+So that's generally how I would approach using the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> is make sure they're clicking on those buttons and make sure you know how hard on the page they're going. Okay, but let's, let's take a look just even at this first impression here. So, let's go in the kind of generating test ideas mode, assuming we had looked at data, we had talked to customers that would all inform what we would ultimately be discussing today.
 
-One of the things we talked about already that I love is that your website has a call to actions. It has that introduction call to action that a bunch in the middle and then you've got one at the bottom of the page. Write, however, before you scroll, okay, then scroll back up. Yep. What action do I take on this page?
+One of the things we talked about already that I love is that your website has a call to actions. It has that introduction <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> that a bunch in the middle and then you've got one at the bottom of the page. Write, however, before you scroll, okay, then scroll back up. Yep. What action do I take on this page?
 
 <br>
 
 ##### Julio
 
-What do you mean? Are you suggesting that there's not a call to action before they scroll?
+What do you mean? Are you suggesting that there's not a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> before they scroll?
 
 <br>
 
@@ -470,13 +470,13 @@ What do you mean? Are you suggesting that there's not a call to action before th
 
 That's exactly it!
 
-So, what I love is that you have it is animated, so draws your attention. So as soon as you start scrolling, our audience can see that right and, but even better, or an idea that you might consider is having a call to action is visible so that when I first land on the page, my eye is drawn to it. And if I know I need handy social sales, that's a great Yes, I need it. It's action. I need it. Get or maybe even better would be a get your homemade social sales or what's the description you would use instead of like, I need this what is the thing that they're getting from this
+So, what I love is that you have it is animated, so draws your attention. So as soon as you start scrolling, our audience can see that right and, but even better, or an idea that you might consider is having a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> is visible so that when I first land on the page, my eye is drawn to it. And if I know I need handy social sales, that's a great Yes, I need it. It's action. I need it. Get or maybe even better would be a get your homemade social sales or what's the description you would use instead of like, I need this what is the thing that they're getting from this
 
 <br>
 
 ##### Julio
 
-Oh, you mean like in terms of like, making a pain point, a call to action, like maybe something along the lines of like, I don't know, save time by getting social sales for only \$27 or something like that.
+Oh, you mean like in terms of like, making a pain point, a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>, like maybe something along the lines of like, I don't know, save time by getting social sales for only \$27 or something like that.
 
 <br>
 
@@ -496,13 +496,13 @@ Oh, I see. So even just by moving it up a hair, it should make a big difference?
 
 Yeah. And the goal is really just to give them that visual attention. Like, I can read with those websites for free what it saw, and for me, that's all presented there. But then I'm ready, like grab my attention and let me go.
 
-Now, that's not everybody. But the idea is that for people who are ready to go, you give it to them right off the bat. And then for people who need more education before they can commit to it or understand the product that's being offered, then that's why we reinforce that call to action across the page.
+Now, that's not everybody. But the idea is that for people who are ready to go, you give it to them right off the bat. And then for people who need more education before they can commit to it or understand the product that's being offered, then that's why we reinforce that <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> across the page.
 
 <br>
 
 ##### Julio
 
-Great. Okay. So, if this was selling, I mean, this is a product it's a digital product, but it's still a product. So, if this but if this was physical, the same idea applies, right, like have a call to action. That's above the fold, let them check out your collection or let them check out whatever you're featuring as far as t-shirt designs or whatever?
+Great. Okay. So, if this was selling, I mean, this is a product it's a digital product, but it's still a product. So, if this but if this was physical, the same idea applies, right, like have a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>. That's above the fold, let them check out your collection or let them check out whatever you're featuring as far as t-shirt designs or whatever?
 
 <br>
 
@@ -526,13 +526,13 @@ No, I also look like an idiot. Oh, good. Good, good. Good. And I'm hoping everyo
 
 ##### Julio
 
-Well, I'm seeing the handmade 365 I'm not really seeing the Call To Action on the bottom very well. I'm seeing the picture, but I can't really tell what the picture is trying to show me. And, if I scroll up just the tiniest bit I'm seeing this very big and bold header. Did that answer your question? Or was I did I go to surface level?
+Well, I'm seeing the handmade 365 I'm not really seeing the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> on the bottom very well. I'm seeing the picture, but I can't really tell what the picture is trying to show me. And, if I scroll up just the tiniest bit I'm seeing this very big and bold header. Did that answer your question? Or was I did I go to surface level?
 
 <br>
 
 ##### AJ
 
-No, that's great. That's exactly what I was seeing. So, for being when I went when I was squinting, I could see the outline of the different interfaces, so I can see the computer mobile and tablet, right? Um, I couldn't make out what it was, but that's what I would have looked at first based on the squint test, it drew my eye What did not draw my eye Just to really doubling down Today on our hypotheses around the call to action, so I did not see the button. So, there are probably, you know, a hundred tactics to draw your attention to something I mentioned one as you scrolled. Which was it, if you want to show this again, it's like, as you're scrolling up and down the screen, there's a little visual on that button? I think when you go to
+No, that's great. That's exactly what I was seeing. So, for being when I went when I was squinting, I could see the outline of the different interfaces, so I can see the computer mobile and tablet, right? Um, I couldn't make out what it was, but that's what I would have looked at first based on the squint test, it drew my eye What did not draw my eye Just to really doubling down Today on our hypotheses around the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>, so I did not see the button. So, there are probably, you know, a hundred tactics to draw your attention to something I mentioned one as you scrolled. Which was it, if you want to show this again, it's like, as you're scrolling up and down the screen, there's a little visual on that button? I think when you go to
 
 <br>
 
@@ -556,7 +556,7 @@ I mean, the color certainly draws my eye especially with it being against the da
 
 ##### AJ
 
-Right! I also had the numbers jump out and the red button was even brighter. So, what's great about that is you want people to read these 123. So, if it's the squint trick, if the squint test holds the you No people are going to look at one first and then read these three sections, which is great. And then even more importantly, the call to action is in focus when you're out of focus, right. So, you know, this is a quick example of some of the ways you might find some ways to just visually improve your site so that you're always helping them always helping your visitor, focus on the things that you want them to do.
+Right! I also had the numbers jump out and the red button was even brighter. So, what's great about that is you want people to read these 123. So, if it's the squint trick, if the squint test holds the you No people are going to look at one first and then read these three sections, which is great. And then even more importantly, the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> is in focus when you're out of focus, right. So, you know, this is a quick example of some of the ways you might find some ways to just visually improve your site so that you're always helping them always helping your visitor, focus on the things that you want them to do.
 
 So that they know once this, they decided this is the thing for them. They don't have to do any work. we're presenting it to them in simple language, we're presenting it to them with a simple and easy button to reach. And visually, they don't have to do the homework of kind of scanning the things that draw their attention, but instead, they just hope this is what they want me to do. And I'm ready. Let's do it.
 
@@ -570,7 +570,7 @@ Okay. Yeah. I love that. I think that's a fantastic tip. I've never heard that p
 
 ##### AJ
 
-It's the age Ah, oh, yeah. AJ squint test. There you go. So, I think that's it. I think that's a good walkthrough of what you're saying. You know, I think at the end of the day in your work, we can stop sharing now, you know, at the end of the day, you've got to know, what's the purpose of this site? What we're trying to get people to do? Is it clear and easy to find those things, right? And then take a look at the data, talk to your customers, those two steps are just going to, like push you way above, just throwing ads at it. And then identify things for improvement that can come from the data or come from some of the things that we just walked through. Pretty cool. conversion rate optimization in a nutshell, right keep doing over and over.
+It's the age Ah, oh, yeah. AJ squint test. There you go. So, I think that's it. I think that's a good walkthrough of what you're saying. You know, I think at the end of the day in your work, we can stop sharing now, you know, at the end of the day, you've got to know, what's the purpose of this site? What we're trying to get people to do? Is it clear and easy to find those things, right? And then take a look at the data, talk to your customers, those two steps are just going to, like push you way above, just throwing ads at it. And then identify things for improvement that can come from the data or come from some of the things that we just walked through. Pretty cool. <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization in a nutshell, right keep doing over and over.
 
 <br>
 
@@ -670,7 +670,7 @@ Pretty cool. Okay, how can people find you How can they work with you? Yeah, why
 
 ##### AJ
 
-Yeah. So, we're located at experimentzone.com and what we are giving away right now and is great for anybody who's looking for some feedback similar to what we did today. is a one-hour free console. So, you get a chance to sit with myself or someone else on the team, we'll look at your website, we'll talk about your analytics and any customer data you have. Then we'll give you actionable things you can do. And if at the end of that we think it's a good relationship, then we can continue the conversation. The way that we work with customers is that we either do conversion deep-dives if they're a business that's not quite at the right scale for a be testing yet they're getting there. But they want someone to help with the analytics and customer interviews and research. And then for businesses that have about 50,000 visitors or more than we do conversion strategies and have that partnership where we're helping define what tests to run, where to run them, and to know that things are working or not.
+Yeah. So, we're located at experimentzone.com and what we are giving away right now and is great for anybody who's looking for some feedback similar to what we did today. is a one-hour free console. So, you get a chance to sit with myself or someone else on the team, we'll look at your website, we'll talk about your analytics and any customer data you have. Then we'll give you actionable things you can do. And if at the end of that we think it's a good relationship, then we can continue the conversation. The way that we work with customers is that we either do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion deep-dives if they're a business that's not quite at the right scale for a be testing yet they're getting there. But they want someone to help with the analytics and customer interviews and research. And then for businesses that have about 50,000 visitors or more than we do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion strategies and have that partnership where we're helping define what tests to run, where to run them, and to know that things are working or not.
 
 <br>
 

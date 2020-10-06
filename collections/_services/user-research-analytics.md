@@ -1,5 +1,5 @@
 ---
-title: "User Research & Analytics"
+title: "User Research & analytics"
 date: 2018-11-21T15:15:26+10:00
 description: "Get To Know Your Customers Better"
 icon: "assets/images/services/icons8-google_analytics_logo.png"
@@ -13,7 +13,7 @@ We’ll help you understand your customers and how they are interacting with you
 
 We’ll bring the story to your data. You’ll understand what customers are doing today and where they are getting stuck.
 
-We review your existing analytics tools and may also recommend additional tools for click tracking and behavioral analysis.
+We review your existing <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tools and may also recommend additional tools for <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> and behavioral analysis.
 
 ## Surveys
 

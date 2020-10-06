@@ -147,6 +147,14 @@ svg {
   font-size: larger;
 }
 
+.content a.glossary-word {
+  text-decoration: none;
+  color: #3f3f3f;
+}
+.content a.glossary-word:hover {
+  color: $primary;
+}
+
 :target {
   display: block;
   position: relative;

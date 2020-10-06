@@ -16,13 +16,13 @@ summary-content: "Let our proven technics increase the percentage of visitors wh
 
 ## Data-backed conversion insights
 
-Benefit from having conversion rate experts reviewing your website and doing a deep dive into your website data to create an expert road map to help your company increase conversion, keep clients happy, and increase sales.
+Benefit from having <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate experts reviewing your website and doing a deep dive into your website data to create an expert road map to help your company increase <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a>, keep clients happy, and increase sales.
 
-**Kickoff meeting** with our conversion experts. We’ll understand your goals & get access to your analytics and user
+**Kickoff meeting** with our <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> experts. We’ll understand your goals & get access to your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> and user
 research platforms.
 
 **Analytics Review** highlighting the current state of your site experience, opportunities for additional tracking, and the most important pages to optimize, so you can focus on making changes to the most impactful pages.
 
-**User Experience Audit** to identify the friction points for visitors who want to become customers. We’ll review the key pages along your customer journey on your website, so you can fix the usability issues standing in the way of conversion.
+**User Experience Audit** to identify the friction points for visitors who want to become customers. We’ll review the key pages along your customer journey on your website, so you can fix the usability issues standing in the way of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a>.
 
-**Executive Summary** highlighting the insights and prioritized recommendations for improving your conversion rates, so you’re confident in what you need to tackle next.
+**Executive Summary** highlighting the insights and prioritized recommendations for improving your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates, so you’re confident in what you need to tackle next.

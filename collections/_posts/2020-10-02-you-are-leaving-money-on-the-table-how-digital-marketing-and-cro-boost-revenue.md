@@ -53,7 +53,7 @@ The three most common mistakes I see businesses make in their digital marketing 
 
 Overall, every digital asset you put online - whether it is your website, your social media posts, or your email newsletter - it has to have a connection to your bigger purpose and business goals, and it has to be focused on your ideal client.
 
-There are so many ways you can target your ideal client now, but we often focus too much on the numbers that don’t matter to try to get customers we don’t want. When you create a digital marketing strategy, you want to create goals beyond the number of followers you have. This allows you to grow your revenue through omnichannel marketing campaigns, valuable engagement, and a strong call to action. When you implement all of these together, you may be shocked by how quickly your sales numbers grow!
+There are so many ways you can target your ideal client now, but we often focus too much on the numbers that don’t matter to try to get customers we don’t want. When you create a digital marketing strategy, you want to create goals beyond the number of followers you have. This allows you to grow your revenue through omnichannel marketing campaigns, valuable engagement, and a strong <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a>. When you implement all of these together, you may be shocked by how quickly your sales numbers grow!
 But of course, all of this takes a lot of time, energy, effort, and some serious trial and error to perfect. That’s why so many people don’t do it.
 
 <br>
@@ -106,7 +106,7 @@ Our marketing efforts generate so much valuable data. Clients should be carrying
 
 For example, I love looking at the results of a Facebook Ad or a high performing social post because it will show me a ton of information about the people who engage with it. From their general location to their age and gender, and even what kind of content made them stop scrolling and click. All of that information should be used to inform my clients’ website to communicate why their prospective customers should hire or purchase from them.
 
-### How can the work that you do be used to improve A/B test hypotheses?
+### How can the work that you do be used to improve <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> hypotheses?
 
 The data I collect allows us to create better, more informed A/B tests. We can carry forward what we learn works, especially how we communicate with our target customers. Sometimes we even uncover new audiences that aren’t spoken to in the website content.
 
@@ -120,7 +120,7 @@ Extremely important. There is only so much marketing of any kind can do. It’s 
 
 ### How do you know when your customers need to focus on their website and conversion rates?
 
-If they are getting leads, but not getting sales, that means they need to take a look at their website and conversion rate.
+If they are getting leads, but not getting sales, that means they need to take a look at their website and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate.
 
 <br />
 

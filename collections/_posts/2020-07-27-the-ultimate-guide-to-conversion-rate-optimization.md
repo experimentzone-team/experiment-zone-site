@@ -29,7 +29,7 @@ Written by AJ Davis
 
 Today, marketing teams are focused on getting more traffic to their website. They hope these visitors come to the site and become customers. If they want more customers, they usually spend more on advertising and post more content on social media. This leads to more people coming to the site and taking action.
 
-But there’s an important tactic that can level up all of these efforts. Few marketing teams focus on this tool, yet it can help companies amplify all of their existing marketing efforts and build long-term, repeatable success and growth. This tactic? Conversion rate optimization (CRO).
+But there’s an important tactic that can level up all of these efforts. Few marketing teams focus on this tool, yet it can help companies amplify all of their existing marketing efforts and build long-term, repeatable success and growth. This tactic? <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> rate optimization (CRO).
 
 In this guide, you’ll learn how to get more out of your existing traffic. You’ll understand how to get started, why you should focus on optimizing your visitor experience, and the power of CRO.
 
@@ -53,11 +53,11 @@ This post references a few different templates to help you implement each step i
 
 # What is conversion rate optimization?
 
-Let’s imagine a retail store. Lots of people walk by the store. Some people enter the store. And a few people walk in and buy something. Conversion rate optimization is the process for getting more people in the store to buy something.
+Let’s imagine a retail store. Lots of people walk by the store. Some people enter the store. And a few people walk in and buy something. <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> rate optimization is the process for getting more people in the store to buy something.
 
 ## Conversion
 
-A conversion is the process of changing or causing something to change from one form to another.
+A <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> is the process of changing or causing something to change from one form to another.
 
 > For our retail store, this would mean converting someone browsing in the store to someone checking out and leaving with a purchase.
 
@@ -77,9 +77,9 @@ Conversions are tied to specific actions or goals on your website. These goals t
 
 ## Conversion Rate
 
-The conversion rate is the number of times the visitor completes a goal divided by your total traffic.
+The <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate is the number of times the visitor completes a goal divided by your total traffic.
 
-> For our retail store, the conversion rate of 20% would mean that 1 in 5 people who come into the store buy something.
+> For our retail store, the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate of 20% would mean that 1 in 5 people who come into the store buy something.
 
 You can use this **simple formula to calculate conversion rate**:
 
@@ -87,13 +87,13 @@ You can use this **simple formula to calculate conversion rate**:
 
 ## Conversion Rate Optimization
 
-Conversion rate optimization (CRO) is the systematic process of increasing the percentage of visitors who take a desired action.
+<a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> rate optimization (CRO) is the systematic process of increasing the percentage of visitors who take a desired action.
 
-> For our retail store, we may want to see more people who browse the store purchase something. We could use conversion rate optimization to understand why they aren’t purchasing. Perhaps they are having trouble finding a product that fits their needs or maybe they have questions about how the product works. By addressing these needs, we might get more people to purchase in store and see the conversion rate increase. We might see 1 in 4 people buying something by making systematic improvements to the store experience!
+> For our retail store, we may want to see more people who browse the store purchase something. We could use <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization to understand why they aren’t purchasing. Perhaps they are having trouble finding a product that fits their needs or maybe they have questions about how the product works. By addressing these needs, we might get more people to purchase in store and see the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate increase. We might see 1 in 4 people buying something by making systematic improvements to the store experience!
 
 This process includes understanding how visitors land and move through your site, what actions they take (and don’t take), and what is stopping them from completing desired actions on your website.
 
-When you have an understanding of what's happening and what's standing in the way, conversion rates will improve by:
+When you have an understanding of what's happening and what's standing in the way, <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates will improve by:
 
 - Generating ideas for improving the site experience
 - Evaluating which ideas are practical and effective
@@ -105,15 +105,15 @@ They are the same! By describing this process as “experience optimization”, 
 
 ## Why should conversion rate not be my only goal?
 
-The term “conversion rate optimization” is a bit misleading. Yes, we should want to increase your conversion rate. But it shouldn’t be your primary goal! Revenue is the most important goal - and we can make changes to your conversion rate that can increase orders, but decrease revenue.
+The term “<a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization” is a bit misleading. Yes, we should want to increase your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate. But it shouldn’t be your primary goal! Revenue is the most important goal - and we can make changes to your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate that can increase orders, but decrease revenue.
 
-> For our retail store, we’d get more people to purchase if we steply discount our price from $25 to $1. This might dramatically increase our conversion rate - perhaps 90% of people will buy for this price! For 100 people coming into the store, that would mean:
+> For our retail store, we’d get more people to purchase if we steply discount our price from $25 to $1. This might dramatically increase our <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate - perhaps 90% of people will buy for this price! For 100 people coming into the store, that would mean:
 >
 > > Scenario 1: 100 People X 20% conversion rate X $25  = $500
 > > Scenario 2: 100 People X 90% conversion rate X $1 = $90
 > > Clearly massive discounts can lead to more sales, but are worse for the business overall.
 
-Increasing your conversion **rate** is a good goal. But the broader context needs to be taking into account. The ultimate goal for conversion rate optimization is the **amount of revenue** that your site generated. Most times, the goal of increasing conversion <a id="who-should-use-cro"></a>rate aligns with an increase in revenue, but it’s an important distinction to keep in mind.
+Increasing your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> **rate** is a good goal. But the broader context needs to be taking into account. The ultimate goal for <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization is the **amount of revenue** that your site generated. Most times, the goal of increasing <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> <a id="who-should-use-cro"></a>rate aligns with an increase in revenue, but it’s an important distinction to keep in mind.
 
 <!-- [comment]: #Featured Resource
 Why you're losing revenue without conversion rate optimization -->
@@ -128,7 +128,7 @@ What are the biggest benefits of using CRO on your website?
 
 **You’ll get more customers from the same amount of traffic**
 The biggest benefit is more revenue from existing website visitors. By increasing the percentage of visitors who purchase, you can make more money without spending more money on advertising or marketing.
-You may have a monthly marketing budget to maintain your traffic volume. You might have paid marketing, content or social media. Either way, traffic costs money. Using conversion rate optimization, you’ll get more customers from the same amount of traffic spend.
+You may have a monthly marketing budget to maintain your traffic volume. You might have paid marketing, content or social media. Either way, traffic costs money. Using <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization, you’ll get more customers from the same amount of traffic spend.
 **Acquisition costs per customer will decrease**
 You’ll get more customers with the same marketing budget, which means you’re spending less money per customer.
 **With more profit, you’ll be able to grow your business faster**
@@ -136,7 +136,7 @@ You’ll make more money overall, which means you can either put more money back
 
 ## Why would businesses _not_ do conversion rate optimization?
 
-With all these benefits, you might be wondering why a business would not be investing in conversion rate optimization. Our customers often weren’t doing conversion rate optimization before working with us - and we’ve come to understand some of the reasons businesses haven’t made the investment.
+With all these benefits, you might be wondering why a business would not be investing in <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. Our customers often weren’t doing <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization before working with us - and we’ve come to understand some of the reasons businesses haven’t made the investment.
 
 Here are a few reasons we’ve heard from customers.
 
@@ -148,15 +148,15 @@ Here are a few reasons we’ve heard from customers.
 
 # When should you use CRO for your business?
 
-Do you have website visitors? If yes, you should be using CRO now! Conversion rate optimization is one of the fastest and most effective tools for getting more customers from your existing traffic.
+Do you have website visitors? If yes, you should be using CRO now! <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> rate optimization is one of the fastest and most effective tools for getting more customers from your existing traffic.
 
 No matter how established or large your company is, you want to get more visitors to become customers and brand advocates - and you want to do this is an effective and reliable way.
 
 ## Conversion Rate Optimization & Traffic
 
-We often hear that businesses think they need “enough” traffic to do CRO. Yes, for certain tools to bring actionable and statistically reliable information (like A/B Testing), you do need to have enough traffic.
+We often hear that businesses think they need “enough” traffic to do CRO. Yes, for certain tools to bring actionable and statistically reliable information (like <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B Testing</a>), you do need to have enough traffic.
 
-<a id="where-to-start-cro"></a>If you don’t have a lot of traffic, you just need to re-tool your CRO tool belt. Any size business should be talking to their customers, reviewing their analytics and click tracking data, and identifying (and fixing) pain points.
+<a id="where-to-start-cro"></a>If you don’t have a lot of traffic, you just need to re-tool your CRO tool belt. Any size business should be talking to their customers, reviewing their <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> data, and identifying (and fixing) pain points.
 
 <!-- [comment]: # Featured Resource
 Can I be A/B testing with my traffic level? -->
@@ -189,11 +189,11 @@ Just remember that you aren’t building a website for you or people like you. Y
 
 ## Step 2: Identify where customers go & what they do in the customer journey
 
-Once you know your customer, you need to know the hard numbers on how people interact with your website. Use a web analytics platform, such as Google Analytics to understand where customers go and how they convert.
+Once you know your customer, you need to know the hard numbers on how people interact with your website. Use a web <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> platform, such as Google Analytics to understand where customers go and how they convert.
 
 You can use analytics to understand the customer journey on the website. Where do people enter your website? What pages do they interact with once they are on the site? What browsers or devices are they using? Where are visitors leaving your website before purchasing?
 
-This information will focus your conversion rate optimization efforts. You should put your effort into pages that people see and that are along the path to purchasing.
+This information will focus your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization efforts. You should put your effort into pages that people see and that are along the path to purchasing.
 **Important Tools**
 
 - [Google Analytics](https://analytics.google.com/analytics/web/): A web analytics tool provided by Google.
@@ -225,7 +225,7 @@ User research helps improve conversions by providing more information about visi
 
 With all this important data, you’ll begin to develop ideas to address customer needs through your website. Encourage your team to share their ideas using a collaborative ideas tool like [Hypothesis Library](https://hypothesislibrary.com/), so you can consider many ideas and go with the best ones.
 
-Once you decide what to test, you can set up an A/B test to understand the impact of this change and make a decision on data.
+Once you decide what to test, you can set up an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> to understand the impact of this change and make a decision on data.
 **Important Tools**
 
 - <a id="how-to-approach-cro"></a>Free A/B Testing: [Google Optimize](https://optimize.withgoogle.com/)
@@ -235,7 +235,7 @@ Once you decide what to test, you can set up an A/B test to understand the impac
 
 ## Good Optimization Practices
 
-Keep these rules in mind as you do conversion rate optimization.
+Keep these rules in mind as you do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization.
 
 **Don’t copy competitors**
 Many businesses are just guessing. You can get ahead by **knowing** what works by making data driven decisions. Even if they are testing, you don’t know if what works for their customers will work for yours.
@@ -248,7 +248,7 @@ What works best for your customers isn’t always obvious. Sometimes you need to
 
 <!-- [comment]: # Image that shows the iteration of testing. -->
 
-The best way to get a better conversion rate is to understand what your visitors need, be as clear and compelling as possible, and then test it to confirm that it is impactful.
+The best way to get a better <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate is to understand what your visitors need, be as clear and compelling as possible, and then test it to confirm that it is impactful.
 
 ## Optimization Process
 
@@ -273,7 +273,7 @@ You should end up with a short list of feasible and high impact ideas to get sta
 
 3. Measure Ideas
 
-- Make a measurement plan: Before you implement, identify how you’ll know if an idea “worked” or had an impact on your conversion rate.
+- Make a measurement plan: Before you implement, identify how you’ll know if an idea “worked” or had an impact on your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate.
 - Measure, measure, measure: Don’t forget to measure.
 - Implement Winners: Only make changes permanent that work. Throw out any losing ideas and iterative on the solution until you find something that works.
 

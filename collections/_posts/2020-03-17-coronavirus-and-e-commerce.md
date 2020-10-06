@@ -40,7 +40,7 @@ Read this guide from Retail Dive on [Tracking retail’s response to the coronav
 
 &nbsp;
 
-WITHIN is sharing aggregated customer data to understand the impact of the coronavirus across several metrics. You can find data on revenue, conversion rate, Facebook Spend, and Google Spend.
+WITHIN is sharing aggregated customer data to understand the impact of the coronavirus across several metrics. You can find data on revenue, <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate, Facebook Spend, and Google Spend.
 
 Read more on [COVID-19 Retail Pulse](https://go.within.co/retail-pulse/).
 

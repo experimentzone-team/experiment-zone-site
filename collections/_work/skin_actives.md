@@ -10,7 +10,7 @@ heroBackground: "assets/images/work/skinactives-EZ.png"
 image: "assets/images/work/skinactives-EZ.png"
 ---
 
-Skin Actives delivers a comprehensive assortment of effective skin care products at prices the everyday consumer can afford. As their business grows, they strive to increase their profitability and maintain their brand through (1) steady order conversion increases and (2) optimized customer experience. They brought Experiment Zone onboard to evaluate, test, and implement changes to the Skin Active site that ensured they would achieve these business goals.
+Skin Actives delivers a comprehensive assortment of effective skin care products at prices the everyday consumer can afford. As their business grows, they strive to increase their profitability and maintain their brand through (1) steady order <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> increases and (2) optimized customer experience. They brought Experiment Zone onboard to evaluate, test, and implement changes to the Skin Active site that ensured they would achieve these business goals.
 
 ## Challenge + Obstacle
 

@@ -30,11 +30,11 @@ meta_og_description: "You probably have a large list of A/B testing ideas on you
 
 &nbsp;
 
-You probably have a large list of A/B testing ideas on your roadmap. We can’t test everything at once. We all have limited amounts of traffic and budgets.
+You probably have a large list of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> ideas on your roadmap. We can’t test everything at once. We all have limited amounts of traffic and budgets.
 
 You should focus on ideas that have the potential to make the best impact rather than testing the small details.
 
-How do you do this? Prioritize! Here are our favorite 6 A/B test scoring models:
+How do you do this? Prioritize! Here are our favorite 6 <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> scoring models:
 
 &nbsp;
 
@@ -44,7 +44,7 @@ How do you do this? Prioritize! Here are our favorite 6 A/B test scoring models:
 
 Chris Goward at Widerfunnel created the PIE framework. The model scores each page across three factors:
 
-- Potential: Factors in your web analytics and customer data to identify how much improvement can be made on a page.
+- Potential: Factors in your web <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> and customer data to identify how much improvement can be made on a page.
 - Importance: Focuses on the pages with the highest volume and costliest traffic.
 - Ease: Considers how difficult or easy it would be to implement a test on a page.
 

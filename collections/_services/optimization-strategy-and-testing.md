@@ -22,4 +22,4 @@ Quarterly Conversion Deep Dive including an analytics review, user experience au
 
 We’ll generate test hypotheses based on the conversion deep dive. We’ll score and evaluate the ideas to develop a hypothesis library. You’ll be able to see all your ideas in one place, prioritized by the most important ones to test.
 
-We’ll design, develop and analyze the A/B test so we can validate and measure the impact of the site improvements, so you can have confidence that the changes you are making to your site are moving metrics in the right direction. This will result in higher conversion rates & ultimately more revenue.
+We’ll design, develop and analyze the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> so we can validate and measure the impact of the site improvements, so you can have confidence that the changes you are making to your site are moving metrics in the right direction. This will result in higher conversion rates & ultimately more revenue.

@@ -17,9 +17,9 @@ partners: false
 
 ## Fast, expert advice focused on conversion
 
-Receive one on one advice from a Conversion Rate Optimization expert. Have a one-hour conversation where you can start, grow, or perfect your conversion efforts.
+Receive one on one advice from a <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> Rate Optimization expert. Have a one-hour conversation where you can start, grow, or perfect your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> efforts.
 
 - 1-on-1 video or phone call with our CEO, AJ Davis
-- Together, you will go over your website to identify your sales funnel issues and discuss changes to fix them, focusing on improving your conversion rate.
+- Together, you will go over your website to identify your sales funnel issues and discuss changes to fix them, focusing on improving your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate.
 - A list summarizing all of the actionable insights that were discussed.
-- You leave the call happy that you have a plan for improving your conversion rates.
+- You leave the call happy that you have a plan for improving your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates.

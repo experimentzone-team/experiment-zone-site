@@ -81,7 +81,7 @@ I would recommend any business invest a little time researching where their audi
 
 ### When should your clients be considering conversion rate optimization? How does it build off of the PR and digital marketing strategy work that your company provides?
 
-Conversion rates should be looked at regularly. I always recommend a monthly review of website data and analytics to test and evaluate in comparison month-on-month and year-on-year. This helps to determine the progress of the website and if changes need to be made.
+<a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">Conversion</a> rates should be looked at regularly. I always recommend a monthly review of website data and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> to test and evaluate in comparison month-on-month and year-on-year. This helps to determine the progress of the website and if changes need to be made.
 
 CRO should be used to identify why website visitors aren’t converting into customers and can be an important way to get the most out of your digital and marketing efforts.
 
@@ -95,7 +95,7 @@ Test, plan, be present, and spend time on the content you are putting together. 
 
 <div style="text-align:center"><img src="../assets/images/posts/fb-insights.JPG"/></div>
 
-Combining website analytics and social insight data, a business has a lot of essential information to find out if their digital marketing is effective and if conversion rates needs to be worked on further. Honestly, most businesses can benefit from CRO!
+Combining website analytics and social insight data, a business has a lot of essential information to find out if their digital marketing is effective and if <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rates needs to be worked on further. Honestly, most businesses can benefit from CRO!
 
 <br />
 

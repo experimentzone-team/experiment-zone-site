@@ -40,7 +40,7 @@ While many clients are anxious to dive into solutions first, Clearhead believes 
 
 Experiment Zone embedded with the Clearhead teams to understand how the their Problem Solution Mapping (PSM) was working in practice and to identify opportunities to incorporate customer insights into the process. They brought in research to:
 Understand “why” a test won or lost
-Reduce risk in an A/B test by putting the best designs forward
+Reduce risk in an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> by putting the best designs forward
 Discover external customer problems to inform solutions
 
 &nbsp;

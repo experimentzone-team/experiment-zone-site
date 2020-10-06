@@ -11,7 +11,7 @@ We’ll help you unlock additional revenue from visitors already on your site. O
 
 ## Generate Ideas
 
-We start by generating ideas that will impact your conversion rate from several sources:
+We start by generating ideas that will impact your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate from several sources:
 
 - Google Analytics and other analytics tools
 - Customer feedback from surveys and usability research
@@ -25,7 +25,7 @@ We’ll use scoring criteria to evaluate the ideas consistently and systematical
 
 ## Measure Ideas
 
-We’ll put those ideas to the test – literally! We’ll run A/B tests on the top scoring test ideas to validate that they help with conversion – and quantify how much they help.
+We’ll put those ideas to the test – literally! We’ll run A/B tests on the top scoring test ideas to validate that they help with <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> – and quantify how much they help.
 
 {% include free-consult.html heading=site.params.free_consult_cta.heading
 subheading=site.params.free_consult_cta.subheading

@@ -22,7 +22,7 @@ meta_og_image: "http://experimentzone.com/assets/images/posts/hotjar-EZ.jpeg"
 meta_og_description: "Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other click tracking software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar."
 ---
 
-Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other click tracking software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar.
+Hotjar is a great analytics and user feedback tool to help understand what customers are doing – and what they think. We use Hotjar (or other <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> software) in our essential CRO tool box. Sometimes clients come to us already using Hotjar, but not getting the most value from the tool. Here’s our guide to making sure you are sorting through the data to get to actionable and valuable insights when using Hotjar.
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Hotjar is a great analytics and user feedback tool to help understand what custo
 
 &nbsp;
 
-Click tracking & Click Recordings
+<a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">Click Tracking</a> & Click Recordings
 
 - Hotjar will track what visitors click on and where they hover their mouse. Hotjar provides clear visualizations about what’s happening on your site. We’ve found these visualizations can be a great aid in building consensus to make change on the site, especially as they can communicate with visual learners.
 
@@ -62,7 +62,7 @@ With these tools, you can understand:
 
 &nbsp;
 
-Hotjar is a great tool that needs to be put to good use. A lot of companies have the tag on their site, but don’t translate the analytics data into actionable, high value insights. Here’s where we recommend starting your Hotjar analysis:
+Hotjar is a great tool that needs to be put to good use. A lot of companies have the tag on their site, but don’t translate the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> data into actionable, high value insights. Here’s where we recommend starting your Hotjar analysis:
 
 &nbsp;
 
@@ -101,7 +101,7 @@ If visitors say they don’t trust this site, you need to give them reasons to t
 
 &nbsp;
 
-Hotjar can provide a wealth of information, and it’s up to you to harness it and find value. Have you started using Hotjar yet? How have you applied these insights to improving your conversion rate?
+Hotjar can provide a wealth of information, and it’s up to you to harness it and find value. Have you started using Hotjar yet? How have you applied these insights to improving your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate?
 
 <div class="strip-grey pt-5 pb-5 mt-5 team-summary">
   <div class="container justify-content-center">

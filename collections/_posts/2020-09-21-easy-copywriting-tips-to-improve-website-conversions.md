@@ -74,7 +74,7 @@ Start by auditing your site yourself, or asking someone in your target audience 
 
 Then focus on the menu navigation. Make sure the different pages have standard page names. I usually recommend sticking to About, Services, Contact, and maybe one or two others.
 
-Your website should be a roadmap leading to a giant PURCHASE or CONTACT button. At the end of each section of copy, tell the reader where you want them to go next with clear language and buttons. Don’t let them get to the end of the page and leave your site because they think there’s nothing more to do or see. Laying out your website as a roadmap will greatly decrease the bounce rate.
+Your website should be a roadmap leading to a giant PURCHASE or CONTACT button. At the end of each section of copy, tell the reader where you want them to go next with clear language and buttons. Don’t let them get to the end of the page and leave your site because they think there’s nothing more to do or see. Laying out your website as a roadmap will greatly decrease the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Bounce-Rate">bounce rate</a>.
 
 <br>
 
@@ -99,13 +99,13 @@ Lastly, you should use exactly how many words you need to get your point across 
 
 ### What copy on a business’s landing page should be A/B tested?
 
-The main areas to start testing are the headline and subheadline in the hero image area, the call to action buttons, and the questions on your contact form. For instance, does a form with 3 or 6 intake questions result in more leads? If you want to apply A/B testing to marketing emails, switch out the email headlines and snippets (the preview copy you see in your inbox before opening).
+The main areas to start testing are the headline and subheadline in the hero image area, the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> buttons, and the questions on your contact form. For instance, does a form with 3 or 6 intake questions result in more leads? If you want to apply <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> to marketing emails, switch out the email headlines and snippets (the preview copy you see in your inbox before opening).
 
 <br>
 
 ### Are there different approaches to copywriting for B2B or B2C?
 
-Many of the same principles apply, but there are a few things to keep in mind when writing for B2B. First of all, people mistakenly think casual writing automatically equals unprofessional writing. But that’s not always true! In fact, it’s better to be clear and relatable than confusing and stuffy. Identify your audience (are they CEOs or factory floor workers?) and write like they speak. Try not to use too much industry-specific jargon unless it’s absolutely necessary, and appeal to the logical and emotional sides of buyers.
+Many of the same principles apply, but there are a few things to keep in mind when writing for <a class="glossary-word" href="https://experimentzone.com/support/glossary/#B2B">B2B</a>. First of all, people mistakenly think casual writing automatically equals unprofessional writing. But that’s not always true! In fact, it’s better to be clear and relatable than confusing and stuffy. Identify your audience (are they CEOs or factory floor workers?) and write like they speak. Try not to use too much industry-specific jargon unless it’s absolutely necessary, and appeal to the logical and emotional sides of buyers.
 
 <br>
 

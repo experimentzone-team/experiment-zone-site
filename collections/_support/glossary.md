@@ -21,13 +21,13 @@ heroHeight: 350
 <a id="B2C"></a>
 <span class="anchor glossary-term">B2C</span> - Refers to businesses selling goods and services to consumers who are the end users. The term means business to consumers or B to C.
 
-<a id=""></a>
+<a id="Bounce-Rate"></a>
 <span class="anchor glossary-term">Bounce Rate</span> - A percentage of users that enter a site and then leaves without any further engagements. Used to measure the engagement effectiveness of the website.
 
-<a id="Bounce-Rate"></a>
+<a id="Call-to-Action"></a>
 <span class="anchor glossary-term">Call-to-Action (CTA)</span> - A marketing term used to describe prompting the consumer to take the next step resulting in an immediate purchase. Generally refers to terms and phrases such as “Buy Now” that are used as a sales script or advertisement.
 
-<a id="Call-to-Action"></a>
+<a id="Category-Listing-Page"></a>
 <span class="anchor glossary-term">Category Listing Page (CLP)</span> - A visual filter where product options are segmented into sub-categories (Example: Mens, Womens, Kids, etc.). The CLP does not showcase any products, but is a visual list that assists the user in product search. Typically a CLP will include filters to assign a visitor in narrowing her options.
 
 <a id="Click-Tracking"></a>
@@ -42,10 +42,10 @@ heroHeight: 350
 <a id="Digital-Experience-Optimization"></a>
 <span class="anchor glossary-term">Digital Experience Optimization (DXO)</span> - A continuous approach to discovering weaknesses on digital platforms, researching improvement options, and implementing changes to enhance tangible profits.
 
-<a id=""></a>
+<a id="e-Commerce"></a>
 <span class="anchor glossary-term">e-Commerce</span> - Short for “electronic commerce”, it is the buying and selling of goods and services online or over the phone.
 
-<a id="e-Commerce"></a>
+<a id="Experience-Optimization"></a>
 <span class="anchor glossary-term">Experience Optimization (EXO)</span> - The continuous process of discovering the best customer experience through research, experimentation, and data analysis.
 
 <a id="Heatmap"></a>

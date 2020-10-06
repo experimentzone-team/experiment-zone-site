@@ -36,7 +36,7 @@ This for you if:
 
 ## Measure Ideas
 
-We’ll put those ideas to the test – literally! We’ll run A/B tests on the top scoring test ideas to validate that they help with conversion – and quantify how much they help.
+We’ll put those ideas to the test – literally! We’ll run A/B tests on the top scoring test ideas to validate that they help with <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> – and quantify how much they help.
 
 {% include free-consult.html heading=site.params.free_consult_cta.heading
 subheading=site.params.free_consult_cta.subheading

@@ -45,7 +45,7 @@ Experiment Zone may disclose your personal information, without notice, if requi
 
 ### Tracking User Behavior
 
-Experiment Zone may keep track of the websites and pages our users visit within Experiment Zone, in order to determine what Experiment services are the most popular. This data is used to deliver customized content and advertising within Experiment Zone to customers who behavior indicates that they are interested in a particular subject area. We use web analytics and click tracking software.
+Experiment Zone may keep track of the websites and pages our users visit within Experiment Zone, in order to determine what Experiment services are the most popular. This data is used to deliver customized content and advertising within Experiment Zone to customers who behavior indicates that they are interested in a particular subject area. We use web analytics and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> software.
 
 ### Automatically Collected Information
 
