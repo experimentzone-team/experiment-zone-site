@@ -223,12 +223,14 @@ diagonalfill=page.heroDiagonalFill %}
 </div>
 {% endif %}
 
-{% include free-consult.html
+<!-- {% include free-consult.html
   heading=site.params.free_consult_cta.heading
   subheading=site.params.free_consult_cta.subheading
   button_url=site.params.free_consult_cta.button_url
   button_text=site.params.free_consult_cta.button_text
-  %}
+  %} -->
+
+{% include consult-cta.html %}  
 
 <!-- Splash Two -->
 {% if site.params.homepage.show_splash_section_two %}
