@@ -8,8 +8,8 @@ categories:
   ["Conversion Rate Optimization", "CRO", "Digital Marketing", "Marketing"]
 author: hannah_westfall
 heroBackground: "assets/images/posts/hannah-westfall-blog.png"
-cardImage: "assets/images/posts/card-image-guest-blog.png"
-cardImageDivStyle: "height: 75px;"
+cardImage: "assets/images/posts/qa-guest-blog.png"
+cardImageDivStyle: "height: 90px;"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 500
