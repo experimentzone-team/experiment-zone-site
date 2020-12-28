@@ -1,0 +1,229 @@
+---
+layout: default
+title: Home
+body_classes: page-home
+header_classes: header-transparent
+heroHeading: "Growth Through Empathy"
+heroSubHeading: "Free Marketing Webinar: Optimize your ecommerce website & marketing strategy"
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 400
+heroDiagonal: true
+heroDiagonalFill: "#f2f0f5"
+meta_title: "Growth Through Empathy"
+meta_description: "Do you want to grow your brand awareness and learn how to gain more customers by leveraging empathy?"
+meta_og_title: "Growth Through Empathy"
+meta_og_type: website
+meta_og_url: "https://growththroughempathy.com/"
+meta_og_image: "https://growththroughempathy.com/assets/images/sept-gte.png"
+meta_og_description: "Do you want to grow your brand awareness and learn how to gain more customers by leveraging empathy?"
+custom_css: gte-style
+---
+
+<!-- Hero Image Partial-->
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill %}
+
+<!-- Splash One -->
+<div class="strip strip-grey pt-5 splash splash-one">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-5{% else %}col-md-12{% endif %} pb-4"
+      >
+        <h2>Monthly Webinar</h2>
+        <p>Each month, we'll cover grounded examples on how you can improve your website & marketing efforts, so you can grow your business and increase your revenue.<br /><br />The webinar is hosted by AJ Davis from <a href='https://experimentzone.com/'>Experiment Zone</a> and Jennifer Yassen from <a href='https://www.thefreedagency.com/'>The Freed Agency</a>.<br /><br />Register with the link to the right to see more information about this month's topic.</p>
+        <div class="text-center text-md-left">
+          <a
+            class="button d-md-inline-block"
+            href="https://calendly.com/experimentzone/free-marketing-webinar"
+          >
+            Sign Up
+          </a>
+        </div>
+        <h3 class="mt-3">Also join the conversation on our Facebook page</h3>
+        <p>
+          This is a curious and experienced community where we share marketing
+          and conversion tips. You can directly ask AJ and Jennifer questions,
+          as well as get feedback from other businesses.
+        </p>
+        <div class="text-center text-md-left">
+          <a
+            class="btn btn-outline-primary"
+            href="https://www.facebook.com/groups/growththroughempathy/"
+            >Join the Group</a
+          >
+        </div>
+      </div>
+      <div
+        class="col-11 col-md-5 offset-md-1 work-summary"
+        style="margin-bottom: 60px;"
+      >
+      <!-- Calendly inline widget begin -->
+      <div class="col-12 calendly-inline-widget" data-url="https://calendly.com/experimentzone/free-marketing-webinar?hide_event_type_details=1" style="min-width:320px;height:500px;"></div>
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+      <!-- Calendly inline widget end -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Partners -->
+{% if site.data.gte_partners.size > 0 %}
+<div class="strip strip-white home-partners">
+  <div class="container pt-md-6 pt-3 pb-5">
+    <div class="row">
+      <div class="col-12">
+        <div class="partners pt-4 pt-md-0">
+          {% for partner in site.data.gte_partners %} {% if partner.image %}
+          <div class="partner">
+            <a href="{{ partner.urlLink | relative_url }}">
+              <img
+                alt="{{ partner.title }} logo"
+                src="{{ partner.image | relative_url }}"
+                class="{{ partner.class }}"
+              />
+            </a>
+          </div>
+          {% endif %} {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Services -->
+{% assign resources = site.resources | where: "featured", true | sort:'weight' %}
+{% if resources.size > 0 %}
+<div class="strip strip-grey pb-4 pt-6">
+  <div class="container d-none d-md-block">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <h2 class="text-center mb-3">Free Resources</h2>
+      </div>
+      {% for resource in resources limit: 4%}
+      <div class="col-12 col-md-6 col-lg-6 mb-2">
+        <div class="service service-summary">
+          {% if resource.icon %}
+          <div class="service-image">
+            <img src="{{resource.icon | relative_url}}" />
+          </div>
+          {% endif %}
+          <div class="resource-title">
+            <h2>
+              <a href="{{ resource.urlLink }}">{{ resource.title }}</a>
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ resource.description }}</p>
+          </div>
+          <div class="service-content">
+            {{ resource.content | truncate: 220 }}
+          </div>
+          <div class="service-link">
+            <a
+              class="service-read-more"
+              href="{{ resource.urlLink | relative_url}}"
+              >{{resource.button}}<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      <!-- <div class="col-12 text-center">
+        <a
+          class="button button-primary text-center"
+          href="{{ 'resource' | relative_url }}"
+          >View All Services</a
+        >
+      </div> -->
+    </div>
+  </div>
+  <div class="container d-block d-md-none">
+    <div class="row justify-content-start">
+      <div class="col-12">
+        <h2 class="text-center mb-3">Free Resources</h2>
+      </div>
+    </div>
+    <div class="slider">
+      {% for resource in resources limit: 3%}
+      <div class="service service-summary p-2">
+        {% if resource.icon %}
+        <div class="service-image">
+          <img src="{{resource.icon | relative_url}}" />
+        </div>
+        {% endif %}
+        <div class="service-title">
+          <h2>
+            <a href="{{ resource.url | relative_url}}">{{ resource.title }}</a>
+          </h2>
+        </div>
+        <div class="service-description">
+          <p>{{ resource.description }}</p>
+        </div>
+        <div class="service-content">{{ resource.content | truncate: 220 }}</div>
+        <div class="service-link">
+          <a class="service-read-more" href="{{ resource.url | relative_url}}"
+            >{{resource.button}}<i class="fas fa-long-arrow-alt-right ml-1"></i
+          ></a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <!-- <div class="col-12 text-center">
+        <a
+          class="button button-primary mt-2"
+          href="{{ 'resource' | relative_url }}"
+          >View All Services</a
+        >
+      </div> -->
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Youtube playlist -->
+<div class="strip strip-grey">
+  <div class="container pt-2 pb-5">
+    <div class="row justify-content-center">
+      <h2 class="mb-3">Watch Previous Webinars</h2>
+      <div
+        class="col-11 col-md-12 text-center iframe-container img-fluid shadow"
+      >
+        <iframe
+          src="https://www.youtube.com/embed/videoseries?list=PLoMf7noumBKsT9aMf19mI7BplW8d4OqP2"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include guest-speaker-form.html
+heading=site.params.guest-speaker-form.heading
+subheading=site.params.guest-speaker-form.subheading %}
+
+<div class="strip strip-secondary">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1000 100"
+    preserveAspectRatio="none"
+  >
+    <path class="svg-white" d="M738,99l262-93V0H0v5.6L738,99z"></path>
+  </svg>
+</div>
+
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/slick.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/home.js"
+></script>

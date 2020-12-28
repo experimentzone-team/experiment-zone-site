@@ -11,12 +11,15 @@ main:
   - name: Blog
     url: /blog/
     weight: 3
+  # - name: Webinar
+  #   url: /growth-through-empathy//
+  #   weight: 4
   - name: About
     url: /about/
-    weight: 4
+    weight: 5
   - name: Contact
     url: /contact/
-    weight: 5
+    weight: 6
 footer_primary:
   - name: Hypothesis Library Product
     url: https://hypothesislibrary.com/
