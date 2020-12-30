@@ -10,7 +10,7 @@ heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: "#ffffff"
-featured: true
+featured: false
 weight: 3
 button: Get Free Insights
 urlLink: "https://calendly.com/freedagency/free-30-minute-marketing-strategy-advice-call?month=2020-07"
