@@ -12,7 +12,7 @@ main:
     url: /blog/
     weight: 3
   # - name: Webinar
-  #   url: /growth-through-empathy//
+  #   url: /webinar/
   #   weight: 4
   - name: About
     url: /about/
