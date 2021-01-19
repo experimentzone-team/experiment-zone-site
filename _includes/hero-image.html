@@ -25,6 +25,16 @@
         }}{% endif %}
       </h1>
       <p>{{ include.subheading }}</p>
+      {% if include.subsubheading %}
+      <p class="subsubheading">
+        {{ include.subsubheading }}
+      </p>
+      {% endif %}
+      {% if include.cta-button %}
+      <a class="cta-button button d-md-inline-block mt-1" style="position: relative; z-index: 2;"href="{{include.cta-button-href}}">
+        Register Now
+      </a>
+      {% endif %}
     </div>
     <div class="hero-down">
       <a href="#hero-anchor">
@@ -71,6 +81,16 @@
       </h1>
       {% endif %}
       <p class="{{ include.heading }}">{{ include.subheading }}</p>
+      {% if include.subsubheading %}
+      <p class="subsubheading">
+        {{ include.subsubheading }}
+      </p>
+      {% endif %}
+      {% if include.cta-button %}
+      <a class="cta-button button d-md-inline-block mt-1" style="position: relative; z-index: 2;"href="{{include.cta-button-href}}">
+        Register Now
+      </a>
+      {% endif %}
     </div>
   </div>
 </div>

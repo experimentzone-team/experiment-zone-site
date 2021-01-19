@@ -1,0 +1,90 @@
+---
+layout: landing-page
+title: Home
+body_classes: page-home
+header_classes: header-transparent
+heroHeading: "Free Marketing Webinar"
+heroSubHeading: "Lunch and Learn? We prefer lunch and earn."
+heroSubSubHeading: "Break bread with leading optimization experts."
+cta-button: true
+cta-button-href: https://calendly.com/experimentzone/free-marketing-webinar
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 400
+heroDiagonal: true
+heroDiagonalFill: "#f2f0f5"
+meta_title: "Webinar"
+meta_description: "Do you want to grow your brand awareness and learn how to gain more customers by leveraging empathy?"
+meta_og_title: "Webinar"
+meta_og_type: website
+meta_og_url: "https://experimentzone.com/free-marketing-webinar/"
+meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
+meta_og_description: "Do you want to grow your brand awareness and learn how to gain more customers by leveraging empathy?"
+custom_css: free-marketing-webinar-style
+---
+
+<!-- Hero Image Partial-->
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading subsubheading=page.heroSubSubHeading cta-button=page.cta-button cta-button-href=page.cta-button-href
+overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill %}
+
+<!-- Splash One -->
+<div class="strip strip-grey pt-5 splash splash-one">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-5{% else %}col-md-12{% endif %} pb-4"
+      >
+        <h2>Deconstruct CRO over Lunch</h2>
+        <p>We break it down so you don't have to.<br /><br />Join us for a conversation with an expert in the digital marketing field every 4th Thursday.</p>
+        <p class="mb-0">After the webinar, you'll walk away with:</p>
+        <ul class="pl-2 description-ul">
+            <li>A deeper understanding of this month's key CRO strategy</li>
+            <li>Easy tactics that you can apply to your site to boost revenue</li>
+            <li>Fresh testing ideas you can validate with your users </li>
+        </ul>
+
+        <div class="row justify-content-start align-items-start">
+            <div class="col-12 col-md-5">
+                <img class="img-fluid mt-2 mb-2" src="../assets/images/AJDavis-Headshot-Square.jpg" />
+            </div> 
+        </div>
+        <p>Host: AJ Davis</p>
+        <p>Founder of Experiment Zone</p>
+        <p>Former Googler & Optimization Leader at Accenture Interactive</p>
+            
+      </div>
+      <div
+        class="col-11 col-md-5 offset-md-1 work-summary"
+        style="margin-bottom: 60px;"
+      >
+      <!-- Calendly inline widget begin -->
+      <div class="col-12 p-0 calendly-inline-widget" data-url="https://calendly.com/experimentzone/free-marketing-webinar/2021-01-28T12:00:00-06:00?month=2021-01&date=2021-01-28&hide_event_type_details=1" style="min-width:320px;height:620px;"></div>
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+      <!-- Calendly inline widget end -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="strip strip-secondary">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1000 100"
+    preserveAspectRatio="none"
+  >
+    <path class="svg-grey" d="M738,99l262-93V0H0v5.6L738,99z"></path>
+  </svg>
+</div>
+
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/libs/slick.min.js"
+></script>
+<script
+  type="text/javascript"
+  src="{{ site.baseurl }}/assets/js/pages/home.js"
+></script>

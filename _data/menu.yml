@@ -11,9 +11,9 @@ main:
   - name: Blog
     url: /blog/
     weight: 3
-  # - name: Webinar
-  #   url: /webinar/
-  #   weight: 4
+  - name: Webinar
+    url: /webinar/
+    weight: 4
   - name: About
     url: /about/
     weight: 5
@@ -24,8 +24,8 @@ footer_primary:
   - name: Hypothesis Library Product
     url: https://hypothesislibrary.com/
     weight: 1
-  - name: Growth Through Empathy Webinar
-    url: http://growththroughempathy.com/
+  - name: Free Marketing Webinar
+    url: https://experimentzone.com/webinar/
     weight: 2
   - name: Facebook Community
     url: https://www.facebook.com/groups/growththroughempathy/
