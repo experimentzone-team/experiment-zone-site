@@ -30,7 +30,7 @@ footer_primary:
   - name: Facebook Community
     url: https://www.facebook.com/groups/growththroughempathy/
     weight: 3
-  - name: Sign up to receive blog
+  - name: Newsletter Sign Up
     url: /blog#blog-sign-up
     weight: 4
   # - name: Free 1-hour conversion consult
