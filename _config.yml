@@ -49,6 +49,9 @@ collections:
   podcasts:
     output: true
     permalink: /:collection/:path/
+  thank_you:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
