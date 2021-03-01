@@ -2,7 +2,7 @@
 layout: post
 title: Unlocking the power of User Experience to boost your nonprofit donations
 description: "You can achieve your nonprofit fundraising goals with these UX design methods."
-# permalink: blog/UX-boost-nonprofit-donations
+permalink: blog/UX-boost-nonprofit-donations
 tags: ["Conversion Rate Optimization", "UX Design", "Nonprofit", "Donations"]
 categories:
   ["Conversion Rate Optimization", "UX Design", "Nonprofit", "Donations"]
@@ -26,7 +26,9 @@ meta_og_description: "You can achieve your nonprofit fundraising goals with thes
 custom_css: blog-hero
 ---
 
-# You Can Achieve Your Nonprofit Fundraising Goals with These UX Design Methods.
+### You can achieve your nonprofit fundraising goals with these UX design methods.
+
+# Unlocking the Power of User Experience to Boost Your Nonprofit Donations.
 
 You want your nonprofit website to share your mission and inspire people to give their time and resources toward your cause. A well-designed, engaging website can expand your reach and power your fundraising goals. How can you enhance your website to meet your goals and connect with donors? You can identify any site issues and improve your site's donation experience through the practice called user experience design.
 
@@ -63,14 +65,6 @@ These exercises can serve as the foundation for starting your user experience de
 For the best user personas, you should also talk with your donors and volunteers to understand their motivations - and their pain points. The most trusted user personas are created with a combination of website data and 1-on-1 interviews to understand your donors' needs and goals. You can [use this guide to understand how to discover information about your audience.](https://www2.slideshare.net/mandidavis/11-essential-marketing-questions-you-should-be-asking-for-your-business){:target="\_blank"}
 
 <br />
-
-## Tailor Your Website to Meet Donor Goals
-
-You understand your donors' goals because you've created personas, reviewed your donor data, and spoken with your target audience. It's time to review your site and find opportunities to connect with your potential donors and volunteers.
-
-An excellent place to start is to look at your website homepage. What does the visitor see when they land on the homepage? The homepage should quickly connect to your target audience's goals. For example, your donor wants to see the impact of their donation. The homepage could display an impactful data point like "100,000 meals served to people" to convey your impact. You can find out other research methods to design your site for your audience with this [guide on the role of good customer research.](https://www2.slideshare.net/mandidavis/the-missing-voice-the-role-of-good-customer-research-in-optimization-programs){:target="\_blank"}
-
-<br>
 
 ## Tailor Your Website to Meet Donor Goals
 
