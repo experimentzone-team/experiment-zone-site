@@ -9,14 +9,42 @@ body_classes: page-services-list
 %} {% if reviews.size > 0 %}
 
 <script>
-  var executed = false;
-  return function() {
-    if (!executed) {
-      executed = true;
-      $( "body" ).mouseleave(function() {
-        $('#exampleModalCenter').modal('show')})
-    }  
+
+function setCookie(name,value,days) {
+var expires = "";
+if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000));
+    expires = "; expires=" + date.toUTCString();
+}
+document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
     }
+    return null;
+}
+
+  var executed = false;
+
+  var popup = function() {
+      $( "body" ).mouseleave(function() {
+        console.log("mouse left")
+        if (executed === false) {
+          $('#popupModalCenter').modal('show')
+          setCookie('email-popup', 'true', 7)
+          return executed = getCookie('email-popup')
+        }
+      })
+    }
+  popup();
+
+
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
@@ -25,24 +53,25 @@ body_classes: page-services-list
 <div class="strip mt-15">
   <div class="container">
     <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#popupModalCenter">
       Launch demo modal
     </button>
   </div>
 </div>
 
 <!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="popupModalCenter" tabindex="-1" role="dialog" aria-labelledby="popupModalCenterTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+        <h5 class="modal-title" id="popupModalLongTitle">SUBSCRIBE</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <div class="_form_11"></div><script src="https://experimentzone.activehosted.com/f/embed.php?id=11" type="text/javascript" charset="utf-8"></script>
+        <h4 class="text-center">Join Our Newsletter and Get the Latest CRO Tips</h4>
+        <div class="_form_11 mt-n3"></div><script src="https://experimentzone.activehosted.com/f/embed.php?id=11" type="text/javascript" charset="utf-8"></script>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
