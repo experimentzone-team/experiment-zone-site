@@ -1,3 +1,7 @@
+/* ----------------------------------------------------------------
+Question card display functionality - dynamic styling and decides which card/tab to display
+---------------------------------------------------------------- */
+
 var currentTab = 0; // Current tab is set to be the first tab (0)
 
 var showTab = function(n) {
@@ -8,8 +12,7 @@ var showTab = function(n) {
   if (n == (x.length - 2)) {
       document.getElementById("nextBtn").innerHTML = "Submit";
     } if (n == (x.length - 1)) {
-        document.getElementById("nextBtn").style.display = "none";
-        document.getElementById("prevBtn").style.display = "none";
+        document.getElementById("nextBtn-container").style.display = "none";
         dynamicContent();
     } else {
         document.getElementById("nextBtn").innerHTML = "Next";
@@ -49,23 +52,31 @@ function nextPrev(n) {
   showTab(currentTab);
 }
 
-// Displays content on the results slide at the end of quiz based on the quiz answers 
+/* ----------------------------------------------------------------
+Displays content on the results slide at the end of quiz based on the quiz answers 
+---------------------------------------------------------------- */
+
 function dynamicContent() {
-  if ($(".goals-4").is(':checked') === true || $(".goals-5").is(':checked') === true) {
-    if (output.value < 2000) {
-    $(".dynamic-content").append('<h1>You got: "New Website Planing"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>User Research</li><li>User Research Road Map</li><li>Something</li></ul></div>')  
+  console.log("Dynamic Content")
+  if (output.value < 30000 && $(".goals-4").is(':checked') === true) {
+    $(".dynamic-content .new-website-planing").css('display', 'block')
     $(".quiz-direct").text("Want to chat with an expert?")
-    }
-  } if (output.value > 2000 && output.value < 30000) {
-    $(".dynamic-content").append('<h1>You got: "Improve Revenue from Existing Traffic"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>Downloading our conversion checklist</li><li>Book a Conversion Deep Dive Consult</li></ul></div>')
+  } if (output.value < 30000 && $(".goals-5").is(':checked') === true) {
+      $(".dynamic-content .update-website-design").css('display', 'block')
+      $(".quiz-direct").text("Want to chat with an expert?")
+  } if (output.value >= 30000 && output.value < 100000) {
+    $(".dynamic-content .improve-on-existing-traffic").css('display', 'block')
     $(".quiz-direct").text("Want to chat with an expert?")
-  } if (output.value > 30000) {
-    $(".dynamic-content").append('<h1>You got: "Experimentation Program"</h1><h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3><div class="text-center"><h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3><ul class="text-left mb-4"><li>Starting an experimentation program</li></ul></div>')
+  } if (output.value >= 100000) {
+    $(".dynamic-content .experimentation-program").css('display', 'block')
     $(".quiz-direct").text("Want to chat with an expert?")
   }
 }
 
-// Redirect page to correct service based on quiz answers
+/* ----------------------------------------------------------------
+Redirect page to correct service based on quiz answers
+---------------------------------------------------------------- */
+
 function quizRedirect() {
   if ($(".goals-4").is(':checked') === true || $(".goals-5").is(':checked') === true) {
     if (output.value < 2000) {
@@ -77,6 +88,10 @@ function quizRedirect() {
     window.location.href = "/services/optimization-strategy-&-testing/"
   } 
 }
+
+/* ----------------------------------------------------------------
+Makes sure at least one answer is selected for each question
+---------------------------------------------------------------- */
 
 function validateForm() {
   // This function deals with validation of the form fields
@@ -109,6 +124,10 @@ function validateForm() {
   return valid; // return the valid status
 }
 
+/* ----------------------------------------------------------------
+Functionality for the step indicator 
+---------------------------------------------------------------- */
+
 function fixStepIndicator(n) {
   // This function removes the "active" class of all steps...
   var i, x = document.getElementsByClassName("step");
@@ -118,6 +137,11 @@ function fixStepIndicator(n) {
   //... and adds the "active" class on the current step:
   x[n].className += " active";
 }
+
+/* ----------------------------------------------------------------
+Added the inputs and answers of the quiz and populates the hidden Active Campaign form 
+---------------------------------------------------------------- */
+
 $(document).ready(function(){
      $("#regForm input").keyup(function(){
         var currentName = $(this).attr("name");

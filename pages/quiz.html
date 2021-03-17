@@ -186,6 +186,7 @@ custom_css: quiz-style
   </div>
   <div class="tab">
     <h1>Contact Info:</h1>
+    <h2 class="text-center">Please add your contact information.</h2>
     <p><input placeholder="Name" oninput="this.className = ''" name="fullname"></p>
     <p><input placeholder="Title" oninput="this.className = ''" name="field[3]"></p>
     <p><input placeholder="Company Name" oninput="this.className = ''" name="field[1]"></p>
@@ -193,8 +194,52 @@ custom_css: quiz-style
     <p><input placeholder="Email" oninput="this.className = ''" name="email"></p>
   </div>
   <div class="container pl-0 pr-0 pl-md-2 pr-md-2">
-    <div class="tab">
-      <div class="row justify-content-center dynamic-content"></div>
+    <div class="tab dynamic-content">
+      <div class="row justify-content-center new-website-planing">
+        <h1>You got: "New Website Planing"</h1>
+        <h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3>
+        <div class="text-center">
+          <h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3>
+          <ul class="text-left mb-4">
+            <li>User Research</li>
+            <li>User Research Road Map</li>
+            <li>Something</li>
+          </ul>
+        </div>
+      </div>
+      <div class="row justify-content-center update-website-design">
+        <h1>You got: “Redesign”</h1>
+        <h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3>
+        <div class="text-center">
+          <h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3>
+          <ul class="text-left mb-4">
+            <li>User Research</li>
+            <li>User Research Road Map</li>
+            <li>Something</li>
+          </ul>
+        </div>
+      </div>
+      <div class="row justify-content-center improve-on-existing-traffic">
+        <h1>You got: "Improve Revenue from Existing Traffic"</h1>
+        <h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3>
+        <div class="text-center">
+          <h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3>
+          <ul class="text-left mb-4">
+            <li>Downloading our conversion checklist</li>
+            <li>Book a Conversion Deep Dive Consult</li>
+          </ul>
+        </div>
+      </div>
+      <div class="row justify-content-center experimentation-program">
+        <h1>You got: "Experimentation Program"</h1>
+        <h3>Based on your answers, you are looking to increase awareness of your brand and grow your traffic.</h3>
+        <div class="text-center">
+          <h3 class="ml-n3 mb-3 mt-3">To do this, we recommend:</h3>
+          <ul class="text-left mb-4">
+            <li>Starting an experimentation program</li>
+          </ul>
+        </div>
+      </div>
       <div class="row justify-content-center"> 
         <div class="mb-2" style="overflow:auto;">
           <div style="float:right;">
@@ -248,156 +293,4 @@ src="{{site.baseurl}}/assets/js/pages/quiz.js"
 <!-- --------------------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------------------- -->
 
-{% include quiz-hiden-active-campaign-form.html %}
-
-
-
-
-
-<!-- <form id="regForm" action="/action_page.php">
-  <h1>Register:</h1> -->
-  <!-- One "tab" for each step in the form: -->
-  <!-- <div class="tab">Name2:
-    <p><input placeholder="Full name..." oninput="this.className = ''" name="fullname"></p>
-    <p><input placeholder="E-mail..." oninput="this.className = ''" name="email"></p>
-  </div>
-  <div class="tab">Contact Info:
-    <p><input placeholder="Company name..." oninput="this.className = ''" name="field[1]"></p>
-    <p><input placeholder="Job title" oninput="this.className = ''" name="field[3]"></p>
-  </div>
-  <div class="tab">Metrics:
-    <label>
-      Website URL*
-    </label>
-    <div class="_field-wrapper">
-      <input type="text" name="field[4]" value="" placeholder="" required/>
-    </div>
-    <label class="_form-label">
-      How much traffic does your website have each month? *
-    </label>
-    <div class="_field-wrapper">
-      <select name="field[14]" required>
-        <option selected>
-        </option>
-        <option value="Less than 25K" >
-          Less than 25K
-        </option>
-        <option value="Between 25K and 75K" >
-          Between 25K and 75K
-        </option>
-        <option value="Between 75K and 200K" >
-          Between 75K and 200K
-        </option>
-        <option value="More than 200K" >
-          More than 200K
-        </option>
-      </select>
-    </div>
-  </div>
-  <div class="tab">Testing Info:
-    <label class="_form-label">
-      Are you test?*
-    </label> 
-    <div class="_row _checkbox-radio">
-      <input id="field_19Yes" type="radio" name="field[19]" value="Yes"  required>
-      <span>
-        <label for="field_19Yes">
-          Yes
-        </span>
-      <div class="_row _checkbox-radio">
-        <input id="field_19No" type="radio" name="field[19]" value="No"  >
-        <span>
-          <label for="field_19No">
-            No
-          </span>
-      </div>
-    </div>
-    <div>
-      <div class="_row">
-        <label class="_form-label">
-          Where is your team running test?
-        </label>
-      </div>
-      <input data-autofill="false" type="hidden" name="field[13][]" value="~|">
-      <div class="_row _checkbox-radio">
-        <input id="field_13Website" type="checkbox" name="field[13][]" value="Website"   >
-        <span>
-          <label for="field_13Website">
-            Website
-          </label>
-        </span>
-      </div>
-      <div class="_row _checkbox-radio">
-        <input id="field_13Emails" type="checkbox" name="field[13][]" value="Emails"   >
-        <span>
-          <label for="field_13Emails">
-            Emails
-          </label>
-        </span>
-      </div>
-      <div class="_row _checkbox-radio">
-        <input id="field_13Advertisements" type="checkbox" name="field[13][]" value="Advertisements"   >
-        <span>
-          <label for="field_13Advertisements">
-            Advertisements
-          </label>
-        </span>
-      </div>
-    </div>
-  </div>
-  <div class="tab">Company Info:
-    <div class="_row">
-      <label class="_form-label">
-        What are you wanting to gain from your testing program?
-      </label>
-    </div>
-    <input data-autofill="false" type="hidden" name="field[15][]" value="~|">
-    <div class="_row _checkbox-radio">
-      <input id="field_15More\\ product\\ sells" type="checkbox" name="field[15][]" value="More product sells"   >
-      <span>
-        <label for="field_15More product sells">
-          More product sells
-        </label>
-      </span>
-    </div>
-    <div class="_row _checkbox-radio">
-      <input id="field_15More\\ services\\ sells" type="checkbox" name="field[15][]" value="More services sells"   >
-      <span>
-        <label for="field_15More services sells">
-          More services sells
-        </label>
-      </span>
-    </div>
-    <div class="_row _checkbox-radio">
-      <input id="field_15More\\ email\\ sign\\ ups" type="checkbox" name="field[15][]" value="More email sign ups"   >
-      <span>
-        <label for="field_15More email sign ups">
-          More email sign ups
-        </label>
-      </span>
-    </div>
-    <div class="_row _checkbox-radio">
-      <input id="field_15More\\ event\\ sign\\ ups" type="checkbox" name="field[15][]" value="More event sign ups"   >
-      <span>
-        <label for="field_15More event sign ups">
-          More event sign ups
-        </label>
-      </span>
-    </div>    
-  </div>  
-  <div style="overflow:auto;">
-    <div style="float:right;">
-      <button type="button" id="prevBtn" onclick="nextPrev(-1)">Previous</button>
-      <button type="button" id="nextBtn" onclick="nextPrev(1)">Next</button>
-    </div>
-  </div>
-  <!-- Circles which indicates the steps of the form: -->
-  <!-- <div style="text-align:center;margin-top:40px;">
-    <span class="step"></span>
-    <span class="step"></span>
-    <span class="step"></span>
-    <span class="step"></span>
-    <span class="step"></span>
-  </div>
-</form> -->
-
+<!-- {% include quiz-hiden-active-campaign-form.html %} -->
