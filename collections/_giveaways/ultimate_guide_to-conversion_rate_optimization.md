@@ -1,6 +1,6 @@
 ---
-title: "The Ultimate Guide to Conversion Rate Optimization in 2020"
-date: 2018-11-23T15:15:26+10:00
+title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
+date: 2021-01-01T15:15:26+10:00
 description: "You’ll understand how to get started, and why you should focus on optimizing your visitor experience."
 icon: "assets/images/icons8-school-96.png"
 featured: true
