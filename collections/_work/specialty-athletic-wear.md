@@ -11,6 +11,8 @@ image: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"
 custom_css: luxury-athletic-apparel
 ---
 
+<script src="assets/js/scripts.js"></script>
+
 ## Client Background
 
 Specialty athletic apparel company produced high-quality clothing for women. They strive to create a consistent brand experience that provides educational content to understand their specialty product and performance fabrics, while also providing a clear and usable path to order.
