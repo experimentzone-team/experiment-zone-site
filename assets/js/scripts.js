@@ -33,3 +33,4 @@ var popup = function() {
         }
     })
 }
+popup();
