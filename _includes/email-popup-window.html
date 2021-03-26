@@ -1,22 +1,27 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 <script type="text/javascript" src="{{site.baseurl}}/assets/js/email-popup.js"></script>
+<style>
+.pop-header{background-color: #6f42b7; border-radius: 0.2rem;}
+.pop-header h2 {color: #fff;}
+.pop-header button {position: absolute; top: 0; right: 0; color: #fff;}
+</style>
 <!-- POPUP Modal -->
 <div class="modal fade" id="popupModalCenter" tabindex="-1" role="dialog" aria-labelledby="popupModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="popupModalLongTitle">SUBSCRIBE</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <div class="pop-header" style="background-color: #6f42b7;">
+          <h2 class="text-center pt-3">Want more visitors to become customers?</h2>
+          <button type="button" class="close p-1" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
+          <svg class="hero-diagonal" aria-hidden="true" role="presentation" viewBox="0 0 100 10" preserveAspectRatio="none">
+            <polygon fill="#fff" points="0,10 100, 0 100, 10"></polygon>
+          </svg>
         </div>
-        <div class="modal-body">
-          <h4 class="text-center">Join Our Newsletter and Get the Latest CRO Tips</h4>
+        <div class="modal-body pt-1">
+          <h2 class="text-center">Sign up to learn how!</h2>
           <div class="_form_11 mt-n3"></div><script src="https://experimentzone.activehosted.com/f/embed.php?id=11" type="text/javascript" charset="utf-8"></script>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
