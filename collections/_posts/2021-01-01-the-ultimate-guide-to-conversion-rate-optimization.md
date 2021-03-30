@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
-description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
+description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
 permalink: /conversion-rate-optimization/
 tags: ["Conversion Rate Optimization", "CRO"]
 categories: ["Conversion Rate Optimization", "CRO"]
@@ -12,13 +12,13 @@ heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
-meta_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
+meta_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
 meta_og_url: "https://experimentzone.com/conversion-rate-optimization/"
 meta_og_image: "http://experimentzone.com/assets/images/yellow-bulb-1556704.jpg"
-meta_og_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)"
+meta_og_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
 ---
 
 Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO).
@@ -109,7 +109,7 @@ The term “<a class="glossary-word" href="https://experimentzone.com/support/gl
 
 > For our retail store, we’d get more people to purchase if we steply discount our price from $25 to $1. This might dramatically increase our <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate - perhaps 90% of people will buy for this price! For 100 people coming into the store, that would mean:
 >
-> > Scenario 1: 100 People X 20% conversion rate X $25  = $500
+> > Scenario 1: 100 People X 20% conversion rate X $25 = $500
 > > Scenario 2: 100 People X 90% conversion rate X $1 = $90
 > > Clearly massive discounts can lead to more sales, but are worse for the business overall.
 

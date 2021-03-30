@@ -24,21 +24,18 @@ footer_primary:
   - name: Hypothesis Library Product
     url: https://hypothesislibrary.com/
     weight: 1
-  - name: Free Marketing Webinar
-    url: https://experimentzone.com/webinar/
-    weight: 2
   - name: Facebook Community
     url: https://www.facebook.com/groups/growththroughempathy/
-    weight: 3
+    weight: 2
   - name: Newsletter Sign Up
     url: /blog#blog-sign-up
-    weight: 4
+    weight: 3
   # - name: Free 1-hour conversion consult
   #   url: /consult/
-  #   weight: 5
+  #   weight: 4
   - name: Contact Us
     url: /contact/
-    weight: 6
+    weight: 5
 footer_secondary:
   - name: Privacy Policy
     url: /support/privacy
