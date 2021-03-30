@@ -8,7 +8,7 @@ heroHeading: "Case Study: Specialty Athletic Wear"
 heroSubHeading: "27% annual revenue increase after first six months of partnership"
 heroBackground: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"
 image: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"
-custom_css: luxury-athletic-apparel
+custom_css: case-study
 ---
 
 <script src="assets/js/scripts.js"></script>

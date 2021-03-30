@@ -1,20 +1,25 @@
 ---
-title: "Skin Actives"
+title: "Case Study: Skin Actives"
 date: 2018-12-20T15:22:30+10:00
 draft: false
 featured: true
 weight: 1
-heroHeading: "Skin Actives"
+heroHeading: "Case Study: Skin Actives"
 heroSubHeading: "Navigation improvement focuses visitor attention and lifts mobile order conversion"
-heroBackground: "assets/images/work/skinactives-EZ.png"
-image: "assets/images/work/skinactives-EZ.png"
+heroBackground: "assets/images/work/skin-actives-banner-image.jpg"
+image: "assets/images/work/skin-actives-banner-image.jpg"
+custom_css: case-study
 ---
 
 Skin Actives delivers a comprehensive assortment of effective skin care products at prices the everyday consumer can afford. As their business grows, they strive to increase their profitability and maintain their brand through (1) steady order <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> increases and (2) optimized customer experience. They brought Experiment Zone onboard to evaluate, test, and implement changes to the Skin Active site that ensured they would achieve these business goals.
 
+<br>
+
 ## Challenge + Obstacle
 
 Skin Actives’ comprehensive assortment offers the visitor a full range of solutions for her skin. This breadth of options can make identifying the right product cumbersome – especially for visitors unfamiliar with the product offering. The Skin Actives’ team desired to make product decisions easier for visitors.
+
+<br>
 
 ## Our Strategy
 
@@ -36,12 +41,14 @@ For desktop visitors, the category appeared in the top level of the navigation. 
     </div>
 </div>
 
+<br>
+
 ## The Results
 
-We were successful in increasing the prominence – and interactions with the Best Sellers category. By increasing the prominence of the “Best Sellers” category, we saw a large lift in the number of visitors viewing this page. Mobile visitors were +237% more likely to visit the category; desktop visitors were +242% more likely to see the Best Seller page in their visit.
+We were successful in increasing the prominence – and interactions with the Best Sellers category. By increasing the prominence of the “Best Sellers” category, we saw a large lift in the number of visitors viewing this page. **Mobile visitors were +237% more likely to visit the category; desktop visitors were +242% more likely to see the Best Seller page** in their visit.
 
 The impact of seeing this page had very different impacts to what visitors did next. We saw a 17% decrease in visitors adding to cart on desktop. Desktop visitors may have been less convinced by the limited product selection on the Best Sellers page.
 
-Focusing on the Best Sellers category ultimately led to a 21% increase in orders on mobile. Without this shortcut, mobile visitors were having more friction finding the right product for them. Relocating the Best Sellers category simplified their decision making and helped them commit to a purchase.
+Focusing on the Best Sellers category ultimately led to a **21% increase in orders on mobile**. Without this shortcut, mobile visitors were having more friction finding the right product for them. Relocating the Best Sellers category simplified their decision making and helped them commit to a purchase.
 
-Based on the experiment, Skin Actives permanently added the “Best Seller” category to the main menu on mobile and maintained the original menu on desktop. By implementing these changes Skin Actives projects an 8% increase in total annual online revenue.
+Based on the experiment, Skin Actives permanently added the “Best Seller” category to the main menu on mobile and maintained the original menu on desktop. By implementing these changes Skin Actives projects an **8% increase in total annual online revenue**.

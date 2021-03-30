@@ -1,15 +1,19 @@
 .hero-image .hero-text h1 {
   color: #6f42b7 !important;
-  padding-left: 40px;
+  padding: 20px 40px 0px 40px;
 }
 
 .hero-image .hero-text p {
   color: #00b187 !important;
-  padding-left: 40px;
+  padding: 0px 40px 20px 40px;
 }
 
 .content h2 {
   color: #6f42b7;
+}
+
+.content h3 {
+  color: #00b187;
 }
 
 .hero-image.hero-image-set-height::before {
@@ -25,7 +29,7 @@
 
 .hero-image .hero-text {
   z-index: 1;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.8);
 }
 .hero-image .hero-text p,
 .hero-image .hero-text h1 {

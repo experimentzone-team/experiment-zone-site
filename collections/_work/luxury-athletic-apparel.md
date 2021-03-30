@@ -8,7 +8,7 @@ heroHeading: "Case Study: Luxury Athletic Apparel"
 heroSubHeading: "Increasing email sign ups ultimately encouraged more orders"
 heroBackground: "assets/images/work/luxury-athletic-apparel-banner-image.jpg"
 image: "assets/images/work/luxury-athletic-apparel-banner-image.jpg"
-custom_css: luxury-athletic-apparel
+custom_css: case-study
 ---
 
 ## Client Background

@@ -3,7 +3,7 @@ main:
     url: /services/
     weight: 1
   - name: Case Studies
-    url: /work/skin_actives/
+    url: /work/
     weight: 2
   # # - name: Team
   # #   url: /team/
@@ -11,9 +11,9 @@ main:
   - name: Blog
     url: /blog/
     weight: 3
-  - name: Webinar
-    url: /webinar/
-    weight: 4
+  # - name: Webinar
+  #   url: /webinar/
+  #   weight: 4
   - name: About
     url: /about/
     weight: 5
