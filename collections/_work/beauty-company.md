@@ -2,8 +2,8 @@
 title: "Case Study: Skin Care E-Commerce Conversion Rate Grows 41% after Six Months"
 date: 2020-12-18T15:22:30+10:00
 draft: false
-featured: true
-weight: 1
+featured: false
+weight: 3
 heroHeading: "Case Study: Skin Care E-Commerce Conversion Rate Grows 41% after Six Months"
 heroSubHeading: "Iteratively testing and improving the online beauty store improved customer experiences and grew revenue"
 heroBackground: "assets/images/work/beauty-company-banner-image.jpg"

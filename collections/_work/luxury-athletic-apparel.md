@@ -2,7 +2,7 @@
 title: "Case Study: Luxury Athletic Apparel"
 date: 2021-03-18T15:22:30+10:00
 draft: false
-featured: true
+featured: false
 weight: 1
 heroHeading: "Case Study: Luxury Athletic Apparel"
 heroSubHeading: "Increasing email sign ups ultimately encouraged more orders"

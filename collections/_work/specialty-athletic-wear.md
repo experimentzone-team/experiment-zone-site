@@ -1,9 +1,10 @@
 ---
 title: "Case Study: Specialty Athletic Wear"
+description: 27% annual revenue increase after first six months of partnership
 date: 2021-03-18T15:22:30+10:00
 draft: false
 featured: true
-weight: 1
+weight: 2
 heroHeading: "Case Study: Specialty Athletic Wear"
 heroSubHeading: "27% annual revenue increase after first six months of partnership"
 heroBackground: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"

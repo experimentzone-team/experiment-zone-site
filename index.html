@@ -299,41 +299,47 @@ works.size > 0 and site.params.homepage.show_work_section %}
       {% for work in works %}
       <div class="col-12 col-md-6 mb-2">
         <div class="work work-summary">
-          {% if work.image %}
-          <div class="work-image">
+          {% if work.heroBackground %}
+          <div
+            class="work-image"
+            style="{% if work.cardImageDivStyle %}{{ work.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+          >
             <a href="{{ work.url | relative_url}}"
-              ><img src="{{ work.image | relative_url}}"
+              ><img
+                src="{% if work.cardImage %}{{ work.cardImage | relative_url }}{% else %}{{ work.heroBackground | relative_url }}{% endif%}"
+                {%
+                if
+                work.cardImageClass
+                %}
+                class="{{work.cardImageClass}}"
+                {%
+                endif
+                %}
             /></a>
           </div>
           {% endif %}
-          <div class="work-title">
-            <h2><a href="{{ work.url | relative_url}}">{{ work.title }}</a></h2>
-          </div>
-          <div class="work-meta">
-            {% if work.clientName %}<span>{{work.clientName}}</span> | {% endif
-            %} {% if work.clientType %}<span>{{work.clientType}}</span>{% endif
-            %}
-          </div>
-          {% if work.description %}
-          <div class="work-description">
-            <p>{{ work.description }}</p>
-          </div>
-          {% endif %}
-          <div class="work-content">{{ work.content | truncate: 120 }}</div>
-          <div class="work-link">
-            <a class="work-read-more" href="{{ work.url | relative_url }}"
-              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
-            ></a>
+          <div class="post post-summary p-2">
+            <div class="post-title">
+              <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
+            </div>
+            <div class="post-description">
+              <p>{{ work.heroSubHeading }}</p>
+            </div>
+            <div class="post-link">
+              <a class="post-read-more" href="{{ work.url | relative_url }}"
+                >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+              ></a>
+            </div>
           </div>
         </div>
       </div>
-      <!-- {% endfor %} {% if site.params.homepage.show_view_all_work_button %}
+      {% endfor %} {% if site.params.homepage.show_view_all_work_button %}
       <div class="col-12 pt-4 text-center">
         <a class="button button-primary" href="{{ 'work' | relative_url }}"
-          >View All Work</a
+          >View All Case Studies</a
         >
       </div>
-      {% endif %} -->
+      {% endif %}
     </div>
   </div>
 </div>
