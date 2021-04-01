@@ -49,6 +49,9 @@ collections:
   podcasts:
     output: true
     permalink: /:collection/:path/
+  videos:
+    output: true
+    permalink: /:collection/:path/
   thank_you:
     output: true
     permalink: /:collection/:path/
@@ -84,6 +87,10 @@ defaults:
       layout: post
   - scope:
       type: podcast
+    values:
+      layout: post
+  - scope:
+      type: video
     values:
       layout: post
   - scope:

@@ -1,0 +1,89 @@
+---
+layout: default
+body_classes: page-posts-list
+heroHeading: "Videos"
+heroSubHeading: "Turn Visitors Into Customers"
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 400
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+---
+
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill %}
+
+
+<div
+  class="col-12 col-md-5 col-lg-4 offset-lg-7 section-menu-positive mt-3 mt-md-n15 mb-3 mt-sm-3"
+>
+  <div class="section-menu p-2 text-center">
+    <h2 class="text-primary">Free Conversion Insights</h2>
+    <h4>
+      Get Customized Conversion Insights for Your Website's Home Page
+    </h4>
+    <a
+      href="https://experimentzone.com/giveaways/actionable_conversion_insights/"
+      class="button button-primary mt-1"
+      >Customized Report Card</a
+    >
+  </div>
+</div>
+
+<div class="container pb-6 mt-6">
+  <div class="row">
+    {% for video in site.videos %}
+    <div class="col-12 col-md-6 mb-2">
+      <div class="work work-summary">
+        {% if video.cardImage %}
+        <div class="work-image" 
+        style="{% if video.cardImageDivStyle %}{{ video.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+        >
+          <a href="{{ video.url | relative_url}}"
+            ><img src="{% if video.cardImage %}{{ video.cardImage | relative_url }}{% else %}{{ video.heroBackground | relative_url }}{% endif %}"
+          /></a>
+        </div>
+        {% endif %}
+        <div class="post post-summary p-2">
+          <div class="post-title">
+            <h2><a href="{{ video.url }}">{{ video.title }}</a></h2>
+          </div>
+          <div class="post-meta">
+            {% if video.author %} {% include video-author.html
+            author=video.author %} {% endif %} {% if video.author %}
+            {% endif %} {{ video.date | date_to_long_string }}
+          </div>
+          <div class="post-description">
+            <p>{{ video.description }}</p>
+          </div>
+          <div class="post-link">
+            <a class="post-read-more" href="{{ video.url | relative_url }}"
+              >Watch<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div id="blog-sign-up" class="strip-grey pt-5 pb-5">
+  <div class="container justify-content-center">
+    <!-- <div class="row"> -->
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get our tips and tricks for Experience Optimization sent to your inbox!
+      </h2>
+      <div class="_form_11"></div>
+      <script
+        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
+        type="text/javascript"
+        charset="utf-8"
+      ></script>
+    </div>
+  </div>
+  <!-- </div> -->
+</div>
