@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Make These 3 Conversion Fixes To Make To Your Homepage Today"
+title: "Make These 3 Conversion Fixes To Your Homepage Today"
 description: "Optimize your site with these commonly overlooked, revenue boosting, characteristics of your homepage."
 permalink: video/3-homepage-conversion-fixes
 tags: [""]
@@ -12,10 +12,10 @@ heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "Make These 3 Conversion Fixes To Make To Your Homepage Today"
+meta_title: "Make These 3 Conversion Fixes To Your Homepage Today"
 meta_description: "Optimize your site with these commonly overlooked, revenue boosting, characteristics of your homepage."
 meta_author: "AJ Davis"
-meta_og_title: "Make These 3 Conversion Fixes To Make To Your Homepage Today"
+meta_og_title: "Make These 3 Conversion Fixes To Your Homepage Today"
 meta_og_type: website
 meta_og_url: "https://experimentzone.com/video/3-homepage-conversion-fixes"
 meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-logo-color.png"
