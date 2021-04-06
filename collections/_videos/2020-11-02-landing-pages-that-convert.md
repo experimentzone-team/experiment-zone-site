@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Landing Pages that Convert"
-description: "Want to learn how to create landing pages that convert? We'll discuss how sites can boost conversion with just small tweaks."
+title: "5 A/B Test Ideas for Beauty Subscription Box Ecommerce Websites | Testing the Experience"
+description: "In today's episode, we'll show you 5 A/B test ideas that can increase conversion rates for beauty subscription box brands."
 permalink: video/landing-pages-that-convert
 tags: [""]
 categories: [""]
@@ -12,14 +12,14 @@ heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "Landing Pages that Convert"
-meta_description: "Want to learn how to create landing pages that convert? We'll discuss how sites can boost conversion with just small tweaks."
+meta_title: "5 A/B Test Ideas for Beauty Subscription Box Ecommerce Websites | Testing the Experience"
+meta_description: "In today's episode, we'll show you 5 A/B test ideas that can increase conversion rates for beauty subscription box brands."
 meta_author: "AJ Davis"
-meta_og_title: "Landing Pages that Convert"
+meta_og_title: "5 A/B Test Ideas for Beauty Subscription Box Ecommerce Websites | Testing the Experience"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/video/a-month-with-a-CRO-agency"
+meta_og_url: "https://experimentzone.com/video/landing-pages-that-convert"
 meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-logo-color.png"
-meta_og_description: "Want to learn how to create landing pages that convert? We'll discuss how sites can boost conversion with just small tweaks."
+meta_og_description: "In today's episode, we'll show you 5 A/B test ideas that can increase conversion rates for beauty subscription box brands."
 ---
 
 <style>
@@ -46,5 +46,5 @@ meta_og_description: "Want to learn how to create landing pages that convert? We
 </style>
 
 <div class="mt-0 mt-md-n20 work work-summary justify-content-center iframe-container">
-    <iframe class="video" src="https://www.youtube.com/embed/IVevjnhYGiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/Xn8TfbCKC-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
