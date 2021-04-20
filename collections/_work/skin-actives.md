@@ -12,11 +12,13 @@ image: "assets/images/work/skin-actives-banner-image.jpg"
 custom_css: case-study
 ---
 
+## Client Background
+
 Skin Actives delivers a comprehensive assortment of effective skin care products at prices the everyday consumer can afford. As their business grows, they strive to increase their profitability and maintain their brand through (1) steady order <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> increases and (2) optimized customer experience. They brought Experiment Zone onboard to evaluate, test, and implement changes to the Skin Active site that ensured they would achieve these business goals.
 
 <br>
 
-## Challenge + Obstacle
+## The Challenge
 
 Skin Actives’ comprehensive assortment offers the visitor a full range of solutions for her skin. This breadth of options can make identifying the right product cumbersome – especially for visitors unfamiliar with the product offering. The Skin Actives’ team desired to make product decisions easier for visitors.
 

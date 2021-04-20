@@ -20,7 +20,7 @@ Specialty athletic apparel company produced high-quality clothing for women. The
 
 <br>
 
-## Challenge/Obstacle
+## The Challenge
 
 This company had done extensive work to understand and grow their digital marketing strategy. Prior to engaging with us, they consistently engaged with page speed optimization, analytics tracking and analysis, SEO strategy and audits, and external UX audits.
 

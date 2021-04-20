@@ -1,11 +1,11 @@
 ---
-title: "Case Study: Skin Care E-Commerce Conversion Rate Grows 41% after Six Months"
+title: "Case Study: Attainable Beauty Products"
 date: 2020-12-18T15:22:30+10:00
 draft: false
 featured: false
 weight: 3
-heroHeading: "Case Study: Skin Care E-Commerce Conversion Rate Grows 41% after Six Months"
-heroSubHeading: "Iteratively testing and improving the online beauty store improved customer experiences and grew revenue"
+heroHeading: "Case Study: Attainable Beauty Products"
+heroSubHeading: "E-Commerce Conversion Rate Grows 41% After Six Months"
 heroBackground: "assets/images/work/beauty-company-banner-image.jpg"
 image: "assets/images/work/beauty-company-banner-image.jpg"
 custom_css: case-study
@@ -31,7 +31,7 @@ This company brought Experiment Zone onboard to achieve these goals and lead the
 
 <br>
 
-## Challenge/Obstacle
+## The Challenge
 
 The client was increasing their investment in driving new site traffic, but the team was concerned about plateauing conversion rates. Their marketing team had updated product pages and pushed better rewards for customers, but didn’t see a significant change in conversion.
 

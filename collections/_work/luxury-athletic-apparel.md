@@ -19,7 +19,7 @@ Additionally, they need to assure that the brand would not be compromised in the
 
 <br>
 
-## Challenge/Obstacle
+## The Challenge
 
 The company desired to drive more email sign ups, but to do so unobtrusively. They didn’t want to interrupt the customer journey with pop ups and screen overlays.
 
