@@ -55,6 +55,9 @@ collections:
   thank_you:
     output: true
     permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
