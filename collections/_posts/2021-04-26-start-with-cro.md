@@ -65,7 +65,7 @@ Customers have their choice of many digital platforms and brands, which leads to
 
 With the highly competitive digital environment, consumer needs and expectations can and do constantly change. Just think about how quickly people adapted to expectations around Amazon 2-day shipping and on-demand grocery delivery. Your competitors are constantly adapting their interfaces to what customers need.
 
-<p style="margin-left: 40px; margin-right: 40px;"><i>Want to see how often your competitor changes their site? Set up <a href="https://visualping.io/" target="\_black">Visualping</a> or <a href="https://distill.io/" target="\_blank">Distill.io</a> to get updates each time they are adjusting their interface.</i></p>
+<p style="margin-left: 40px; margin-right: 40px;"><i>Want to see how often your competitor changes their site? Set up <a href="https://visualping.io/" target="\_blank">Visualping</a> or <a href="https://distill.io/" target="\_blank">Distill.io</a> to get updates each time they are adjusting their interface.</i></p>
 
 CRO provides real-time insights into how customers are reacting and behaving. It provides a fast, data-driven path to putting these learnings into action, so your business can stay ahead.
 
