@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Case Study: Saas"
+title: "Case Study: Scheduling Software"
 description: Iterative User Research Improves Software Product Messaging and Sign up Flow
 date: 2021-04-26T15:22:30+10:00
 draft: false
 featured: true
 weight: 2
-heroHeading: "Case Study: Saas"
+heroHeading: "Case Study: Scheduling Software"
 heroSubHeading: "Iterative User Research Improves Software Product Messaging and Sign up Flow"
 heroBackground: "assets/images/work/software-onboarding.jpg"
 image: "assets/images/work/software-onboarding.jpg"

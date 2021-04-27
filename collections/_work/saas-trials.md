@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Case Study: Saas"
+title: "Case Study: Subscription Software"
 description: Software Company Sees Increased Trial Sign Ups with Iteratively Improved Value Proposition
 date: 2021-04-26T15:22:30+10:00
 draft: true
 featured: false
 weight: 2
-heroHeading: "Case Study: Saas"
+heroHeading: "Case Study: Subscription Software"
 heroSubHeading: "Software Company Sees Increased Trial Sign Ups with Iteratively Improved Value Proposition"
 heroBackground: "assets/images/work/saas.jpg"
 image: "assets/images/work/saas.jpg"
