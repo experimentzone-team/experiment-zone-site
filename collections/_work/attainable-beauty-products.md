@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Attainable Beauty Products"
-date: 2020-12-18T15:22:30+10:00
+date: 2020-02-18T15:22:30+10:00
 draft: false
 featured: false
 weight: 3

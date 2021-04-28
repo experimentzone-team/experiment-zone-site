@@ -1,9 +1,9 @@
 ---
 title: "Case Study: Clearhead"
-date: 2018-12-20T15:22:30+10:00
+date: 2020-08-18T15:22:30+10:00
 draft: false
 featured: false
-weight: 4
+weight: 8
 heroHeading: "Clearhead"
 heroSubHeading: "Clearhead Partners with Experiment Zone to Bring Customer Feedback into their Optimization Process"
 heroBackground: "assets/images/work/clearhead-banner-image.jpg"

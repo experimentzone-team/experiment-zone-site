@@ -2,10 +2,10 @@
 layout: post
 title: "Case Study: Scheduling Software"
 description: Iterative User Research Improves Software Product Messaging and Sign up Flow
-date: 2021-04-26T15:22:30+10:00
+date: 2020-05-18T15:22:30+10:00
 draft: false
 featured: true
-weight: 2
+weight: 6
 heroHeading: "Case Study: Scheduling Software"
 heroSubHeading: "Iterative User Research Improves Software Product Messaging and Sign up Flow"
 heroBackground: "assets/images/work/software-onboarding.jpg"

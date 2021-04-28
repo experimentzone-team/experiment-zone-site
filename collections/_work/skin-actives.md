@@ -1,10 +1,10 @@
 ---
 title: "Case Study: Skin Actives"
 description: Navigation improvement focuses visitor attention and lifts mobile order conversion
-date: 2018-12-20T15:22:30+10:00
+date: 2020-07-18T15:22:30+10:00
 draft: false
 featured: true
-weight: 1
+weight: 5
 heroHeading: "Case Study: Skin Actives"
 heroSubHeading: "Navigation improvement focuses visitor attention and lifts mobile order conversion"
 heroBackground: "assets/images/work/skin-actives-banner-image.jpg"

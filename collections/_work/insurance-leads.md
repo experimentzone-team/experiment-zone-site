@@ -2,7 +2,7 @@
 layout: post
 title: "Case Study: Insurance Leads"
 description: 26% Increase In Leads After 6-Months of Conversion Rate Optimization
-date: 2021-04-26T15:22:30+10:00
+date: 2020-01-18T15:22:30+10:00
 draft: false
 featured: true
 weight: 2

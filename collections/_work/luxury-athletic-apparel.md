@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Luxury Athletic Apparel"
-date: 2021-03-18T15:22:30+10:00
+date: 2020-06-18T15:22:30+10:00
 draft: false
 featured: false
 weight: 1
