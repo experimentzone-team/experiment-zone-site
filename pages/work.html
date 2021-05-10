@@ -42,8 +42,7 @@ diagonalfill=page.heroDiagonalFill%}
       <div class="work work-summary">
         {% if work.heroBackground %}
         <div
-          class="work-image"
-          style="{% if work.cardImageDivStyle %}{{ work.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+          class="work-image {% if work.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
         >
           <a href="{{ work.url | relative_url}}"
             ><img

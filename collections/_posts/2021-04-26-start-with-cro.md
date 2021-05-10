@@ -8,8 +8,6 @@ categories: ["Conversion Rate Optimization", "CRO"]
 author: aj_davis
 heroBackground: "assets/images/posts/start-with-cro.jpg"
 cardImage: "assets/images/posts/start-with-cro.jpg"
-cardImageDivStyle: "height: 200px;"
-cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true

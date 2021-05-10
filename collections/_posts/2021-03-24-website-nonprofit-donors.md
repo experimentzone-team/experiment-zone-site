@@ -22,7 +22,6 @@ categories:
 author: aj_davis
 heroBackground: "assets/images/posts/website-nonprofit-donors.jpg"
 cardImage: "assets/images/posts/website-nonprofit-donors.jpg"
-cardImageDivStyle: "height: 200px;"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 500

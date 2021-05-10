@@ -5,6 +5,8 @@ description: "Improving your website User Experience is crucial if you want to i
 permalink: /podcast/part-3-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
 heroBackgroundOverlay: false
 heroHeight: 500

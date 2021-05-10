@@ -8,6 +8,14 @@ heroBackgroundOverlay: false
 heroHeight: 400
 heroDiagonal: true
 heroDiagonalFill: "#fff"
+title: Experiment Zone Podcast
+meta_title: 'Experiment Zone Podcast'
+meta_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
+meta_og_title: 'Experiment Zone Podcast'
+meta_og_type: website
+meta_og_url: 'https://experimentzone.com/podcast'
+meta_og_image: 'https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg'
+meta_og_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 ---
 
 {% include hero-image.html background=null fullscreen=page.heroFullscreen
@@ -15,23 +23,6 @@ height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
 overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill %}
 
-
-<!-- <div class="intro intro-big bg-secondary">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.subtitle }}</p>
-      </div>
-      <div class="_form_5"></div>
-      <script
-        src="https://experimentzone.activehosted.com/f/embed.php?id=5"
-        type="text/javascript"
-        charset="utf-8"
-      ></script>
-    </div>
-  </div>
-</div> -->
 
 <div
   class="col-12 col-md-5 col-lg-4 offset-lg-7 section-menu-positive mt-md-n15 mb-3 mt-sm-3"
@@ -57,9 +48,9 @@ button_text=site.params.GTE_site_cta.button_text %} -->
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
         {% if podcast.heroBackground %}
-        <div class="work-image" style="height: 200px;">
+        <div class="work-image {% if podcast.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}">
           <a href="{{ podcast.url | relative_url}}"
-            ><img src="{{ podcast.heroBackground | relative_url}}"
+            ><img src="{% if podcast.cardImage %}{{ podcast.cardImage | relative_url }}{% else %}{{ podcast.heroBackground | relative_url }}{% endif%}"
           /></a>
         </div>
         {% endif %}
@@ -70,47 +61,17 @@ button_text=site.params.GTE_site_cta.button_text %} -->
           <div class="post-meta">
             {% if podcast.author %} {% include podcast-author.html
             author=podcast.author %} {% endif %} {% if podcast.author %}
-            <!-- <span class="on">-</span> -->
             {% endif %} {{ podcast.date | date_to_long_string }}
           </div>
           <div class="post-description">
             <p>{{ podcast.description }}</p>
           </div>
-          <!-- <div class="post-content">
-            <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-          </div> -->
-          <!-- {% if post.categories.size > 0 %}
-          <div class="post-categories">
-            <strong>Categories:</strong>
-            {% for category in post.categories %}
-            <a
-              class="post-category"
-              href="{{ site.baseurl }}/categories/#{{category|slugize}}"
-              >{{ category }}</a
-            >
-            {% endfor %}
-          </div>
-          {% endif %} -->
           <div class="post-link">
             <a class="post-read-more" href="{{ podcast.url | relative_url }}"
               >Listen<i class="fas fa-long-arrow-alt-right ml-1"></i
             ></a>
           </div>
         </div>
-        <!-- <div class="work-title">
-          <h2><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h2>
-        </div>
-        {% if work.description %}
-        <div class="work-description">
-          <p>{{ work.description }}</p>
-        </div>
-        {% endif %}
-        <div class="work-content">{{ work.content | truncate: 120 }}</div>
-        <div class="work-link">
-          <a class="work-read-more" href="{{ work.url | relative_url }}"
-            >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
-          ></a>
-        </div> -->
       </div>
     </div>
     {% endfor %}
@@ -119,7 +80,6 @@ button_text=site.params.GTE_site_cta.button_text %} -->
 
 <div id="blog-sign-up" class="strip-grey pt-5 pb-5">
   <div class="container justify-content-center">
-    <!-- <div class="row"> -->
     <div class="col-12">
       <h2 class="mb-n2 text-center">
         Get our tips and tricks for Experience Optimization sent to your inbox!
@@ -132,5 +92,4 @@ button_text=site.params.GTE_site_cta.button_text %} -->
       ></script>
     </div>
   </div>
-  <!-- </div> -->
 </div>

@@ -5,6 +5,8 @@ description: "In this episode of Rebooting Business, AJ Davis and David Somerfle
 permalink: /podcast/setting-the-right-metrics
 tags: [""]
 categories: [""]
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
 heroBackgroundOverlay: false
 heroHeight: 600

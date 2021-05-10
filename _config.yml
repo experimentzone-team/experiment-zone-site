@@ -1,7 +1,8 @@
 baseurl: ""
 exclude: ["README.md"]
 permalink: pretty
-title: "Experiment Zone"
+title: "Experiment Zone | Unlock more value | Conversion Rate Optimization"
+description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 collections_dir: collections
 markdown: kramdown
 

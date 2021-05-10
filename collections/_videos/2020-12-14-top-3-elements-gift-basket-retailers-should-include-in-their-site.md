@@ -6,7 +6,7 @@ permalink: video/top-3-elements-gift-basket-retailers-should-include-in-their-si
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroBackground:
 heroBackgroundOverlay: false
 heroHeight: 600

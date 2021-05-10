@@ -9,7 +9,7 @@ categories:
 author: hannah_westfall
 heroBackground: "assets/images/posts/hannah-westfall-blog.png"
 cardImage: "assets/images/posts/qa-guest-blog.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 500

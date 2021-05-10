@@ -5,6 +5,8 @@ description: "Are you getting started with conversion rate optimization? Our Fou
 permalink: /podcast/part-1-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
 heroBackgroundOverlay: false
 heroHeight: 500

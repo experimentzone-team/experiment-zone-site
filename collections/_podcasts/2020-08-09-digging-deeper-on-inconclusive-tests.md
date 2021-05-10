@@ -5,6 +5,8 @@ description: "If your usual response to inconclusive test results is to move on 
 permalink: /podcast/digging-deeper-on-inconclusive-tests
 tags: [""]
 categories: [""]
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
 heroBackground: "assets/images/posts/emma-york-blog.png"
 heroBackgroundOverlay: false
 heroHeight: 450

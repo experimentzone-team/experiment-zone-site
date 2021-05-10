@@ -9,7 +9,6 @@ categories:
 author: aj_davis
 heroBackground: "assets/images/posts/CRO-ecommerce-business.jpg"
 cardImage: "assets/images/posts/CRO-ecommerce-business.jpg"
-cardImageDivStyle: "height: 200px;"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 600

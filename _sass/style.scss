@@ -167,3 +167,17 @@ svg {
   border-radius: 3px;
   box-shadow: 0 1px 18px rgba(0, 0, 0, 0.2);
 }
+
+// Listing Page card image heights
+.card-image-style {
+  height: 90px;
+}
+
+.card-image-height {
+  height: 200px;
+}
+
+// Links with a green background color so that the link text is not green on green.
+.purple-link {
+  color: $secondary;
+}

@@ -6,7 +6,7 @@ permalink: video/3-questions-for-online-learning-platforms
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroBackground:
 heroBackgroundOverlay: false
 heroHeight: 600

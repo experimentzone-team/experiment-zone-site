@@ -8,7 +8,7 @@ categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: false

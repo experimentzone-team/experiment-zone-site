@@ -9,8 +9,6 @@ categories: ["Conversion Rate Optimization", "CRO", "UX", "Website", "Tools"]
 author: aj_davis
 heroBackground: "assets/images/posts/google-optimize-tools.jpg"
 cardImage: "assets/images/posts/google-optimize-tools.jpg"
-cardImageDivStyle: "height: 200px;"
-cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true

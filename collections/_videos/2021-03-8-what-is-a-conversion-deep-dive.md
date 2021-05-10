@@ -6,7 +6,7 @@ permalink: video/a-month-with-a-CRO-agency
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroBackground:
 heroBackgroundOverlay: false
 heroHeight: 600

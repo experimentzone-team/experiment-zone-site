@@ -8,7 +8,7 @@ categories: [""]
 heroBackground: "assets/images/podcasts/CopyID-AJ.png"
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroHeight: 700
 heroDiagonal: false
 heroDiagonalFill: false

@@ -9,7 +9,6 @@ categories:
 author: aj_davis
 heroBackground: "assets/images/posts/nonprofit-donations.jpg"
 cardImage: "assets/images/posts/nonprofit-donations.jpg"
-cardImageDivStyle: "height: 200px;"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 500

@@ -9,7 +9,6 @@ categories:
 author: aj_davis
 heroBackground: "assets/images/posts/start-AB-testing-ideas.jpg"
 cardImage: "assets/images/posts/start-AB-testing-ideas.jpg"
-cardImageDivStyle: "height: 200px;"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 600

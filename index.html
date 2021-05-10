@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Experiment Zone | Unlock more value | Conversion Rate Optimization
+description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 body_classes: page-home
 header_classes: header-transparent
 heroHeading: 'Better Experiences,<br> More Revenue'
@@ -10,13 +11,13 @@ heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: '#f2f0f5'
-meta_title: 'Experiment Zone'
-meta_description: 'Unlock more value from your website by optimizing your user experience and gain more revenue and understand from the customers you already have.'
-meta_og_title: 'Experiment Zone'
+meta_title: 'Experiment Zone | Unlock more value | Conversion Rate Optimization'
+meta_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
+meta_og_title: 'Experiment Zone | Unlock more value | Conversion Rate Optimization'
 meta_og_type: website
 meta_og_url: 'https://experimentzone.com/'
 meta_og_image: 'https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg'
-meta_og_description: 'Unlock more value from your website by optimizing your user experience and gain more revenue and understand from the customers you already have.'
+meta_og_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 ---
 
 <!-- Hero Image Partial-->
@@ -301,8 +302,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
         <div class="work work-summary">
           {% if work.heroBackground %}
           <div
-            class="work-image"
-            style="{% if work.cardImageDivStyle %}{{ work.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+            class="work-image {% if work.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
           >
             <a href="{{ work.url | relative_url}}"
               ><img

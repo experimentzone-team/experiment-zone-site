@@ -8,6 +8,14 @@ heroBackgroundOverlay: false
 heroHeight: 400
 heroDiagonal: true
 heroDiagonalFill: "#fff"
+title: Experiment Zone Blog
+meta_title: 'Experiment Zone Blog'
+meta_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
+meta_og_title: 'Experiment Zone Blog'
+meta_og_type: website
+meta_og_url: 'https://experimentzone.com/blog'
+meta_og_image: 'https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg'
+meta_og_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 ---
 
 {% include hero-image.html background=null fullscreen=page.heroFullscreen
@@ -38,8 +46,7 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="work work-summary">
         {% if post.heroBackground %}
         <div
-          class="work-image"
-          style="{% if post.cardImageDivStyle %}{{ post.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+          class="work-image {% if post.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
         >
           <a href="{{ post.url | relative_url}}"
             ><img

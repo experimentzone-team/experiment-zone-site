@@ -60,8 +60,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
       <div class="work work-summary">
         {% if draft.heroBackground %}
         <div
-          class="work-image"
-          style="{% if draft.cardImageDivStyle %}{{ draft.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+          class="work-image {% if draft.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
         >
           <a href="{{ draft.url | relative_url}}"
             ><img

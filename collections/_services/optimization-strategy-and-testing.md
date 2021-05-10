@@ -9,7 +9,7 @@ heroHeight: 400
 service-list: false
 service-sign-up: true
 calendly-calender:
-  '<div class="col-12 mt-3 mt-lg-0 mb-3 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone-1?hide_event_type_details=1" style="min-width:320px;height:600px;"></div>
+  '<div class="col-12 mt-3 mt-lg-0 mb-3 p-0 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone-1?hide_event_type_details=1&primary_color=6f42b7" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>'
 summary-content: " "
 ---

@@ -6,7 +6,7 @@ permalink: video/3-homepage-conversion-fixes
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroBackground:
 heroBackgroundOverlay: false
 heroHeight: 600

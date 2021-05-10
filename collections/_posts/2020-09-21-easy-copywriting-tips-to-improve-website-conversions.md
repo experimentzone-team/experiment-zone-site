@@ -8,7 +8,7 @@ categories: ["Conversion Rate Optimization", "CRO", "Copywriting"]
 author: micah_lambert
 heroBackground: "assets/images/posts/Micah-Lambert-Blog.png"
 cardImage: "assets/images/posts/qa-guest-blog.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true

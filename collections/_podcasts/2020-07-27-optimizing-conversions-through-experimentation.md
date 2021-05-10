@@ -5,6 +5,8 @@ description: "In this podcast, we discuss the importance of optimizing website c
 permalink: /podcast/optimizing-conversions-through-experimentation
 tags: [""]
 categories: [""]
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
 heroBackgroundOverlay: false
 heroHeight: 500

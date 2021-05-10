@@ -38,8 +38,7 @@ diagonalfill=page.heroDiagonalFill %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
         {% if video.cardImage %}
-        <div class="work-image" 
-        style="{% if video.cardImageDivStyle %}{{ video.cardImageDivStyle }}{% else %}height: 200px;{% endif %}"
+        <div class="work-image {% if video.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}" 
         >
           <a href="{{ video.url | relative_url}}"
             ><img src="{% if video.cardImage %}{{ video.cardImage | relative_url }}{% else %}{{ video.heroBackground | relative_url }}{% endif %}"

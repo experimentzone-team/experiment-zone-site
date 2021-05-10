@@ -8,7 +8,7 @@ categories: [""]
 heroBackground: assets/images/podcasts/creativity.jpg
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
-cardImageDivStyle: "height: 90px;"
+cardImageHeight: small
 heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
