@@ -1,0 +1,23 @@
+---
+layout: default
+body_classes: page-services-single
+header_classes: header-transparent
+---
+
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+diagonalfill=page.heroDiagonalFill %}
+
+{{page.content}}
+
+{% include youtube-cta.html %}
+{% include services-splash.html %}
+{% include why-experiment-zone-splash.html %}
+{% include footer-diagonal.html %}
+{% include contact-cta.html
+  heading=site.params.contact_cta.heading
+  subheading=site.params.contact_cta.subheading
+  button_url=site.params.contact_cta.button_url
+  button_text=site.params.contact_cta.button_text
+  %}

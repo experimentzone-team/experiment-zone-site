@@ -1,0 +1,53 @@
+<!-- Services Splash -->
+<div class="strip strip-secondary pt-5 pb-3 splash splash-one">
+    <div class="container">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-12 col-lg-4">
+          <h3 class="text-white">Conversion Rate Optimization Services</h3>
+          <h2 class="text-white">Explore What We Are Doing Better</h2>
+          <p class="text-white">
+            Are you struggling with conversion rates on your website? We’re here
+            to help, no matter what stage you’re in.
+          </p>
+          <div class="row">
+            <div class="col-12 text-center text-lg-left mb-4 mb-lg-0">
+              <a
+              class="button"
+              href="{{ 'services' | relative_url }}"
+              >
+              Services
+              </a>
+            </div>
+          </div>
+      </div>
+        <div class="col-lg-7 mb-2">
+          <div class="container work-summary pt-2 pr-2 pl-2">
+            <div class="row">
+              {% for cro_service in site.data.cro_services %}
+              <div class="col-12 col-lg-6 mb-2">
+                <div class="work work-summary" style="align-items: center;">
+                  {% if cro_service.image %}
+                  <div class="work-image text-center">
+                    <a href="{{ cro_service.url | relative_url}}"
+                    ><img src="{{ cro_service.image | relative_url}}"
+                    /></a>
+                  </div>
+                  {% endif %}
+                  <div>
+                    <h3><a href="{{ cro_service.url | relative_url}}">{{ cro_service.title }}</a></h3>
+                  </div>
+                  {% if cro_service.description %}
+                  <div class="work-description pr-2 pl-2">
+                    <p>{{ cro_service.description }}</p>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
