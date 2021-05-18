@@ -1,7 +1,13 @@
 {% if include.fullscreen %}
 <div
-  class="hero-image hero-image-fullscreen  {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
-  style="{% if include.background %}background-image: url('{{ include.background | relative_url}}');{% endif %}"
+    class="hero-image hero-image-set-height {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
+    {% if include.background %}
+      {% if include.backgroundOverlay %}
+      style="background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.8)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+      {% else %}
+      style="background-image: url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+      {% endif %}
+    {% endif %}
 >
   {% if include.diagonal %}
   <svg
@@ -55,8 +61,14 @@
 </div>
 {% else %}
 <div
-  class="hero-image hero-image-set-height  {{ include.heading }} {% if .overlay %}hero-image-blend-overlay{% endif %}"
-  style="{% if include.background %}background-image: url('{{ include.background  | relative_url}}'); {% endif %}{% if include.height %}height: {{ include.height }}px{% endif %}"
+  class="hero-image hero-image-set-height {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
+  {% if include.background %}
+  {% if include.backgroundOverlay %}
+  style="background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.8)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+  {% else %}
+  style="background-image: url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+  {% endif %}
+  {% endif %}
 >
   {% if include.diagonal %}
   <svg

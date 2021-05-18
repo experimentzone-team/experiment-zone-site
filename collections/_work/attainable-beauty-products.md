@@ -2,11 +2,12 @@
 title: "Case Study: Attainable Beauty Products"
 date: 2020-02-18T15:22:30+10:00
 draft: false
-featured: false
+featured: true
 weight: 3
 heroHeading: "Case Study: Attainable Beauty Products"
 heroSubHeading: "E-Commerce Conversion Rate Grows 41% After Six Months"
 heroBackground: "assets/images/work/beauty-company-banner-image.jpg"
+backgroundOverlay: true
 image: "assets/images/work/beauty-company-banner-image.jpg"
 custom_css: case-study
 ---

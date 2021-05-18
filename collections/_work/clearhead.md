@@ -7,6 +7,7 @@ weight: 8
 heroHeading: "Clearhead"
 heroSubHeading: "Clearhead Partners with Experiment Zone to Bring Customer Feedback into their Optimization Process"
 heroBackground: "assets/images/work/clearhead-banner-image.jpg"
+backgroundOverlay: true
 image: "assets/images/work/clearhead-banner-image.jpg"
 custom_css: case-study
 ---

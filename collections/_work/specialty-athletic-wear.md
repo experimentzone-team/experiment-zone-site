@@ -8,6 +8,7 @@ weight: 7
 heroHeading: "Case Study: Specialty Athletic Wear"
 heroSubHeading: "27% annual revenue increase after first six months of partnership"
 heroBackground: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"
+backgroundOverlay: true
 image: "assets/images/work/specialty-athletic-apparel-banner-image.jpg"
 custom_css: case-study
 ---

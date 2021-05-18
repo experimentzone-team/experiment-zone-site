@@ -8,6 +8,7 @@ weight: 7
 heroHeading: "Case Study: Kinona"
 heroSubHeading: "(Product) Pictures Are Better Than a Thousand Words"
 heroBackground: "assets/images/work/Kinona/kinona-hero.jpeg"
+backgroundOverlay: true
 image: "assets/images/work/Kinona/kinona-hero.jpeg"
 custom_css: case-study
 ---
