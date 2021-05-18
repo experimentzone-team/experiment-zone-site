@@ -23,14 +23,18 @@ function getCookie(name) {
     return null;
 }
 
-// Actives the POPUP window and sets the 'email-popup' cookie when the mouse leaves the body element. 
+// Activates the POPUP window and sets the 'email-popup' cookie when the mouse leaves the body element or after 20 seconds passes. 
 
 var popup = function() {
-    $( "body" ).mouseleave(function() {
-        if (getCookie('email-popup') === null) {
+    if (getCookie('email-popup') === null) {
+        $( "body" ).mouseleave(function() {
             $('#popupModalCenter').modal('show')
             return setCookie('email-popup', 'true', 7)
-        }
-    })
+        })
+        return setTimeout( function() {
+            $('#popupModalCenter').modal('show')
+            return setCookie('email-popup', 'true', 7)   
+        }, 20000)
+    }
 }
 popup();
