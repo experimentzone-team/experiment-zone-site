@@ -28,8 +28,10 @@ function getCookie(name) {
 var popup = function() {
     if (getCookie('email-popup') === null) {
         $( "body" ).mouseleave(function() {
-            $('#popupModalCenter').modal('show')
-            return setCookie('email-popup', 'true', 7)
+            if (getCookie('email-popup') === null) {
+                $('#popupModalCenter').modal('show')
+                return setCookie('email-popup', 'true', 7)
+            }    
         })
         return setTimeout( function() {
             $('#popupModalCenter').modal('show')
