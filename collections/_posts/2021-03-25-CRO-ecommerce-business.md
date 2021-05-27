@@ -19,7 +19,7 @@ meta_description: "If you want to develop a CRO strategy for your online store, 
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/blog/website-nonprofit-donors"
+meta_og_url: "https://experimentzone.com/blog/CRO-ecommerce-business"
 meta_og_image: "https://experimentzone.com/assets/images/posts/CRO-ecommerce-business.jpg"
 meta_og_description: "If you want to develop a CRO strategy for your online store, then check out how you can start at every budget."
 custom_css: blog-hero
