@@ -6,10 +6,11 @@ permalink: /podcast/optimizing-conversions-through-experimentation
 tags: [""]
 categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Optimizing Conversions Through Experimentation"
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/optimizing-conversions-through-experimentation"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "In this podcast, we discuss the importance of optimizing website conversions, how little changes can make a big difference, the importance of testing changes, and how metrics are important in building meaningful analytics."
+header_classes: header-transparent
 ---
 
 # Learn more about your customers by optimizing your website.

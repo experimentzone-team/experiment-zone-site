@@ -6,10 +6,11 @@ permalink: /podcast/part-3-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Part 3/3: Conversion Rate Optimization from A to Z"
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/part-3-conversion-rate-optimization-a-to-z"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Improving your website User Experience is crucial if you want to increase conversion. Our Founder and CEO, AJ Davis, walks Adama, the host,  through an audit of her website, giving tips and suggestions to improve her website’s User Experience.  "
+header_classes: header-transparent
 ---
 
 # Learn how to improve your website’s User Experience.

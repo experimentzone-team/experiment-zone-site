@@ -7,9 +7,10 @@ tags: ["Conversion Rate Optimization", "CRO"]
 categories: ["Conversion Rate Optimization", "CRO"]
 author: aj_davis
 heroBackground: "assets/images/posts/start-with-cro.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/start-with-cro.jpg"
 heroBackgroundOverlay: false
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Top Reasons You Need To Get Started With Conversion Rate Optimization Today"
@@ -21,25 +22,8 @@ meta_og_url: "https://experimentzone.com/blog/start-with-cro"
 meta_og_image: "https://experimentzone.com/assets/images/posts/start-with-cro.jpg"
 meta_og_description: "Get More Value From Your Website and Digital Marketing Efforts With CRO"
 custom_css: blog-hero
+header_classes: header-transparent
 ---
-
-<style>.hero-image .hero-text h1 {
-    font-size: 2rem;
-    background: rgba(111,66,183, 0.8);
-    padding: 10px;
-    } 
-    @media (min-width: 768px) {
-        .hero-image .hero-text h1 {
-            font-size: 2.7rem;
-            padding: 40px;
-        }
-    }
-    @media (max-width: 767px) {
-        .hero-image.hero-image-set-height {
-            height: 400px !important;
-        }
-    }
-</style>
 
 ### Get More Value From Your Website and Digital Marketing Efforts With CRO
 

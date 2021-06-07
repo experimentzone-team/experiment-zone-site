@@ -1,13 +1,15 @@
 {% if include.fullscreen %}
 <div
-    class="hero-image hero-image-set-height {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
-    {% if include.background %}
-      {% if include.backgroundOverlay %}
-      style="background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.8)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
-      {% else %}
-      style="background-image: url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
-      {% endif %}
-    {% endif %}
+  class="hero-image {%if include.height %}{% else %} hero-image-set-height {% endif %}{{ include.heading }}{% if include.overlay %}hero-image-blend-overlay{% endif %}"
+  {% if include.background %}
+  {% if include.backgroundOverlay %}
+  style="background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.9)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+  {% else %}
+  style="background-image: url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+  {% endif %}
+  {% else %}
+  style="{% if include.height %}height: {{ include.height }}px{% endif %}"
+  {% endif %}
 >
   {% if include.diagonal %}
   <svg
@@ -61,13 +63,15 @@
 </div>
 {% else %}
 <div
-  class="hero-image hero-image-set-height {{ include.heading }} {% if include.overlay %}hero-image-blend-overlay{% endif %}"
+  class="hero-image {%if include.height %}{% else %} hero-image-set-height {% endif %}{{ include.heading }}{% if include.overlay %}hero-image-blend-overlay{% endif %}"
   {% if include.background %}
   {% if include.backgroundOverlay %}
-  style="background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.8)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
+  style="background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.9)65%, rgba(111, 66, 183, 0.7)), url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
   {% else %}
   style="background-image: url('{{ include.background  | relative_url}}'); {% if include.height %}height: {{ include.height }}px{% endif %}"
   {% endif %}
+  {% else %}
+  style="{% if include.height %}height: {{ include.height }}px{% endif %}"
   {% endif %}
 >
   {% if include.diagonal %}

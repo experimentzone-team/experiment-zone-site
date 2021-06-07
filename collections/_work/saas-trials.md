@@ -9,8 +9,10 @@ heroHeading: "Case Study: Subscription Software"
 heroSubHeading: "Software Company Sees Increased Trial Sign Ups with Iteratively Improved Value Proposition"
 heroBackground: "assets/images/work/saas.jpg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/saas.jpg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 ## Client Background

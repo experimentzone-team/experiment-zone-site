@@ -10,7 +10,7 @@ heroBackground: "assets/images/posts/Micah-Lambert-Blog.png"
 cardImage: "assets/images/posts/qa-guest-blog.png"
 cardImageHeight: small
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Easy copywriting tips and tricks to improve your website conversion rate"
@@ -21,7 +21,19 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/easy-copywriting-tips-to-improve-website-conversions"
 meta_og_image: "https://experimentzone.com/assets/images/posts/Micah-Lambert-Social.png"
 meta_og_description: "Seemingly “small” things can greatly improve your website conversion rate. You can use a simple yet often overlooked tool to convert browsers into buyers: copywriting. “Copy” is another term for written text, or words. “Copywriting” is the art and science of using words to elicit action, and it should be your best friend as a business owner."
+header_classes: header-transparent
 ---
+
+<style>
+  .hero-image .hero-text h1{
+    font-size: 2rem
+  }
+  @media (min-width: 768px) {
+  .hero-image .hero-text h1{
+    font-size: 4rem
+    }
+  }
+</style>
 
 ## Did you know that copywriting is a powerful tool in conversion rate optimization?
 

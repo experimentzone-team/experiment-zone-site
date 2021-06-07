@@ -8,10 +8,11 @@ categories:
   ["Conversion Rate Optimization", "CRO", "CRO Agency", "CRO Consulting"]
 author: aj_davis
 heroBackground: "assets/images/posts/when-to-pull-in-experts-CRO.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/when-to-pull-in-experts-CRO.jpg"
 cardImageClass:
 heroBackgroundOverlay: false
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "When to Pull in Experts to Get the Most out of Your Testing Program"
@@ -22,6 +23,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/when-to-pull-in-experts-CRO"
 meta_og_image: "https://experimentzone.com/assets/images/posts/when-to-pull-in-experts-CRO.jpg"
 meta_og_description: "Outsourcing your CRO strategy and A/B Testing is a great way to make meaningful improvements more quickly."
+header_classes: header-transparent
 custom_css: blog-hero
 ---
 

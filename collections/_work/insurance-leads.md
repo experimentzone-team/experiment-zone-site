@@ -9,8 +9,10 @@ heroHeading: "Case Study: Insurance Leads"
 heroSubHeading: "26% Increase In Leads After 6-Months of Conversion Rate Optimization"
 heroBackground: "assets/images/work/incurance-leads.jpg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/incurance-leads.jpg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 ## Client Background

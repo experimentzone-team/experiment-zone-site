@@ -1,16 +1,19 @@
 main:
+  - name: FREE CRO Report
+    url: /giveaways/report_card/
+    weight: 1
   - name: What we do
     url: /services/
-    weight: 1
+    weight: 2
   - name: Case Studies
     url: /work/
-    weight: 2
+    weight: 3
   # # - name: Team
   # #   url: /team/
   #   weight: 3
   - name: Blog
     url: /blog/
-    weight: 3
+    weight: 4
   # - name: Webinar
   #   url: /webinar/
   #   weight: 4

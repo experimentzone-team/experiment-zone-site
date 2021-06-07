@@ -9,8 +9,10 @@ heroHeading: "Case Study: Kinona"
 heroSubHeading: "(Product) Pictures Are Better Than a Thousand Words"
 heroBackground: "assets/images/work/Kinona/kinona-hero.jpeg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/Kinona/kinona-hero.jpeg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 ## Client Background

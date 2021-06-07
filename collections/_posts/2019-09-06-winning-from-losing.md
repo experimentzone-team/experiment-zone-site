@@ -8,8 +8,9 @@ categories: ["Development", "Javascript"]
 author: aj_davis
 heroSubHeading: "How to recover insights and inspiration after an A/B test fails"
 heroBackground: "assets/images/posts/fuzzball-EZ.jpg"
+backgroundOverlay: true
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Winning from Losing"
@@ -20,6 +21,8 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/winning-from-losing/"
 meta_og_image: "http://experimentzone.com/assets/images/posts/fuzzball-EZ.jpg"
 meta_og_description: "How to recover insights and inspiration after an A/B test fails. Too often teams are worried about their win rates and quickly move past a “losing” test without digging in to understand the “why” behind the test. Why did our customers not respond to the new change on the site? Why was our initial intuition off the mark?"
+custom_css: blog-hero
+header_classes: header-transparent
 ---
 
 ## How to recover insights and inspiration after an A/B test fails

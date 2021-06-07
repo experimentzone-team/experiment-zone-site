@@ -9,8 +9,10 @@ heroHeading: "Case Study: Scheduling Software"
 heroSubHeading: "Iterative User Research Improves Software Product Messaging and Sign up Flow"
 heroBackground: "assets/images/work/software-onboarding.jpg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/software-onboarding.jpg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 ## Client Background

@@ -12,7 +12,7 @@ cardImage: "assets/images/posts/qa-guest-blog.png"
 cardImageHeight: small
 cardImageClass:
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "You're Leaving Money on the Table! How Digital Marketing & CRO Boost Revenue"
@@ -23,6 +23,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/you-are-leaving-money-on-the-table-how-digital-marketing-and-cro-boost-revenue"
 meta_og_image: "https://experimentzone.com/assets/images/posts/hannah-westfall-social.png"
 meta_og_description: "You’re leaving money on the table if you’re not utilizing your digital marketing and conversion rate optimization tools. Combined they lead to major growth and revenue for your online business."
+header_classes: header-transparent
 ---
 
 ## You’re leaving money on the table if you’re not utilizing your digital marketing and conversion rate optimization tools. Combined they lead to major growth and revenue for your online business.

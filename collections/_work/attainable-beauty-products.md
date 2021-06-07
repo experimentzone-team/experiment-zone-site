@@ -8,8 +8,10 @@ heroHeading: "Case Study: Attainable Beauty Products"
 heroSubHeading: "E-Commerce Conversion Rate Grows 41% After Six Months"
 heroBackground: "assets/images/work/beauty-company-banner-image.jpg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/beauty-company-banner-image.jpg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 <style>

@@ -6,10 +6,11 @@ permalink: /podcast/test-your-way-to-success
 tags: [""]
 categories: [""]
 heroBackground: "assets/images/podcasts/CopyID-AJ.png"
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 700
+heroHeight: 450
 heroDiagonal: false
 heroDiagonalFill: false
 meta_title: "Testing Your Way To Success"
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/test-your-way-to-success"
 meta_og_image: "http://experimentzone.com/assets/images/podcasts/CopyID-AJ.png"
 meta_og_description: "Have you ever wondered if you could increase the conversions on your website? Do you even know how the heck to track that, or what numbers you ACTUALLY need to look for?"
+header_classes: header-transparent
 ---
 
 # Testing Your Way To Success

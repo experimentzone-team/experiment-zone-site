@@ -6,10 +6,11 @@ permalink: /podcast/part-1-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Part 1/3: Conversion Rate Optimization from A to Z"
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/part-1-conversion-rate-optimization-a-to-z"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Are you getting started with conversion rate optimization? Our Founder and CEO, AJ Davis, talks through all the tools you need to start implementing and optimizing your website todday.⁠ ⁠ "
+header_classes: header-transparent
 ---
 
 # Learn about conversion rate optimization and the tools you need to get started.

@@ -7,8 +7,9 @@ tags: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]
 categories: ["Conversion Rate Optimization", "CRO", "A/B Testing", "Tools"]
 author: aj_davis
 heroBackground: "assets/images/posts/best-tools.jpg"
+backgroundOverlay: true
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "The Best A/B Testing Tools for your Conversion Optimization Toolkit (Paid and Free)"
@@ -19,6 +20,8 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/ab-testing-tools/"
 meta_og_image: "http://experimentzone.com/assets/images/yellow-bulb-1556704.jpg"
 meta_og_description: "Read about the latest tools for identifying test ideas and for running A/B tests."
+custom_css: blog-hero
+header_classes: header-transparent
 ---
 
 Read about the latest tools for identifying test ideas and for running A/B tests.

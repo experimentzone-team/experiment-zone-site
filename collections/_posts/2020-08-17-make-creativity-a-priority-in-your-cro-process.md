@@ -6,10 +6,11 @@ permalink: /podcast/make-creativity-a-priority-in-your-cro-process
 tags: [""]
 categories: [""]
 heroBackground: assets/images/podcasts/creativity.jpg
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Make creativity a priority in your CRO process"
@@ -20,9 +21,9 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/make-creativity-a-priority-in-your-cro-process"
 meta_og_image: "https://experimentzone.com/assets/images/podcasts/creativity.jpg"
 meta_og_description: "Curious about how to make creativity a priority in your CRO process? Our Founder and CEO, AJ Davis, explores just that in this CRO.CAFE podcast episode hosted by Guido Jansen."
+custom_css: blog-hero
+header_classes: header-transparent
 ---
-
-<style> .Make.creativity {color: black;}</style>
 
 # Make creativity a priority in your CRO process
 

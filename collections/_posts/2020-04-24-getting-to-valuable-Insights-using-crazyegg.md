@@ -8,6 +8,7 @@ categories: ["Development", "Javascript"]
 author: aj_davis
 heroSubHeading: "Uncover opportunities to improve your customer experience and increase your online revenue."
 heroBackground: "assets/images/posts/sailing-EZ.jpg"
+backgroundOverlay: true
 heroBackgroundOverlay: false
 heroDiagonal: true
 heroDiagonalFill: false
@@ -19,6 +20,8 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/insights-from-crazyegg-data/"
 meta_og_image: "http://experimentzone.com/assets/images/posts/sailing-EZ.jpg"
 meta_og_description: "CrazyEgg is a great visual analytics tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another click tracking tool on their site and are passively collecting data. They struggle to get real value from the tool. optimization (CRO)"
+custom_css: blog-hero
+header_classes: header-transparent
 ---
 
 CrazyEgg is a great visual <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tool to understand what your customers are doing on your site. If used correctly, you can uncover opportunities to improve your customer experience and increase your online revenue. Often clients will have CrazyEgg or another <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tool on their site and are passively collecting data. They struggle to get real value from the tool.

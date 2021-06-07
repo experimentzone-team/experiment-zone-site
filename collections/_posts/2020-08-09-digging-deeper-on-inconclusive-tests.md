@@ -6,6 +6,7 @@ permalink: /podcast/digging-deeper-on-inconclusive-tests
 tags: [""]
 categories: [""]
 heroBackground: "assets/images/posts/emma-york-blog.png"
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/digging-deeper-on-inconclusive-tests"
 meta_og_image: ""
 meta_og_description: "If your usual response to inconclusive test results is to move on to the next experiment, you’ll want to hear about how she and her team got a huge win after digging deeper into some flat results."
+header_classes: header-transparent
 ---
 
 # Digging Deeper on Inconclusive Tests

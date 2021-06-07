@@ -9,8 +9,10 @@ heroHeading: "Case Study: Skin Actives"
 heroSubHeading: "Navigation improvement focuses visitor attention and lifts mobile order conversion"
 heroBackground: "assets/images/work/skin-actives-banner-image.jpg"
 backgroundOverlay: true
+heroHeight: 400
 image: "assets/images/work/skin-actives-banner-image.jpg"
 custom_css: case-study
+header_classes: header-transparent
 ---
 
 ## Client Background

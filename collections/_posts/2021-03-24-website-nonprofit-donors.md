@@ -21,10 +21,11 @@ categories:
   ]
 author: aj_davis
 heroBackground: "assets/images/posts/website-nonprofit-donors.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/website-nonprofit-donors.jpg"
 cardImageClass:
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "How to Use Your Website as a Tool to Connect with Donors"
@@ -36,6 +37,7 @@ meta_og_url: "https://experimentzone.com/blog/website-nonprofit-donors"
 meta_og_image: "https://experimentzone.com/assets/images/posts/website-nonprofit-donors.jpg"
 meta_og_description: "Get More Value From Your Website and Generate More Customers and Qualified Leads With a Value Proposition."
 custom_css: blog-hero
+header_classes: header-transparent
 ---
 
 ### Get More Value From Your Website and Generate More Customers and Qualified Leads With a Value Proposition.

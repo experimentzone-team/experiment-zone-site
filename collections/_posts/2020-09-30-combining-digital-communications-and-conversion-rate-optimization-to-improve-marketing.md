@@ -12,7 +12,7 @@ heroBackground: "assets/images/posts/emma-york-blog.png"
 cardImage: "assets/images/posts/qa-guest-blog.png"
 cardImageHeight: small
 heroBackgroundOverlay: false
-heroHeight: 700
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Combining your digital communications and conversion rate optimization to work together to improve marketing objective engagement"
@@ -23,7 +23,19 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/blog/combining-digital-communications-and-conversion-rate-optimization-to-improve-marketing"
 meta_og_image: "https://experimentzone.com/assets/images/posts/emma-york-social.png"
 meta_og_description: "In today’s Q&A, we’ll be discussing the intersection of conversion rate optimization and digital communications and marketing with Emma York,  founder of Fresh Approach Digital based in West Sussex, UK."
+header_classes: header-transparent
 ---
+
+<style>
+  .hero-image .hero-text h1{
+    font-size: 2rem
+  }
+  @media (min-width: 768px) {
+  .hero-image .hero-text h1{
+    font-size: 3rem
+    }
+  }
+</style>
 
 ### In today’s Q&A, we’ll be discussing the intersection of conversion rate optimization and digital communications and marketing with Emma York, founder of Fresh Approach Digital based in West Sussex, UK.
 

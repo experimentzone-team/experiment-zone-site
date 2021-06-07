@@ -8,9 +8,10 @@ tags: ["Conversion Rate Optimization", "CRO", "UX", "Website", "Tools"]
 categories: ["Conversion Rate Optimization", "CRO", "UX", "Website", "Tools"]
 author: aj_davis
 heroBackground: "assets/images/posts/google-optimize-tools.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/google-optimize-tools.jpg"
 heroBackgroundOverlay: false
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Google Optimize: An Essential Tool for Your Brand
@@ -23,9 +24,8 @@ meta_og_url: "https://experimentzone.com/blog/google-optimize-tools"
 meta_og_image: "https://experimentzone.com/assets/images/posts/google-optimize-tools.jpg"
 meta_og_description: "Get More Value From Your Website and Generate More Customers With the Free Tool, Google Optimize."
 custom_css: blog-hero
+header_classes: header-transparent
 ---
-
-<style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;}</style>
 
 ### Get More Value From Your Website and Generate More Customers With the Free Tool, Google Optimize.
 

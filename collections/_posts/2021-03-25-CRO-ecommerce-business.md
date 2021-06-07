@@ -8,10 +8,11 @@ categories:
   ["Conversion Rate Optimization", "CRO", "eCommerce", "Small Business"]
 author: aj_davis
 heroBackground: "assets/images/posts/CRO-ecommerce-business.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/CRO-ecommerce-business.jpg"
 cardImageClass:
 heroBackgroundOverlay: false
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Why Conversion Rate Optimization is a great investment for your eCommerce business (at every marketing budget)"
@@ -23,9 +24,10 @@ meta_og_url: "https://experimentzone.com/blog/CRO-ecommerce-business"
 meta_og_image: "https://experimentzone.com/assets/images/posts/CRO-ecommerce-business.jpg"
 meta_og_description: "If you want to develop a CRO strategy for your online store, then check out how you can start at every budget."
 custom_css: blog-hero
+header_classes: header-transparent
 ---
 
-<style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;}</style>
+<style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem; color: #6f42b7;}</style>
 
 ### If you want to develop a CRO strategy for your online store, then check out how you can start at every budget.
 

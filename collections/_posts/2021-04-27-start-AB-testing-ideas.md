@@ -8,10 +8,11 @@ categories:
   ["Conversion Rate Optimization", "UX Design", "Nonprofit", "Donations"]
 author: aj_davis
 heroBackground: "assets/images/posts/start-AB-testing-ideas.jpg"
+backgroundOverlay: true
 cardImage: "assets/images/posts/start-AB-testing-ideas.jpg"
 cardImageClass:
 heroBackgroundOverlay: false
-heroHeight: 600
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Ready To Start A/B Testing Your Website? Fuel Your Strategy With These 7 A/B Testing Ideas"
@@ -23,25 +24,10 @@ meta_og_url: "https://experimentzone.com/blog/start-AB-testing-ideas"
 meta_og_image: "https://experimentzone.com/assets/images/posts/start-AB-testing-ideas.jpg"
 meta_og_description: "Analyze the situation and fine-tune your webpages by conducting tests on all the important elements of your site."
 custom_css: blog-hero
+header_classes: header-transparent
 ---
 
-<style>.hero-image .hero-text h1 {
-    font-size: 2rem;
-    background: rgba(111,66,183, 0.8);
-    padding: 10px;
-    } 
-    @media (min-width: 768px) {
-        .hero-image .hero-text h1 {
-            font-size: 2.7rem;
-            padding: 40px;
-        }
-    }
-    @media (max-width: 767px) {
-        .hero-image.hero-image-set-height {
-            height: 400px !important;
-        }
-    }
-</style>
+<style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;}</style>
 
 ### Ready To Start A/B Testing Your Website? Fuel Your Strategy With These 7 A/B Testing Ideas
 

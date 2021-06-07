@@ -6,10 +6,11 @@ permalink: /podcast/part-2-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Part 2/3: Conversion Rate Optimization from A to Z"
@@ -20,6 +21,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/part-2-conversion-rate-optimization-a-to-z"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Are you getting started with Google Analytics? Our Founder and CEO, AJ Davis, talks through Google Analytics and where to start along with many of the features that can help increase your conversion rate."
+header_classes: header-transparent
 ---
 
 # Learn about Google Analytics and how it can help improve your conversion rate.

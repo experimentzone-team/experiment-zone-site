@@ -7,8 +7,9 @@ tags: ["Conversion Rate Optimization", "CRO"]
 categories: ["Conversion Rate Optimization", "CRO"]
 author: aj_davis
 heroBackground: "assets/images/yellow-bulb-1556704.jpg"
+backgroundOverlay: true
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
@@ -19,6 +20,8 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/conversion-rate-optimization/"
 meta_og_image: "http://experimentzone.com/assets/images/yellow-bulb-1556704.jpg"
 meta_og_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
+custom_css: blog-hero
+header_classes: header-transparent
 ---
 
 Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO).
