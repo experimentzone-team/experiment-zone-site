@@ -9,7 +9,7 @@ cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
 heroBackground: "assets/images/posts/emma-york-blog.png"
 heroBackgroundOverlay: false
-heroHeight: 450
+heroHeight: 400
 heroDiagonal: false
 heroDiagonalFill: false
 meta_title: "Digging Deeper on Inconclusive Tests"
@@ -20,11 +20,36 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/digging-deeper-on-inconclusive-tests"
 meta_og_image: ""
 meta_og_description: "If your usual response to inconclusive test results is to move on to the next experiment, you’ll want to hear about how she and her team got a huge win after digging deeper into some flat results."
+header_classes: header-transparent
 ---
 
-# Digging Deeper on Inconclusive Tests
+<style>
+    .video {
+        border: 4px solid black;
+        border-radius: 3px;
+    }
+    .work-summary {
+        border: 0px solid black;
+    }
+    .iframe-container{
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; 
+        height: 0;
+    }
+    .iframe-container iframe{
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873051139%3Fsecret_token%3Ds-dI2buVirnp8&amp;color=%23000cff&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false"></iframe>
+<div class="mt-0 mt-md-n8 work work-summary justify-content-center iframe-container">
+    <iframe class="video" src="https://www.youtube.com/embed/5Iun2ds7rnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 &nbsp;
 
 If your usual response to inconclusive test results is to move on to the next experiment, you’ll want to hear about how she and her team got a huge win after digging deeper into some flat results.
@@ -48,6 +73,11 @@ If your usual response to inconclusive test results is to move on to the next ex
 - “I think what optimization is all about is being open to challenging what a good idea is.”
 
 <br>
+
+{% include free-consult.html heading="FREE CRO Report"
+subheading="Boosting your site conversion is a click away"
+button_url="https://experimentzone.com/giveaways/report_card/"
+button_text="Click Here" %}
 
 ## Transcript
 

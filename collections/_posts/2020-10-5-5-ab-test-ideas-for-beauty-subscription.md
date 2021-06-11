@@ -6,7 +6,7 @@ permalink: video/5-ab-test-ideas-for-beauty-subscription
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
-cardImageHeight: small
+cardImageHeight: 400
 heroBackground:
 heroBackgroundOverlay: false
 heroHeight: 600
@@ -49,8 +49,3 @@ header_classes: header-transparent
 <div class="mt-0 mt-md-n20 work work-summary justify-content-center iframe-container">
     <iframe class="video" src="https://www.youtube.com/embed/IVevjnhYGiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-{% include free-consult.html heading="FREE CRO Report"
-subheading="Boosting your site conversion is a click away"
-button_url="https://experimentzone.com/giveaways/report_card/"
-button_text="Click Here" %}

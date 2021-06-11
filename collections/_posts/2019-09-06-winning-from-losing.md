@@ -57,7 +57,7 @@ From this “what,” you can begin to infer the “why.” When you see a decre
 
 &nbsp;
 
-For most tests we run at Experiment Zone, we set up <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> and heatmaps using tools like [Hotjar](https://www.hotjar.com/) and [CrazyEgg](https://www.crazyegg.com/). With these lightweight tools, we can observe whether visitor behavior changed on the test variant compared to the control. We are also able to see whether or not visitors were scrolling far enough down to even see the changes that were made.
+For most tests we run at Experiment Zone, we set up <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> and heatmaps using tools like [Hotjar](https://www.hotjar.com/){:target="\_blank"} and [CrazyEgg](https://www.crazyegg.com/){:target="\_blank"}. With these lightweight tools, we can observe whether visitor behavior changed on the test variant compared to the control. We are also able to see whether or not visitors were scrolling far enough down to even see the changes that were made.
 
 &nbsp;
 
@@ -79,7 +79,7 @@ Sometimes the only way to be sure what’s causing the outcome of an <a class="g
 
 To start, you construct a scenario and tasks to reflect the expected user journey on the site. You can send 5 participants to the control variant and 5 participants to the test variant. Ask participants to think aloud and explain what they are noticing and what might be confusing. While participants are working, make sure to observe their body language, facial expressions, and emotions to identify what is confusing and what pain points they have with the experiment variant and control.
 
-Want to know how we do this? Check out our series: [Get More Bang for Your Buck with the Latest, Low-Cost Remote Research Tools](https://experimentzone.com/low-cost-research-tools-part1).
+Want to know how we do this? Check out our series: [Get More Bang for Your Buck with the Latest, Low-Cost Remote Research Tools](https://experimentzone.com/low-cost-research-tools-part1){:target="\_blank"}.
 
 The qualitative data from a survey or from a usability study can answer why customers do what they do. By complementing your A/B with qualitative research, you can triangulate the “what” and the “why” to have a more complete understanding of the test results. Complementary quantitative data from <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> and qualitative data from UX testing provides a more complete data set for better decision making.
 

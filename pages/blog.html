@@ -45,7 +45,7 @@ diagonalfill=page.heroDiagonalFill %}
     {% for post in site.posts %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
-        {% if post.heroBackground %}
+        
         <div
           class="work-image {% if post.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
         >
@@ -62,7 +62,7 @@ diagonalfill=page.heroDiagonalFill %}
               %}
           /></a>
         </div>
-        {% endif %}
+        
         <div class="post post-summary p-2">
           <div class="post-title">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

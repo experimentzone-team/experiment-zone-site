@@ -20,6 +20,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/setting-the-right-metrics"
 meta_og_image: "https://experimentzone.com/assets/images/podcasts/creativity.jpg"
 meta_og_description: ""
+header_classes: header-transparent
 ---
 
 <style>

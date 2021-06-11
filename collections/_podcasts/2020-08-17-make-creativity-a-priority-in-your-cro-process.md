@@ -18,6 +18,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/make-creativity-a-priority-in-your-cro-process"
 meta_og_image: "https://experimentzone.com/assets/images/podcasts/creativity.jpg"
 meta_og_description: "Curious about how to make creativity a priority in your CRO process?"
+header_classes: header-transparent
 ---
 
 <style> .Make.creativity {color: black;}</style>

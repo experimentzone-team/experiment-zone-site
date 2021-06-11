@@ -20,6 +20,7 @@ meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/optimizing-conversions-through-experimentation"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "In this podcast, we discuss the importance of optimizing website conversions, how little changes can make a big difference, the importance of testing changes, and how metrics are important in building meaningful analytics."
+header_classes: header-transparent
 ---
 
 # Learn more about your customers by optimizing your website.

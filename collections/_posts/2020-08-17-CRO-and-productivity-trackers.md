@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A/B Test Ideas for Companies Selling Golf Apparel | Testing The Experience"
+title: "A/B Test Ideas for Productivity Tracking Tools | Testing The Experience"
 description: "In today's episode, we'll discuss A/B test ideas for sites marketing their productivity trackers and tool."
-permalink: video/golf-apparel
+permalink: video/CRO-and-productivity-trackers
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
@@ -12,12 +12,12 @@ heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "A/B Test Ideas for Companies Selling Golf Apparel | Testing The Experience"
+meta_title: "A/B Test Ideas for Productivity Tracking Tools | Testing the Experience"
 meta_description: "In today's episode, we'll discuss A/B test ideas for sites marketing their productivity trackers and tool."
 meta_author: "AJ Davis"
-meta_og_title: "A/B Test Ideas for Companies Selling Golf Apparel | Testing The Experience"
+meta_og_title: "A/B Test Ideas for Productivity Tracking Tools | Testing the Experience"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/video/golf-apparel"
+meta_og_url: "https://experimentzone.com/video/CRO-and-productivity-trackers"
 meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-logo-color.png"
 meta_og_description: "In today's episode, we'll discuss A/B test ideas for sites marketing their productivity trackers and tool."
 header_classes: header-transparent
@@ -47,10 +47,5 @@ header_classes: header-transparent
 </style>
 
 <div class="mt-0 mt-md-n20 work work-summary justify-content-center iframe-container">
-    <iframe class="video" src="https://www.youtube.com/embed/qKNFttJqamk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/EovmgmqlNjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-{% include free-consult.html heading="FREE CRO Report"
-subheading="Boosting your site conversion is a click away"
-button_url="https://experimentzone.com/giveaways/report_card/"
-button_text="Click Here" %}

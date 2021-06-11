@@ -199,9 +199,9 @@ You can use analytics to understand the customer journey on the website. Where d
 This information will focus your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization efforts. You should put your effort into pages that people see and that are along the path to purchasing.
 **Important Tools**
 
-- [Google Analytics](https://analytics.google.com/analytics/web/): A web analytics tool provided by Google.
-- [Moz Pro](https://moz.com/tools): Identify top landing pages & on-page optimization tips
-- Click Tracking tools like [Hotjar](https://www.hotjar.com/)
+- [Google Analytics](https://support.google.com/analytics/answer/9306384?hl=en){:target="\_blank"}: A web analytics tool provided by Google.
+- [Moz Pro](https://moz.com/tools){:target="\_blank"}: Identify top landing pages & on-page optimization tips
+- Click Tracking tools like [Hotjar](https://www.hotjar.com/){:target="\_blank"}
 
 ## Step 3: Understand visitor pain points or frustrations
 
@@ -219,20 +219,20 @@ User research helps improve conversions by providing more information about visi
 
 **Important Tools**
 
-- First impression testing using tools like [5 Second Test](https://fivesecondtest.com/)
-- On-site surveys using tools like [Hotjar](https://www.hotjar.com/) or [Ethnio](https://ethn.io/).
-- Usability testing using tools like [UserTesting](http://usertesting.com/) or [Try My UI](http://trymyui.com/)
-- Interviews. You can find participates using tools like [Respondent](https://www.respondent.io/) or [User Interviews](https://www.userinterviews.com/)
+- First impression testing using tools like [5 Second Test](https://fivesecondtest.com/){:target="\_blank"}
+- On-site surveys using tools like [Hotjar](https://www.hotjar.com/){:target="\_blank"} or [Ethnio](https://ethn.io/){:target="\_blank"}.
+- Usability testing using tools like [UserTesting](http://usertesting.com/){:target="\_blank"} or [Try My UI](http://trymyui.com/){:target="\_blank"}
+- Interviews. You can find participates using tools like [Respondent](https://www.respondent.io/){:target="\_blank"} or [User Interviews](https://www.userinterviews.com/){:target="\_blank"}
 
 ## Step 4: Identify ideas to solve & measure if they worked
 
-With all this important data, you’ll begin to develop ideas to address customer needs through your website. Encourage your team to share their ideas using a collaborative ideas tool like [Hypothesis Library](https://hypothesislibrary.com/), so you can consider many ideas and go with the best ones.
+With all this important data, you’ll begin to develop ideas to address customer needs through your website. Encourage your team to share their ideas using a collaborative ideas tool like [Hypothesis Library](https://hypothesislibrary.com/){:target="\_blank"}, so you can consider many ideas and go with the best ones.
 
 Once you decide what to test, you can set up an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> to understand the impact of this change and make a decision on data.
 **Important Tools**
 
-- <a id="how-to-approach-cro"></a>Free A/B Testing: [Google Optimize](https://optimize.withgoogle.com/)
-- Premium A/B Testing: [Optimizely](https://www.optimizely.com/), [AB Tasty](https://www.abtasty.com/), among many others.
+- <a id="how-to-approach-cro"></a>Free A/B Testing: [Google Optimize](https://optimize.withgoogle.com/){:target="\_blank"}
+- Premium A/B Testing: [Optimizely](https://www.optimizely.com/){:target="\_blank"}, [AB Tasty](https://www.abtasty.com/){:target="\_blank"}, among many others.
 
 # How should you approach optimization?
 
@@ -264,7 +264,7 @@ Here are the three key steps:
 - Start with Data: Use data to understand where to focus your optimization. Limit your ideas to improvements to these sections.
 - Build off of Customer Insights: Solve problems your customers have and focus solutions on their needs (not yours).
 - Involve the whole team: Collect ideas from customer service team members, developers, designers, marketers.
-- Practice Creativity: Stay open-minded as you explore test ideas. Don’t eliminate ideas when generating them. Write them down (or better, log them in a tool like [Hypothesis Library](http://hypothesislibrary.com/).
+- Practice Creativity: Stay open-minded as you explore test ideas. Don’t eliminate ideas when generating them. Write them down (or better, log them in a tool like [Hypothesis Library](http://hypothesislibrary.com/){:target="\_blank"}.
   Collect a wide variety of ideas before moving to the next step.
 
 2. Evaluate Ideas
