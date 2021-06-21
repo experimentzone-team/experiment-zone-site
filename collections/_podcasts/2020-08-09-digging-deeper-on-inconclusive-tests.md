@@ -72,12 +72,12 @@ If your usual response to inconclusive test results is to move on to the next ex
 
 - “I think what optimization is all about is being open to challenging what a good idea is.”
 
-<br>
-
 {% include free-consult.html heading="FREE CRO Report"
 subheading="Boosting your site conversion is a click away"
 button_url="https://experimentzone.com/giveaways/report_card/"
 button_text="Click Here" %}
+
+<br>
 
 ## Transcript
 

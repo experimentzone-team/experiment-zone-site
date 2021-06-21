@@ -5,6 +5,7 @@ description: "Unlock additional revenue from the visitors you already have on yo
 icon: "assets/images/services/icons8-web_design.png"
 featured: true
 weight: 1
+header_classes: header-transparent
 ---
 
 We’ll help you unlock additional revenue from visitors already on your site. Our team of CRO experts will assess your current experience and recommend the highest impact tests. We will develop a plan, configure and monitor the test, and provide a final report for each test.

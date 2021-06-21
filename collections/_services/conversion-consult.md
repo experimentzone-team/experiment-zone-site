@@ -5,7 +5,7 @@ description: "Fast, expert advice focused on conversion"
 icon: "assets/images/services/icons8-web_design.png"
 featured: false
 weight: 1
-heroHeight: 400
+heroHeight: 350
 service-list: false
 service-sign-up: true
 calendly-calender:
@@ -13,6 +13,7 @@ calendly-calender:
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>'
 summary-content: "You get one hour 1:1 with a conversion expert. We’ll go over your website to identify issues and suggest changes to fix them, focusing on improving your conversion rate."
 partners: false
+header_classes: header-transparent
 ---
 
 ## Fast, expert advice focused on conversion

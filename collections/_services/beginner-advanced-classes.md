@@ -5,6 +5,7 @@ description: "Level Up Your Skills"
 icon: "assets/images/icons8-school-96.png"
 featured: true
 weight: 4
+header_classes: header-transparent
 ---
 
 **Train your team** on <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization, <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>, user research, and <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a>. These classes are taught in-person or over Zoom for your choice of attendees.

@@ -2,7 +2,7 @@
 layout: post
 title: "What is a Conversion Deep Dive Offered by CRO Agency Experiment Zone?"
 description: "Find out what benefit come from having conversion rate experts reviewing your website and doing a deep dive into your website data to create an expert road map to help your company increase conversion, keep clients happy, and increase sales."
-permalink: video/a-month-with-a-CRO-agency
+permalink: video/what-is-a-conversion-deep-dive
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
@@ -17,7 +17,7 @@ meta_description: "Find out what benefit come from having conversion rate expert
 meta_author: "AJ Davis"
 meta_og_title: "What is a Conversion Deep Dive Offered by CRO Agency Experiment Zone?"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/video/a-month-with-a-CRO-agency"
+meta_og_url: "https://experimentzone.com/video/what-is-a-conversion-deep-dive"
 meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-logo-color.png"
 meta_og_description: "Find out what benefit come from having conversion rate experts reviewing your website and doing a deep dive into your website data to create an expert road map to help your company increase conversion, keep clients happy, and increase sales."
 header_classes: header-transparent
@@ -46,7 +46,7 @@ header_classes: header-transparent
     }
 </style>
 
-<div class="mt-0 mt-md-n20 work work-summary justify-content-center iframe-container">
+<div class="mt-0 mt-md-n14 work work-summary justify-content-center iframe-container">
     <iframe class="video" src="https://www.youtube.com/embed/oJSrhian1CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

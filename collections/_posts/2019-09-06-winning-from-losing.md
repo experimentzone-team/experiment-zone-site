@@ -27,8 +27,6 @@ header_classes: header-transparent
 
 ## How to recover insights and inspiration after an A/B test fails
 
-&nbsp;
-
 No one hits 100% of the shots they take. What matters is your ability to adjust your stance, learn the best way to move about the court, and ultimately improve your game moving forward.
 
 The same is true with <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization (CRO). Too often teams are worried about their win rates and quickly move past a “losing” test without digging in to understand the “why” behind the test. Why did our customers not respond to the new change on the site? Why was our initial intuition off the mark?
@@ -38,8 +36,6 @@ Keep reading to understand how you can explore why an <a class="glossary-word" h
 &nbsp;
 
 ## Capture supporting analytics data
-
-&nbsp;
 
 A robust set of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> data will let you know “what” happened. You may understand:
 
@@ -55,15 +51,11 @@ From this “what,” you can begin to infer the “why.” When you see a decre
 
 ## Visualize customer behavior
 
-&nbsp;
-
 For most tests we run at Experiment Zone, we set up <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> and heatmaps using tools like [Hotjar](https://www.hotjar.com/){:target="\_blank"} and [CrazyEgg](https://www.crazyegg.com/){:target="\_blank"}. With these lightweight tools, we can observe whether visitor behavior changed on the test variant compared to the control. We are also able to see whether or not visitors were scrolling far enough down to even see the changes that were made.
 
 &nbsp;
 
 ## Catch customers in context
-
-&nbsp;
 
 Sometimes you’ll realize that there’s some additional context you need to understand the analytics or <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> data you are capturing in a test. You may want to know whether visitors notice the new elements on the page or why they decide to leave a particular page.
 
@@ -72,8 +64,6 @@ You may consider doing a survey to ask them what they are doing and why. Why are
 &nbsp;
 
 ## Run a usability study
-
-&nbsp;
 
 Sometimes the only way to be sure what’s causing the outcome of an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> is to observe the behavior of visitors in a usability study. A usability study makes sure that a product or page is built to be convenient to use and easy to figure out.
 

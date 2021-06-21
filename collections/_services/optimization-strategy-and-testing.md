@@ -5,13 +5,14 @@ description: " "
 icon: "assets/images/services/icons8-web_design.png"
 featured: false
 weight: 3
-heroHeight: 400
+heroHeight: 350
 service-list: false
 service-sign-up: true
 calendly-calender:
   '<div class="col-12 mt-3 mt-lg-0 mb-3 p-0 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone-1?hide_event_type_details=1&primary_color=6f42b7" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>'
 summary-content: " "
+header_classes: header-transparent
 ---
 
 <style>.page-services-single .content > p:first-of-type {font-size: 1.1rem}</style>

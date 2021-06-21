@@ -5,6 +5,7 @@ description: "Get To Know Your Customers Better"
 icon: "assets/images/services/icons8-google_analytics_logo.png"
 featured: true
 weight: 2
+header_classes: header-transparent
 ---
 
 We’ll help you understand your customers and how they are interacting with your site. Our team of analysts and user researchers will dig into your customers’ behavior, so you can uncover actionable and valuable insights.

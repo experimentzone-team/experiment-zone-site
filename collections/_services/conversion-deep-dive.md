@@ -5,13 +5,14 @@ description: "Boost your sales, leads, revenues and ROI"
 icon: "assets/images/services/icons8-web_design.png"
 featured: false
 weight: 1
-heroHeight: 400
+heroHeight: 350
 service-list: false
 service-sign-up: true
 calendly-calender:
   '<div class="col-12 mt-3 mt-lg-0 mb-3 p-0 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone?hide_event_type_details=1&primary_color=6f42b7" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>'
 summary-content: "Let our proven technics increase the percentage of visitors who take desired actions on your landing pages, website, and campaigns."
+header_classes: header-transparent
 ---
 
 ## Data-backed conversion insights
