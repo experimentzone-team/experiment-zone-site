@@ -46,7 +46,7 @@ header_classes: header-transparent
     }
 </style>
 
-<div class="mt-0 mt-md-n20 work work-summary justify-content-center iframe-container">
+<div class="mt-0 mt-md-n14 work work-summary justify-content-center iframe-container">
     <iframe class="video" src="https://www.youtube.com/embed/Z2Yti2PHrFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
