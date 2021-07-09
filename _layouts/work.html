@@ -15,7 +15,7 @@ diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill
 %}
 
-<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+<div class="container pt-4 pt-md-10 pb-2 pb-md-4">
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="work work-single">
@@ -36,3 +36,11 @@ diagonalfill=page.heroDiagonalFill
     {% endif %}
   </div>
 </div>
+
+{% include footer-diagonal-white.html %}
+{% include contact-cta.html
+  heading=site.params.contact_cta.heading
+  subheading=site.params.contact_cta.subheading
+  button_url=site.params.contact_cta.button_url
+  button_text=site.params.contact_cta.button_text
+  %}
